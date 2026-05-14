@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write  # needed to commit the report back
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # opt-in to Node 24 before June 2026 forced cutover
+
 concurrency:
   group: daily-report
   cancel-in-progress: false
