@@ -7,7 +7,8 @@ from datetime import datetime
 import os
 import config
 from data_fetcher import fetch_all_data
-from portfolio import gen_portfolio_section
+from portfolio import (gen_portfolio_section, load_portfolio, get_usdcad,
+                       compute_positions, compute_actions, build_scores)
 
 
 def fmt_mc(mc):
@@ -446,6 +447,121 @@ def gen_summary_table(stocks):
     return "\n".join(rows) + "\n\n"
 
 
+def gen_executive_summary(stocks: dict, macro: dict) -> str:
+    """One-page TL;DR for the top of the report."""
+    today = datetime.now().strftime("%Y-%m-%d")
+    scores = build_scores(stocks)
+
+    # Portfolio snapshot
+    rows = load_portfolio()
+    usdcad = get_usdcad()
+    pstate = compute_positions(rows, stocks, usdcad)
+    has_positions = any(p["shares"] > 0 for p in pstate["positions"])
+    actions = compute_actions(pstate, stocks, scores) if has_positions else []
+
+    # Score buckets
+    buy_high = sorted(
+        [(t, s["score"], stocks[t].get("price", {}).get("price"))
+         for t, s in scores.items() if s["score"] >= 3 and t in config.PORTFOLIO_TARGETS],
+        key=lambda x: -x[1])
+    sell_signals = sorted(
+        [(t, s["score"], s["label"])
+         for t, s in scores.items() if s["score"] <= -1 and t in config.PORTFOLIO_TARGETS],
+        key=lambda x: x[1])
+
+    # Macro regime
+    vix = (macro.get("vix") or {}).get("value", "N/A")
+    ten_y = (macro.get("10y_treasury") or {}).get("value", "N/A")
+    fed = (macro.get("fed_funds_rate") or {}).get("value", "N/A")
+    try:
+        vix_f = float(vix)
+        regime = "Risk-On" if vix_f < 18 else ("Caution" if vix_f < 25 else "Risk-Off")
+    except (ValueError, TypeError):
+        regime = "N/A"
+
+    # Upcoming earnings (next 5 calendar days) — for portfolio names only
+    today_dt = datetime.now()
+    upcoming = []
+    for tk in config.PORTFOLIO_TARGETS:
+        e = stocks.get(tk, {}).get("earnings", {})
+        ed = e.get("earnings_date", "N/A")
+        if ed and ed != "N/A":
+            try:
+                # earnings_date is sometimes "2026-05-20 00:00:00" or just date
+                dt = datetime.strptime(str(ed)[:10], "%Y-%m-%d")
+                days = (dt - today_dt).days
+                if 0 <= days <= 5:
+                    upcoming.append((tk, ed[:10], days))
+            except Exception:
+                pass
+    upcoming.sort(key=lambda x: x[2])
+
+    # Build the page
+    md = f"""# Daily Tech Stock Research — Executive Summary
+
+**Date:** {today}  |  **Market Regime:** {regime}  |  **USD/CAD:** {usdcad:.4f}
+
+## Market Snapshot
+
+| VIX | 10Y Treasury | Fed Funds |
+|---|---|---|
+| {vix} | {ten_y}% | {fed}% |
+
+## Portfolio
+"""
+    if has_positions:
+        pnl_sign = "+" if pstate["total_pnl_cad"] >= 0 else ""
+        md += (f"**Value:** ${pstate['total_value_cad']:,.0f} CAD  |  "
+               f"**P&L:** {pnl_sign}${pstate['total_pnl_cad']:,.0f} CAD "
+               f"({pnl_sign}{pstate['total_pnl_pct']:.2f}%)  |  "
+               f"**Cash:** ${pstate['cash_cad']:,.0f} CAD ({pstate['cash_actual_weight']*100:.1f}%)\n\n")
+    else:
+        md += "*Portfolio not yet opened. See Portfolio Management section for initial buy plan.*\n\n"
+
+    md += "## Today's Top Actions\n\n"
+    if actions:
+        md += "| Ticker | Action |\n|---|---|\n"
+        for tk, msg in actions[:5]:
+            md += f"| **{tk}** | {msg} |\n"
+        md += "\n"
+    elif not has_positions:
+        md += "*Open initial positions per the buy plan below.*\n\n"
+    else:
+        md += "*No actions today — holdings aligned with signals.*\n\n"
+
+    md += "## Top BUY Signals (held names)\n\n"
+    if buy_high:
+        md += "| Ticker | Price (USD) | Score | Signal |\n|---|---|---|---|\n"
+        for t, sc, px in buy_high[:6]:
+            px_str = f"${px:.2f}" if px else "N/A"
+            md += f"| {t} | {px_str} | {sc} | BUY High |\n"
+        md += "\n"
+    else:
+        md += "*No BUY High signals among portfolio names today.*\n\n"
+
+    md += "## Watch List (Trim / Sell signals)\n\n"
+    if sell_signals:
+        md += "| Ticker | Score | Signal |\n|---|---|---|\n"
+        for t, sc, lbl in sell_signals[:5]:
+            md += f"| {t} | {sc} | {lbl} |\n"
+        md += "\n"
+    else:
+        md += "*No sell signals among portfolio names.*\n\n"
+
+    md += "## Earnings in Next 5 Days\n\n"
+    if upcoming:
+        md += "| Ticker | Earnings Date | Days |\n|---|---|---|\n"
+        for tk, ed, days in upcoming:
+            md += f"| {tk} | {ed} | {days} |\n"
+        md += "\n*Avoid opening new positions in these names until after the report.*\n\n"
+    else:
+        md += "*No portfolio names report earnings in the next 5 days.*\n\n"
+
+    # Force page break in PDF; harmless in markdown viewers.
+    md += '<div style="page-break-after: always;"></div>\n\n'
+    return md
+
+
 def generate_report(all_data: dict) -> str:
     stocks = all_data.get("stocks", all_data)
     macro = all_data.get("macro", {})
@@ -454,7 +570,10 @@ def generate_report(all_data: dict) -> str:
     today = datetime.now().strftime("%Y-%m-%d")
     sources, missing = api_status()
 
-    report = f"""# Daily Tech Stock Research Report — {today}
+    # === Page 1: Executive Summary ===
+    report = gen_executive_summary(stocks, macro)
+
+    report += f"""# Daily Tech Stock Research Report — {today}
 
 **Generated:** {today} {datetime.now().strftime("%H:%M")} ET | **Pipeline:** Automated
 

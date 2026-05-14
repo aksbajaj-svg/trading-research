@@ -86,7 +86,7 @@ def markdown_to_pdf(md_path: str, pdf_path: str) -> str:
 
     html_body = markdown.markdown(
         md_text,
-        extensions=["tables", "fenced_code", "sane_lists", "toc"],
+        extensions=["tables", "fenced_code", "sane_lists", "toc", "md_in_html"],
     )
     html_doc = f"<!DOCTYPE html><html><head><meta charset='utf-8'></head><body>{html_body}</body></html>"
 
