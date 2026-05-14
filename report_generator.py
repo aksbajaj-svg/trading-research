@@ -557,6 +557,22 @@ def gen_executive_summary(stocks: dict, macro: dict) -> str:
     else:
         md += "*No portfolio names report earnings in the next 5 days.*\n\n"
 
+    md += "## Table of Contents\n\n"
+    md += (
+        "1. [Executive Summary](#daily-tech-stock-research--executive-summary)\n"
+        "2. [Glossary of Key Terms](#0-glossary-of-key-terms)\n"
+        "3. [Individual Stock Analysis](#1-individual-stock-analysis)\n"
+        "4. [Technical Analysis Dashboard](#2-technical-analysis-dashboard)\n"
+        "5. [Options Flow & Implied Volatility](#3-options-flow--implied-volatility)\n"
+        "6. [Insider Trading Activity](#4-insider-trading-activity)\n"
+        "7. [Earnings Calendar](#5-earnings-calendar)\n"
+        "8. [Macro Risk Factors](#6-macro-risk-factors)\n"
+        "9. [Valuation Multiples Comparison](#7-valuation-multiples-comparison)\n"
+        "10. [Correlation & Portfolio Risk](#8-correlation--portfolio-risk)\n"
+        "11. [Summary & Recommendations](#9-summary--recommendations)\n"
+        "12. [Portfolio Management](#portfolio-management-10k-cad-target)\n\n"
+    )
+
     # Force page break in PDF; harmless in markdown viewers.
     md += '<div style="page-break-after: always;"></div>\n\n'
     return md

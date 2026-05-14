@@ -1,12 +1,12 @@
 # Daily Tech Stock Research — Executive Summary
 
-**Date:** 2026-05-14  |  **Market Regime:** Risk-On  |  **USD/CAD:** 1.3726
+**Date:** 2026-05-14  |  **Market Regime:** Risk-On  |  **USD/CAD:** 1.3723
 
 ## Market Snapshot
 
 | VIX | 10Y Treasury | Fed Funds |
 |---|---|---|
-| 17.87 | N/A% | 3.64% |
+| 17.87 | N/A% | N/A% |
 
 ## Portfolio
 *Portfolio not yet opened. See Portfolio Management section for initial buy plan.*
@@ -19,12 +19,12 @@
 
 | Ticker | Price (USD) | Score | Signal |
 |---|---|---|---|
-| META | $623.41 | 5 | BUY High |
-| AVGO | $436.04 | 5 | BUY High |
-| LLY | $1007.64 | 5 | BUY High |
-| TSM | $418.57 | 5 | BUY High |
-| NVDA | $235.15 | 4 | BUY High |
-| MSFT | $409.36 | 4 | BUY High |
+| META | $622.93 | 5 | BUY High |
+| AVGO | $435.79 | 5 | BUY High |
+| LLY | $1006.89 | 5 | BUY High |
+| TSM | $418.99 | 5 | BUY High |
+| AMZN | $268.47 | 4 | BUY High |
+| NVDA | $235.37 | 4 | BUY High |
 
 ## Watch List (Trim / Sell signals)
 
@@ -38,11 +38,26 @@
 
 *Avoid opening new positions in these names until after the report.*
 
+## Table of Contents
+
+1. [Executive Summary](#daily-tech-stock-research--executive-summary)
+2. [Glossary of Key Terms](#0-glossary-of-key-terms)
+3. [Individual Stock Analysis](#1-individual-stock-analysis)
+4. [Technical Analysis Dashboard](#2-technical-analysis-dashboard)
+5. [Options Flow & Implied Volatility](#3-options-flow--implied-volatility)
+6. [Insider Trading Activity](#4-insider-trading-activity)
+7. [Earnings Calendar](#5-earnings-calendar)
+8. [Macro Risk Factors](#6-macro-risk-factors)
+9. [Valuation Multiples Comparison](#7-valuation-multiples-comparison)
+10. [Correlation & Portfolio Risk](#8-correlation--portfolio-risk)
+11. [Summary & Recommendations](#9-summary--recommendations)
+12. [Portfolio Management](#portfolio-management-10k-cad-target)
+
 <div style="page-break-after: always;"></div>
 
 # Daily Tech Stock Research Report — 2026-05-14
 
-**Generated:** 2026-05-14 10:08 ET | **Pipeline:** Automated
+**Generated:** 2026-05-14 10:10 ET | **Pipeline:** Automated
 
 ### Data Sources Connected
 - yfinance (prices, fundamentals, options, earnings)
@@ -106,23 +121,10 @@
 ---
 ## 1. Individual Stock Analysis
 
-### GLW — Corning Incorporated | $207.87 (+0.66%)
-- **Market Cap:** $178.9B | **P/E:** 99.46 | **Fwd P/E:** 49.22 | **P/S:** 10.96 | **PEG:** 1.55 | **Beta:** 1.14
-- **52-Week Range:** $46.84 – $211.79
-- **RSI:** 70.3 (Overbought) | **MACD:** Buy | **ADX:** 31.7 (Strong trend) | **Stoch:** 93.8/89.3
-- **Bollinger:** $140 – $210 (mid $175) | **ATR:** $12.49 | **OBV:** Rising
-- **Outlook:** Bullish but extended
-- **Next Earnings:** 2026-07-28
-- **Analyst Consensus:** 6 Strong Buy, 8 Buy, 7 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Ciena Up 90% in 3 Months: Should Investors Still Buy the Stock?](https://finnhub.io/api/news?id=6da131a4123463524f52d9cf03d8d7222fd203cd40cca0777d97c61cef9f5c32) (Yahoo, 2026-05-14)
-  - [Cisco, Intel, and Corning Are Hitting New Highs. Is a 2000-Style Crash Next?](https://finnhub.io/api/news?id=a607e238fb24b8e28cb757324c06ba98f59d453d1bc9bac859ad89ffbf872f9d) (Yahoo, 2026-05-14)
-  - [30,000 Truckloads. Nvidia CEO Jensen Huang Calls AI Infrastructure Buildout the Largest in Human History. Manufacturing Stocks Could Rally for Decades.](https://finnhub.io/api/news?id=7cd35e97752fdfd848d8efc4141a5ee77f7e8cb0516606da23034e8924277142) (Yahoo, 2026-05-14)
-
-### TSLA — Tesla, Inc. | $450.79 (+1.24%)
-- **Market Cap:** $1.69T | **P/E:** 421.30 | **Fwd P/E:** 179.31 | **P/S:** 17.30 | **PEG:** 5.97 | **Beta:** 1.79
+### TSLA — Tesla, Inc. | $450.58 (+1.19%)
+- **Market Cap:** $1.69T | **P/E:** 421.10 | **Fwd P/E:** 179.23 | **P/S:** 17.29 | **PEG:** 5.97 | **Beta:** 1.79
 - **52-Week Range:** $273.21 – $498.83
-- **RSI:** 71.5 (Overbought) | **MACD:** Buy | **ADX:** 26.2 (Strong trend) | **Stoch:** 97.1/89.8
+- **RSI:** 71.5 (Overbought) | **MACD:** Buy | **ADX:** 26.2 (Strong trend) | **Stoch:** 96.8/89.8
 - **Bollinger:** $350 – $451 (mid $401) | **ATR:** $16.79 | **OBV:** Rising
 - **Outlook:** Bullish but extended
 - **Next Earnings:** 2026-07-22
@@ -132,62 +134,10 @@
   - [Ford Stock Is Ripping Again. Suddenly, It’s a AI Data Center Stock.](https://finnhub.io/api/news?id=dea95c63b238d20dd5040116a16bcfaf0d7327021bfa1795268ea48e6502be93) (Yahoo, 2026-05-14)
   - [Ford Zooms 8% Higher, Easily Outpaces General Motors and Tesla](https://finnhub.io/api/news?id=8737ce4cc1e42f89a054ba0b60ca4a66e310ecb6ab5134d78a620e16623ce073) (Yahoo, 2026-05-14)
 
-### GOOGL — Alphabet Inc. | $401.16 (-0.36%)
-- **Market Cap:** $4.86T | **P/E:** 30.55 | **Fwd P/E:** 27.73 | **P/S:** 11.50 | **PEG:** 1.53 | **Beta:** 1.27
-- **52-Week Range:** $162.00 – $403.70
-- **RSI:** 74.2 (Overbought) | **MACD:** Buy | **ADX:** 48.8 (Strong trend) | **Stoch:** 95.8/90.8
-- **Bollinger:** $319 – $422 (mid $370) | **ATR:** $9.83 | **OBV:** Falling
-- **Outlook:** Bullish but extended
-- **Next Earnings:** 2026-07-23
-- **Analyst Consensus:** 21 Strong Buy, 41 Buy, 8 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside](https://finnhub.io/api/news?id=572a6c3dd136a4f4c0aae3d443beaed37ecc1cc1260d3fdb4e603e5390987079) (Yahoo, 2026-05-14)
-  - [Alphabet vs. Micron Technology: Which Is the Best AI Play Right Now?](https://finnhub.io/api/news?id=c50af81ecdb42c66d31248b1af5ea058f611148782fd4d90041aa7baf411625d) (Yahoo, 2026-05-14)
-  - [Wells Fargo Just Hiked Broadcom Price Target to $545: AI Semi Revenue Running 30-40% Higher Than Expected](https://finnhub.io/api/news?id=d947b8d041eaa4936fa4bedde1203247874e43ede4c8ce49e765857eeb6df39f) (Yahoo, 2026-05-14)
-
-### NVDA — NVIDIA Corporation | $235.15 (+4.12%)
-- **Market Cap:** $5.70T | **P/E:** 47.99 | **Fwd P/E:** 20.68 | **P/S:** 26.37 | **PEG:** 0.70 | **Beta:** 2.24
-- **52-Week Range:** $129.16 – $236.47
-- **RSI:** 76.5 (Overbought) | **MACD:** Buy | **ADX:** 30.3 (Strong trend) | **Stoch:** 96.8/93.5
-- **Bollinger:** $189 – $230 (mid $209) | **ATR:** $7.18 | **OBV:** Rising
-- **Outlook:** Bullish but extended
-- **Next Earnings:** 2026-05-20
-- **Analyst Consensus:** 24 Strong Buy, 42 Buy, 4 Hold, 1 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Why Cerebras AI chips stand out in the Nvidia-dominated market](https://finnhub.io/api/news?id=aa7c0a2487a1d89b2a158e6f17276a9a7cb2e0390a53d3451f76787345780efb) (Yahoo, 2026-05-14)
-  - [Nvidia vs Sandisk: Which Soaring Tech Stock Is the Better Buy Today?](https://finnhub.io/api/news?id=faedd1034fd4710494a36c092c62422413b00894688cd948d9116a321103b3c0) (Yahoo, 2026-05-14)
-  - [Consumer Sentiment Just Crashed Below the Recession Threshold. These 3 Defensive Stocks Under $25 Are Built for What Comes Next](https://finnhub.io/api/news?id=b8eaed1178b5daef8b13fd005001e0087b6090e6a425441bb1e17fa932bc101b) (Yahoo, 2026-05-14)
-
-### MSFT — Microsoft Corporation | $409.36 (+1.02%)
-- **Market Cap:** $3.04T | **P/E:** 24.40 | **Fwd P/E:** 21.15 | **P/S:** 9.55 | **PEG:** 1.26 | **Beta:** 1.09
-- **52-Week Range:** $356.28 – $555.45
-- **RSI:** 50.3 (Neutral) | **MACD:** Sell | **ADX:** 16.2 (Weak trend) | **Stoch:** 35.6/29.6
-- **Bollinger:** $402 – $432 (mid $417) | **ATR:** $10.47 | **OBV:** Falling
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-07-29
-- **Analyst Consensus:** 24 Strong Buy, 36 Buy, 6 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Retail investors make a surprising move on Palantir, Microsoft, and other software stocks](https://finnhub.io/api/news?id=96f349de85fb345dd9e811f4950539580f14ca835e29c420a3f1a5eda25c0bd2) (Yahoo, 2026-05-14)
-  - [Microsoft Is Down 25% From Its High While the Nasdaq Blasts Off. Burry and Ives Say That Is the Opportunity](https://finnhub.io/api/news?id=7d471b806542bd0f561dbc359182bb35b74d927ea47c037e74381c095486ac9d) (Yahoo, 2026-05-14)
-  - [Jeremy Grantham's Strategic Moves: A Closer Look at Wells Fargo & Co](https://finnhub.io/api/news?id=7f188d750ef735c2fee10cdf6aa583ad1ed94421a7f11c67b74d1c2e356cedc2) (Yahoo, 2026-05-14)
-
-### AMZN — Amazon.com, Inc. | $268.53 (-0.59%)
-- **Market Cap:** $2.89T | **P/E:** 32.16 | **Fwd P/E:** 27.20 | **P/S:** 3.89 | **PEG:** 1.85 | **Beta:** 1.47
-- **52-Week Range:** $196.00 – $278.56
-- **RSI:** 64.8 (Mod. Bullish) | **MACD:** Sell | **ADX:** 40.3 (Strong trend) | **Stoch:** 55.2/55.9
-- **Bollinger:** $248 – $280 (mid $264) | **ATR:** $6.65 | **OBV:** Falling
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-07-30
-- **Analyst Consensus:** 22 Strong Buy, 50 Buy, 6 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside](https://finnhub.io/api/news?id=572a6c3dd136a4f4c0aae3d443beaed37ecc1cc1260d3fdb4e603e5390987079) (Yahoo, 2026-05-14)
-  - [JPMorgan Doubles Down on Netflix: $118 Price Target on Path to Becoming Global TV](https://finnhub.io/api/news?id=c1655ed99f8ad7b93c02c02d34c93126796ea5679def854140219f31fd41f6b9) (Yahoo, 2026-05-14)
-  - [Former Amazon, Meta Scientists Unveil Graphon AI, the First Pre-Model Intelligence Layer, with $8.3M in Seed Funding](https://finnhub.io/api/news?id=8e33f643d99d56a304ecfeeac551dcee7bab9b256b0acf2f69ce2fe6c90578e5) (Yahoo, 2026-05-14)
-
-### AAPL — Apple Inc. | $299.05 (+0.06%)
-- **Market Cap:** $4.39T | **P/E:** 36.25 | **Fwd P/E:** 31.25 | **P/S:** 9.73 | **PEG:** 2.58 | **Beta:** 1.06
+### AAPL — Apple Inc. | $298.83 (-0.01%)
+- **Market Cap:** $4.39T | **P/E:** 36.22 | **Fwd P/E:** 31.22 | **P/S:** 9.72 | **PEG:** 2.58 | **Beta:** 1.06
 - **52-Week Range:** $193.46 – $300.92
-- **RSI:** 76.1 (Overbought) | **MACD:** Buy | **ADX:** 27.7 (Strong trend) | **Stoch:** 94.8/95.9
+- **RSI:** 75.9 (Overbought) | **MACD:** Buy | **ADX:** 27.7 (Strong trend) | **Stoch:** 94.2/95.7
 - **Bollinger:** $258 – $302 (mid $280) | **ATR:** $6.13 | **OBV:** Rising
 - **Outlook:** Bullish but extended
 - **Next Earnings:** 2026-07-30
@@ -197,11 +147,37 @@
   - [Evercore ISI Hikes Apple Price Target to $365: Bull Case Now $500 on Services Compounding](https://finnhub.io/api/news?id=96270efbc28f08283fcbe0ef4135a5ad5dc764bdb79649b3f816bfad45ab10f4) (Yahoo, 2026-05-14)
   - [Just How Important Is Taiwan? About $30 Trillion Important.](https://finnhub.io/api/news?id=bffbb09b64b00d249ebe32ed5f9a6db427adc7e9edb7678e51474536d7d64092) (Yahoo, 2026-05-14)
 
-### META — Meta Platforms, Inc. | $623.41 (+1.1%)
-- **Market Cap:** $1.58T | **P/E:** 22.67 | **Fwd P/E:** 17.23 | **P/S:** 7.36 | **PEG:** 0.88 | **Beta:** 1.24
+### AMZN — Amazon.com, Inc. | $268.47 (-0.61%)
+- **Market Cap:** $2.89T | **P/E:** 32.15 | **Fwd P/E:** 27.20 | **P/S:** 3.89 | **PEG:** 1.85 | **Beta:** 1.47
+- **52-Week Range:** $196.00 – $278.56
+- **RSI:** 64.7 (Mod. Bullish) | **MACD:** Sell | **ADX:** 40.3 (Strong trend) | **Stoch:** 55.0/55.8
+- **Bollinger:** $248 – $280 (mid $264) | **ATR:** $6.65 | **OBV:** Falling
+- **Outlook:** Bullish
+- **Next Earnings:** 2026-07-30
+- **Analyst Consensus:** 22 Strong Buy, 50 Buy, 6 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside](https://finnhub.io/api/news?id=572a6c3dd136a4f4c0aae3d443beaed37ecc1cc1260d3fdb4e603e5390987079) (Yahoo, 2026-05-14)
+  - [JPMorgan Doubles Down on Netflix: $118 Price Target on Path to Becoming Global TV](https://finnhub.io/api/news?id=c1655ed99f8ad7b93c02c02d34c93126796ea5679def854140219f31fd41f6b9) (Yahoo, 2026-05-14)
+  - [Former Amazon, Meta Scientists Unveil Graphon AI, the First Pre-Model Intelligence Layer, with $8.3M in Seed Funding](https://finnhub.io/api/news?id=8e33f643d99d56a304ecfeeac551dcee7bab9b256b0acf2f69ce2fe6c90578e5) (Yahoo, 2026-05-14)
+
+### GLW — Corning Incorporated | $208.48 (+0.95%)
+- **Market Cap:** $179.4B | **P/E:** 99.74 | **Fwd P/E:** 49.35 | **P/S:** 10.99 | **PEG:** 1.55 | **Beta:** 1.14
+- **52-Week Range:** $46.84 – $211.79
+- **RSI:** 70.5 (Overbought) | **MACD:** Buy | **ADX:** 31.7 (Strong trend) | **Stoch:** 94.8/89.6
+- **Bollinger:** $140 – $210 (mid $175) | **ATR:** $12.49 | **OBV:** Rising
+- **Outlook:** Bullish but extended
+- **Next Earnings:** 2026-07-28
+- **Analyst Consensus:** 6 Strong Buy, 8 Buy, 7 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Ciena Up 90% in 3 Months: Should Investors Still Buy the Stock?](https://finnhub.io/api/news?id=6da131a4123463524f52d9cf03d8d7222fd203cd40cca0777d97c61cef9f5c32) (Yahoo, 2026-05-14)
+  - [Cisco, Intel, and Corning Are Hitting New Highs. Is a 2000-Style Crash Next?](https://finnhub.io/api/news?id=a607e238fb24b8e28cb757324c06ba98f59d453d1bc9bac859ad89ffbf872f9d) (Yahoo, 2026-05-14)
+  - [30,000 Truckloads. Nvidia CEO Jensen Huang Calls AI Infrastructure Buildout the Largest in Human History. Manufacturing Stocks Could Rally for Decades.](https://finnhub.io/api/news?id=7cd35e97752fdfd848d8efc4141a5ee77f7e8cb0516606da23034e8924277142) (Yahoo, 2026-05-14)
+
+### META — Meta Platforms, Inc. | $622.93 (+1.02%)
+- **Market Cap:** $1.58T | **P/E:** 22.65 | **Fwd P/E:** 17.21 | **P/S:** 7.36 | **PEG:** 0.88 | **Beta:** 1.24
 - **52-Week Range:** $520.26 – $796.25
-- **RSI:** 48.9 (Neutral) | **MACD:** Sell | **ADX:** 21.2 (Weak trend) | **Stoch:** 34.3/24.2
-- **Bollinger:** $575 – $702 (mid $639) | **ATR:** $17.43 | **OBV:** Rising
+- **RSI:** 48.8 (Neutral) | **MACD:** Sell | **ADX:** 21.2 (Weak trend) | **Stoch:** 33.7/24.0
+- **Bollinger:** $575 – $702 (mid $639) | **ATR:** $17.44 | **OBV:** Rising
 - **Outlook:** Mixed / Transitioning
 - **Next Earnings:** 2026-07-29
 - **Analyst Consensus:** 24 Strong Buy, 40 Buy, 9 Hold, 0 Sell, 0 Strong Sell
@@ -210,10 +186,49 @@
   - [Wells Fargo Just Hiked Broadcom Price Target to $545: AI Semi Revenue Running 30-40% Higher Than Expected](https://finnhub.io/api/news?id=d947b8d041eaa4936fa4bedde1203247874e43ede4c8ce49e765857eeb6df39f) (Yahoo, 2026-05-14)
   - [Cerebras Looks Set to Open at $330 a Share, Nearly Double Its IPO Price](https://finnhub.io/api/news?id=d56803306bb4a9c3fdd6815cf686fc0bb4dee9da953420d4f05bc721ede1bf92) (Yahoo, 2026-05-14)
 
-### ADBE — Adobe Inc. | $236.48 (+0.17%)
-- **Market Cap:** $95.6B | **P/E:** 13.78 | **Fwd P/E:** 8.96 | **P/S:** 3.91 | **PEG:** 0.68 | **Beta:** 1.42
+### NVDA — NVIDIA Corporation | $235.37 (+4.22%)
+- **Market Cap:** $5.70T | **P/E:** 48.03 | **Fwd P/E:** 20.70 | **P/S:** 26.40 | **PEG:** 0.70 | **Beta:** 2.24
+- **52-Week Range:** $129.16 – $236.47
+- **RSI:** 76.6 (Overbought) | **MACD:** Buy | **ADX:** 30.3 (Strong trend) | **Stoch:** 97.4/93.7
+- **Bollinger:** $188 – $230 (mid $209) | **ATR:** $7.18 | **OBV:** Rising
+- **Outlook:** Bullish but extended
+- **Next Earnings:** 2026-05-20
+- **Analyst Consensus:** 24 Strong Buy, 42 Buy, 4 Hold, 1 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Why Cerebras AI chips stand out in the Nvidia-dominated market](https://finnhub.io/api/news?id=aa7c0a2487a1d89b2a158e6f17276a9a7cb2e0390a53d3451f76787345780efb) (Yahoo, 2026-05-14)
+  - [Nvidia vs Sandisk: Which Soaring Tech Stock Is the Better Buy Today?](https://finnhub.io/api/news?id=faedd1034fd4710494a36c092c62422413b00894688cd948d9116a321103b3c0) (Yahoo, 2026-05-14)
+  - [Consumer Sentiment Just Crashed Below the Recession Threshold. These 3 Defensive Stocks Under $25 Are Built for What Comes Next](https://finnhub.io/api/news?id=b8eaed1178b5daef8b13fd005001e0087b6090e6a425441bb1e17fa932bc101b) (Yahoo, 2026-05-14)
+
+### GOOGL — Alphabet Inc. | $401.0 (-0.4%)
+- **Market Cap:** $4.86T | **P/E:** 30.54 | **Fwd P/E:** 27.73 | **P/S:** 11.50 | **PEG:** 1.53 | **Beta:** 1.27
+- **52-Week Range:** $162.00 – $403.70
+- **RSI:** 74.1 (Overbought) | **MACD:** Buy | **ADX:** 48.8 (Strong trend) | **Stoch:** 95.6/90.7
+- **Bollinger:** $319 – $422 (mid $370) | **ATR:** $9.83 | **OBV:** Falling
+- **Outlook:** Bullish but extended
+- **Next Earnings:** 2026-07-23
+- **Analyst Consensus:** 21 Strong Buy, 41 Buy, 8 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside](https://finnhub.io/api/news?id=572a6c3dd136a4f4c0aae3d443beaed37ecc1cc1260d3fdb4e603e5390987079) (Yahoo, 2026-05-14)
+  - [Alphabet vs. Micron Technology: Which Is the Best AI Play Right Now?](https://finnhub.io/api/news?id=c50af81ecdb42c66d31248b1af5ea058f611148782fd4d90041aa7baf411625d) (Yahoo, 2026-05-14)
+  - [Wells Fargo Just Hiked Broadcom Price Target to $545: AI Semi Revenue Running 30-40% Higher Than Expected](https://finnhub.io/api/news?id=d947b8d041eaa4936fa4bedde1203247874e43ede4c8ce49e765857eeb6df39f) (Yahoo, 2026-05-14)
+
+### MSFT — Microsoft Corporation | $408.87 (+0.9%)
+- **Market Cap:** $3.04T | **P/E:** 24.37 | **Fwd P/E:** 21.13 | **P/S:** 9.54 | **PEG:** 1.26 | **Beta:** 1.09
+- **52-Week Range:** $356.28 – $555.45
+- **RSI:** 49.9 (Neutral) | **MACD:** Sell | **ADX:** 16.2 (Weak trend) | **Stoch:** 34.0/29.1
+- **Bollinger:** $402 – $432 (mid $417) | **ATR:** $10.47 | **OBV:** Falling
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-07-29
+- **Analyst Consensus:** 24 Strong Buy, 36 Buy, 6 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Retail investors make a surprising move on Palantir, Microsoft, and other software stocks](https://finnhub.io/api/news?id=96f349de85fb345dd9e811f4950539580f14ca835e29c420a3f1a5eda25c0bd2) (Yahoo, 2026-05-14)
+  - [Microsoft Is Down 25% From Its High While the Nasdaq Blasts Off. Burry and Ives Say That Is the Opportunity](https://finnhub.io/api/news?id=7d471b806542bd0f561dbc359182bb35b74d927ea47c037e74381c095486ac9d) (Yahoo, 2026-05-14)
+  - [Jeremy Grantham's Strategic Moves: A Closer Look at Wells Fargo & Co](https://finnhub.io/api/news?id=7f188d750ef735c2fee10cdf6aa583ad1ed94421a7f11c67b74d1c2e356cedc2) (Yahoo, 2026-05-14)
+
+### ADBE — Adobe Inc. | $236.31 (+0.1%)
+- **Market Cap:** $95.5B | **P/E:** 13.77 | **Fwd P/E:** 8.96 | **P/S:** 3.91 | **PEG:** 0.68 | **Beta:** 1.42
 - **52-Week Range:** $224.13 – $422.95
-- **RSI:** 41.9 (Neutral) | **MACD:** Sell | **ADX:** 15.0 (Weak trend) | **Stoch:** 17.1/19.1
+- **RSI:** 41.8 (Neutral) | **MACD:** Sell | **ADX:** 15.0 (Weak trend) | **Stoch:** 16.5/18.9
 - **Bollinger:** $234 – $259 (mid $247) | **ATR:** $8.90 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-06-11
@@ -223,8 +238,34 @@
   - [Why Adobe (ADBE) Shares Are Sliding Today](https://finnhub.io/api/news?id=236e3fd289f3f37782829a35b2d2fe3edf5b21001d5db14676fde9684780b6e6) (Yahoo, 2026-05-14)
   - [Latest News In E-Commerce - Revolutionizing Logistics With Vision-Language-Action AI Systems](https://finnhub.io/api/news?id=c6c5c3f6a99633833f854b700fa96bc0f485bd4e9924b20263f34eba5858862f) (Yahoo, 2026-05-14)
 
+### AVGO — Broadcom Inc. | $435.79 (+4.56%)
+- **Market Cap:** $2.06T | **P/E:** 84.95 | **Fwd P/E:** 23.94 | **P/S:** 30.22 | **PEG:** 0.91 | **Beta:** 1.44
+- **52-Week Range:** $221.60 – $439.73
+- **RSI:** 65.0 (Mod. Bullish) | **MACD:** Sell | **ADX:** 26.9 (Strong trend) | **Stoch:** 91.3/66.7
+- **Bollinger:** $397 – $437 (mid $417) | **ATR:** $15.41 | **OBV:** Falling
+- **Outlook:** Bullish
+- **Next Earnings:** 2026-06-03
+- **Analyst Consensus:** 17 Strong Buy, 36 Buy, 4 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Wells Fargo Just Hiked Broadcom Price Target to $545: AI Semi Revenue Running 30-40% Higher Than Expected](https://finnhub.io/api/news?id=d947b8d041eaa4936fa4bedde1203247874e43ede4c8ce49e765857eeb6df39f) (Yahoo, 2026-05-14)
+  - [Will Credo's Balance Sheet Power the Next Phase of AI Expansion?](https://finnhub.io/api/news?id=9b656d9b1a02d3fe2167b0da234a81192fcba26490b30c37d53ca8a428b7fea6) (Yahoo, 2026-05-14)
+  - [Are Computer and Technology Stocks Lagging  Broadcom (AVGO) This Year?](https://finnhub.io/api/news?id=69989940a3186ae4d755a610f642e8f0469f13abd940b03f3847a850798da6ac) (Yahoo, 2026-05-14)
+
+### INTC — Intel Corporation | $116.23 (-3.38%)
+- **Market Cap:** $584.2B | **P/E:** 75.75 | **Fwd P/E:** 75.75 | **P/S:** 10.87 | **PEG:** 1.36 | **Beta:** 2.19
+- **52-Week Range:** $18.97 – $132.75
+- **RSI:** 70.0 (Overbought) | **MACD:** Buy | **ADX:** 62.1 (Strong trend) | **Stoch:** 68.2/75.6
+- **Bollinger:** $53 – $138 (mid $96) | **ATR:** $7.48 | **OBV:** Falling
+- **Outlook:** Bullish but extended
+- **Next Earnings:** 2026-07-23
+- **Analyst Consensus:** 4 Strong Buy, 14 Buy, 33 Hold, 3 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Retail investors make a surprising move on Palantir, Microsoft, and other software stocks](https://finnhub.io/api/news?id=96f349de85fb345dd9e811f4950539580f14ca835e29c420a3f1a5eda25c0bd2) (Yahoo, 2026-05-14)
+  - [Here's What's Driving Ford's Guidance Hike -- and What Isn't.](https://finnhub.io/api/news?id=121a9f89030c81115a76e47c4bed4dc0d9ecd706f7ef82eb4d35a886e0110393) (Yahoo, 2026-05-14)
+  - [Intel Splits Analysts as Foundry Hopes Grow](https://finnhub.io/api/news?id=e0d1b4660466b3651696d85a4d217b34ec95ad8b874d71ab491fe83fbd5baf44) (Yahoo, 2026-05-14)
+
 ### ORCL — Oracle Corporation | $198.89 (+4.81%)
-- **Market Cap:** $572.1B | **P/E:** 35.65 | **Fwd P/E:** 24.76 | **P/S:** 8.93 | **PEG:** 1.18 | **Beta:** 1.54
+- **Market Cap:** $572.0B | **P/E:** 35.64 | **Fwd P/E:** 24.76 | **P/S:** 8.93 | **PEG:** 1.18 | **Beta:** 1.54
 - **52-Week Range:** $134.57 – $345.72
 - **RSI:** 67.0 (Mod. Bullish) | **MACD:** Buy | **ADX:** 29.7 (Strong trend) | **Stoch:** 95.5/78.7
 - **Bollinger:** $159 – $203 (mid $181) | **ATR:** $9.20 | **OBV:** Falling
@@ -236,23 +277,10 @@
   - [Veeva Systems Expands AI and Vault CRM Momentum: Time to Buy or Hold?](https://finnhub.io/api/news?id=60e22cbd0790539b0077d4029949f56804d20fd7272d27437e4de00cd49e91b3) (Yahoo, 2026-05-14)
   - [Cisco surges on Q3 AI demand, while cutting 4,000 jobs in AI overhaul](https://finnhub.io/api/news?id=be34358a01e4e9647affefd236e582207aa98d294038f88a2e79d20d09195cd3) (Yahoo, 2026-05-14)
 
-### SNOW — Snowflake Inc. | $151.92 (-0.3%)
-- **Market Cap:** $52.5B | **P/E:** 62.50 | **Fwd P/E:** 62.50 | **P/S:** 11.21 | **PEG:** 4.26 | **Beta:** 1.08
-- **52-Week Range:** $118.30 – $280.67
-- **RSI:** 53.3 (Neutral) | **MACD:** Buy | **ADX:** 14.5 (Weak trend) | **Stoch:** 78.8/79.5
-- **Bollinger:** $135 – $158 (mid $147) | **ATR:** $8.18 | **OBV:** Rising
-- **Outlook:** Bearish
-- **Next Earnings:** 2026-05-27
-- **Analyst Consensus:** 17 Strong Buy, 33 Buy, 7 Hold, 1 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Snowflake: Sell Until Expenses Subside And Margins Advance](https://finnhub.io/api/news?id=84496fa015c6ab46a3a36623630047cb554b2218914df7826baf8d55f9b82c95) (SeekingAlpha, 2026-05-13)
-  - [Snowflake: AI Disruption Is An Illusion](https://finnhub.io/api/news?id=a7a1db0fb83bd57f437cc1d7d0d932d711ce179ff8322d4f52ac90ada8218dd8) (SeekingAlpha, 2026-05-13)
-  - [Snowflake Short-Term Squeeze Makes It A Perfect Play In AI Data Cloud](https://finnhub.io/api/news?id=61e9e0edbabc46a8bb96d36ec5e6bb52d2ec0c16e02d720f464d54d308b955eb) (SeekingAlpha, 2026-05-13)
-
-### AMD — Advanced Micro Devices, Inc. | $449.19 (+0.83%)
-- **Market Cap:** $732.4B | **P/E:** 150.73 | **Fwd P/E:** 34.80 | **P/S:** 19.56 | **PEG:** 1.08 | **Beta:** 2.40
+### AMD — Advanced Micro Devices, Inc. | $449.9 (+0.99%)
+- **Market Cap:** $733.6B | **P/E:** 150.97 | **Fwd P/E:** 34.86 | **P/S:** 19.59 | **PEG:** 1.08 | **Beta:** 2.40
 - **52-Week Range:** $107.67 – $469.22
-- **RSI:** 76.6 (Overbought) | **MACD:** Buy | **ADX:** 54.1 (Strong trend) | **Stoch:** 87.4/86.7
+- **RSI:** 76.7 (Overbought) | **MACD:** Buy | **ADX:** 54.1 (Strong trend) | **Stoch:** 87.9/86.9
 - **Bollinger:** $241 – $488 (mid $364) | **ATR:** $22.90 | **OBV:** Falling
 - **Outlook:** Bullish but extended
 - **Next Earnings:** 2026-08-04
@@ -262,23 +290,10 @@
   - [Cerebras Looks Set to Open at $330 a Share, Nearly Double Its IPO Price](https://finnhub.io/api/news?id=d56803306bb4a9c3fdd6815cf686fc0bb4dee9da953420d4f05bc721ede1bf92) (Yahoo, 2026-05-14)
   - [If Lisa Su Is Right, AMD Could Be as Big as Nvidia](https://finnhub.io/api/news?id=d47c640333dcf945ca176a3ffe995d5b4f74d9fa29d1076c498f0160b810d82b) (Yahoo, 2026-05-14)
 
-### AVGO — Broadcom Inc. | $436.04 (+4.62%)
-- **Market Cap:** $2.06T | **P/E:** 85.00 | **Fwd P/E:** 23.96 | **P/S:** 30.23 | **PEG:** 0.91 | **Beta:** 1.44
-- **52-Week Range:** $221.60 – $439.73
-- **RSI:** 65.1 (Mod. Bullish) | **MACD:** Sell | **ADX:** 26.9 (Strong trend) | **Stoch:** 91.8/66.9
-- **Bollinger:** $397 – $437 (mid $417) | **ATR:** $15.41 | **OBV:** Falling
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-06-03
-- **Analyst Consensus:** 17 Strong Buy, 36 Buy, 4 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Wells Fargo Just Hiked Broadcom Price Target to $545: AI Semi Revenue Running 30-40% Higher Than Expected](https://finnhub.io/api/news?id=d947b8d041eaa4936fa4bedde1203247874e43ede4c8ce49e765857eeb6df39f) (Yahoo, 2026-05-14)
-  - [Will Credo's Balance Sheet Power the Next Phase of AI Expansion?](https://finnhub.io/api/news?id=9b656d9b1a02d3fe2167b0da234a81192fcba26490b30c37d53ca8a428b7fea6) (Yahoo, 2026-05-14)
-  - [Are Computer and Technology Stocks Lagging  Broadcom (AVGO) This Year?](https://finnhub.io/api/news?id=69989940a3186ae4d755a610f642e8f0469f13abd940b03f3847a850798da6ac) (Yahoo, 2026-05-14)
-
-### CRM — Salesforce, Inc. | $168.99 (+1.9%)
-- **Market Cap:** $138.2B | **P/E:** 21.69 | **Fwd P/E:** 11.31 | **P/S:** 3.33 | **PEG:** 0.93 | **Beta:** 1.14
+### CRM — Salesforce, Inc. | $168.82 (+1.79%)
+- **Market Cap:** $138.1B | **P/E:** 21.68 | **Fwd P/E:** 11.30 | **P/S:** 3.33 | **PEG:** 0.93 | **Beta:** 1.14
 - **52-Week Range:** $163.52 – $292.17
-- **RSI:** 40.1 (Neutral) | **MACD:** Sell | **ADX:** 15.1 (Weak trend) | **Stoch:** 17.9/8.6
+- **RSI:** 39.9 (Mod. Bearish) | **MACD:** Sell | **ADX:** 15.1 (Weak trend) | **Stoch:** 17.3/8.4
 - **Bollinger:** $168 – $193 (mid $180) | **ATR:** $7.22 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-05-27
@@ -288,23 +303,10 @@
   - [Veeva Systems Expands AI and Vault CRM Momentum: Time to Buy or Hold?](https://finnhub.io/api/news?id=60e22cbd0790539b0077d4029949f56804d20fd7272d27437e4de00cd49e91b3) (Yahoo, 2026-05-14)
   - [BoldSign Launches Salesforce Integration to Streamline Agreement Workflows](https://finnhub.io/api/news?id=8e088c230f79f0ae113b8eff3b1beae09038d3af133c07ea8d6edab8ef65da2e) (Yahoo, 2026-05-14)
 
-### INTC — Intel Corporation | $115.78 (-3.75%)
-- **Market Cap:** $581.9B | **P/E:** 75.45 | **Fwd P/E:** 75.45 | **P/S:** 10.82 | **PEG:** 1.36 | **Beta:** 2.19
-- **52-Week Range:** $18.97 – $132.75
-- **RSI:** 69.5 (Mod. Bullish) | **MACD:** Buy | **ADX:** 62.1 (Strong trend) | **Stoch:** 67.3/75.3
-- **Bollinger:** $53 – $138 (mid $96) | **ATR:** $7.48 | **OBV:** Falling
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-07-23
-- **Analyst Consensus:** 4 Strong Buy, 14 Buy, 33 Hold, 3 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Retail investors make a surprising move on Palantir, Microsoft, and other software stocks](https://finnhub.io/api/news?id=96f349de85fb345dd9e811f4950539580f14ca835e29c420a3f1a5eda25c0bd2) (Yahoo, 2026-05-14)
-  - [Here's What's Driving Ford's Guidance Hike -- and What Isn't.](https://finnhub.io/api/news?id=121a9f89030c81115a76e47c4bed4dc0d9ecd706f7ef82eb4d35a886e0110393) (Yahoo, 2026-05-14)
-  - [Intel Splits Analysts as Foundry Hopes Grow](https://finnhub.io/api/news?id=e0d1b4660466b3651696d85a4d217b34ec95ad8b874d71ab491fe83fbd5baf44) (Yahoo, 2026-05-14)
-
-### NFLX — Netflix, Inc. | $88.11 (+0.63%)
-- **Market Cap:** $371.0B | **P/E:** 28.42 | **Fwd P/E:** 22.94 | **P/S:** 7.91 | **PEG:** 1.28 | **Beta:** 1.55
+### NFLX — Netflix, Inc. | $88.06 (+0.57%)
+- **Market Cap:** $370.8B | **P/E:** 28.41 | **Fwd P/E:** 22.92 | **P/S:** 7.91 | **PEG:** 1.28 | **Beta:** 1.55
 - **52-Week Range:** $75.01 – $134.12
-- **RSI:** 39.6 (Mod. Bearish) | **MACD:** Sell | **ADX:** 21.7 (Weak trend) | **Stoch:** 31.4/27.9
+- **RSI:** 39.4 (Mod. Bearish) | **MACD:** Sell | **ADX:** 21.7 (Weak trend) | **Stoch:** 30.8/27.7
 - **Bollinger:** $85 – $97 (mid $91) | **ATR:** $2.52 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-07-16
@@ -314,24 +316,24 @@
   - [JPMorgan Doubles Down on Netflix: $118 Price Target on Path to Becoming Global TV](https://finnhub.io/api/news?id=c1655ed99f8ad7b93c02c02d34c93126796ea5679def854140219f31fd41f6b9) (Yahoo, 2026-05-14)
   - [Netflix NFL Push And Ad Tier Expansion Reframe Long Term Upside](https://finnhub.io/api/news?id=ed690887bc284f4906cadad14a64a866984a6ce2b372b8da72a415b0a609c336) (Yahoo, 2026-05-14)
 
-### ABBV — AbbVie Inc. | $211.43 (+1.41%)
-- **Market Cap:** $373.6B | **P/E:** 103.64 | **Fwd P/E:** 13.04 | **P/S:** 5.95 | **PEG:** 0.57 | **Beta:** 0.30
-- **52-Week Range:** $176.57 – $244.81
-- **RSI:** 57.4 (Neutral) | **MACD:** Buy | **ADX:** 15.6 (Weak trend) | **Stoch:** 85.7/76.8
-- **Bollinger:** $196 – $213 (mid $204) | **ATR:** $5.39 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-07-30
-- **Analyst Consensus:** 8 Strong Buy, 22 Buy, 10 Hold, 0 Sell, 0 Strong Sell
+### SNOW — Snowflake Inc. | $152.0 (-0.24%)
+- **Market Cap:** $52.5B | **P/E:** 62.53 | **Fwd P/E:** 62.53 | **P/S:** 11.22 | **PEG:** 4.26 | **Beta:** 1.08
+- **52-Week Range:** $118.30 – $280.67
+- **RSI:** 53.4 (Neutral) | **MACD:** Buy | **ADX:** 14.5 (Weak trend) | **Stoch:** 79.1/79.6
+- **Bollinger:** $135 – $158 (mid $147) | **ATR:** $8.18 | **OBV:** Rising
+- **Outlook:** Bearish
+- **Next Earnings:** 2026-05-27
+- **Analyst Consensus:** 17 Strong Buy, 33 Buy, 7 Hold, 1 Sell, 0 Strong Sell
 - **Recent News:**
-  - [2 Cash-Producing Stocks to Research Further and 1 We Find Risky](https://finnhub.io/api/news?id=f04a2fa2250d900cbe5eb95cbe1051d67f4e03a4d0710ecc9d4343c1c8b4acaa) (Yahoo, 2026-05-13)
-  - [AbbVie Inc. (ABBV) Presents at Bank of America Global Healthcare Conference 2026 Transcript](https://finnhub.io/api/news?id=ad4d1220439f47febe0bb8faf1818e05ca1d5cd2e974db46264d4ce9ab067ec4) (SeekingAlpha, 2026-05-13)
-  - [Ironwood Pharmaceuticals: CFO Resignation Knocks Shares - A Downgrade Is Due](https://finnhub.io/api/news?id=9f76a1637d2ff070cf78c6176828ac4bb6967345767c2e713aee57d7122722dd) (SeekingAlpha, 2026-05-13)
+  - [Snowflake: Sell Until Expenses Subside And Margins Advance](https://finnhub.io/api/news?id=84496fa015c6ab46a3a36623630047cb554b2218914df7826baf8d55f9b82c95) (SeekingAlpha, 2026-05-13)
+  - [Snowflake: AI Disruption Is An Illusion](https://finnhub.io/api/news?id=a7a1db0fb83bd57f437cc1d7d0d932d711ce179ff8322d4f52ac90ada8218dd8) (SeekingAlpha, 2026-05-13)
+  - [Snowflake Short-Term Squeeze Makes It A Perfect Play In AI Data Cloud](https://finnhub.io/api/news?id=61e9e0edbabc46a8bb96d36ec5e6bb52d2ec0c16e02d720f464d54d308b955eb) (SeekingAlpha, 2026-05-13)
 
-### PLTR — Palantir Technologies Inc. | $134.08 (+3.1%)
-- **Market Cap:** $321.5B | **P/E:** 152.38 | **Fwd P/E:** 64.95 | **P/S:** 61.53 | **PEG:** 2.02 | **Beta:** 1.52
+### PLTR — Palantir Technologies Inc. | $134.37 (+3.32%)
+- **Market Cap:** $322.1B | **P/E:** 152.69 | **Fwd P/E:** 65.08 | **P/S:** 61.67 | **PEG:** 2.02 | **Beta:** 1.52
 - **52-Week Range:** $118.93 – $207.52
-- **RSI:** 43.6 (Neutral) | **MACD:** Sell | **ADX:** 12.0 (Weak trend) | **Stoch:** 25.5/19.0
-- **Bollinger:** $130 – $151 (mid $140) | **ATR:** $6.30 | **OBV:** Falling
+- **RSI:** 43.9 (Neutral) | **MACD:** Sell | **ADX:** 12.0 (Weak trend) | **Stoch:** 26.9/19.5
+- **Bollinger:** $130 – $151 (mid $140) | **ATR:** $6.32 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-08-03
 - **Analyst Consensus:** 11 Strong Buy, 15 Buy, 10 Hold, 1 Sell, 1 Strong Sell
@@ -340,10 +342,10 @@
   - [Palantir Insiders Are Selling 9 Shares for Every 1 They Buy. Here Is the Defense Stock Smart Money Is Buying Instead](https://finnhub.io/api/news?id=36d6ce045e6b8b99f730deeb796a723b47b18cc0126b851bb3ce319c01d79188) (Yahoo, 2026-05-14)
   - [Palantir vs. BigBear.ai: What Do Their Quarterly Revenue Trends Tell Investors?](https://finnhub.io/api/news?id=5104caa9760ba893d0acd72d0f6824a55ef725ef569b22396060daf1d7961d68) (Yahoo, 2026-05-14)
 
-### UNH — UnitedHealth Group Incorporated | $400.8 (-0.09%)
-- **Market Cap:** $364.0B | **P/E:** 30.19 | **Fwd P/E:** 19.32 | **P/S:** 0.81 | **PEG:** 1.37 | **Beta:** 0.65
+### UNH — UnitedHealth Group Incorporated | $400.85 (-0.08%)
+- **Market Cap:** $364.0B | **P/E:** 30.18 | **Fwd P/E:** 19.31 | **P/S:** 0.81 | **PEG:** 1.37 | **Beta:** 0.65
 - **52-Week Range:** $234.60 – $404.15
-- **RSI:** 85.2 (Overbought) | **MACD:** Buy | **ADX:** 55.3 (Strong trend) | **Stoch:** 93.9/95.5
+- **RSI:** 85.2 (Overbought) | **MACD:** Buy | **ADX:** 55.3 (Strong trend) | **Stoch:** 94.0/95.5
 - **Bollinger:** $325 – $407 (mid $366) | **ATR:** $9.33 | **OBV:** Rising
 - **Outlook:** GOLDEN CROSS — Strongly Bullish
 - **ALERT: GOLDEN CROSS detected — strongly bullish long-term signal**
@@ -354,36 +356,10 @@
   - [Dow Surges Back Above 50,000](https://finnhub.io/api/news?id=0da7872c3a7caf3203394953f05dacbcfe4bcdf97568d1ad48d200dfd43e51cc) (Yahoo, 2026-05-14)
   - [Investors Heavily Search UnitedHealth Group Incorporated (UNH): Here is What You Need to Know](https://finnhub.io/api/news?id=f20d2f6bd191b8dbf18d558033037005e331126d6a75c514cc73609833b17c07) (Yahoo, 2026-05-14)
 
-### MRK — Merck & Company, Inc. | $113.26 (-0.17%)
-- **Market Cap:** $279.7B | **P/E:** 31.90 | **Fwd P/E:** 11.89 | **P/S:** 4.25 | **PEG:** 5.23 | **Beta:** 0.20
-- **52-Week Range:** $73.31 – $125.14
-- **RSI:** 47.9 (Neutral) | **MACD:** Buy | **ADX:** 23.3 (Weak trend) | **Stoch:** 79.8/75.0
-- **Bollinger:** $108 – $117 (mid $113) | **ATR:** $2.64 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-08-04
-- **Analyst Consensus:** 8 Strong Buy, 17 Buy, 10 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Merck & Co., Inc. (MRK) is Attracting Investor Attention: Here is What You Should Know](https://finnhub.io/api/news?id=70cbacb39f586f8cf83a7ecaa3cdf3dd6f6f9b6ddbacc54e5306f1fc325866fb) (Yahoo, 2026-05-14)
-  - [Veeva Commercial Summit to Feature Biopharma's AI Successes and the Path to Agentic Commercial](https://finnhub.io/api/news?id=efd5d5e8ac97bd6da4dd2208bb36893fcdc2d8984da7e774a44769d4578e1862) (Yahoo, 2026-05-14)
-  - [Matrix connects two new renewable projects to Spanish grid](https://finnhub.io/api/news?id=830b073a6bd78a9ba4620543ecbc232bf404cde2d4b40f91d4967925f6827701) (Yahoo, 2026-05-14)
-
-### JNJ — Johnson & Johnson | $230.6 (+0.08%)
-- **Market Cap:** $555.1B | **P/E:** 26.69 | **Fwd P/E:** 18.14 | **P/S:** 5.76 | **PEG:** 2.91 | **Beta:** 0.26
-- **52-Week Range:** $147.33 – $251.71
-- **RSI:** 52.3 (Neutral) | **MACD:** Buy | **ADX:** 20.8 (Weak trend) | **Stoch:** 90.3/72.9
-- **Bollinger:** $220 – $234 (mid $227) | **ATR:** $4.15 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-07-15
-- **Analyst Consensus:** 6 Strong Buy, 14 Buy, 12 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [Jim Cramer on CoreWeave: “A Stock That’s Not for the Squeamish”](https://finnhub.io/api/news?id=e9884cbb1edcd6b564516bcc8da29abb33e5085f310ae9e4019b13aba7182354) (Yahoo, 2026-05-14)
-  - [Rubicon Point Partners Acquires Shockwave Medical Headquarters Campus in Santa Clara, California](https://finnhub.io/api/news?id=964f0f49af30ab1b9be31e5c7246dc3b26a8a99cd452c8750c20aafc1b312436) (Yahoo, 2026-05-14)
-  - [CAPLYTA Data Highlights Johnson & Johnson Valuation And Mental Health Story](https://finnhub.io/api/news?id=9c9198ec13e4065d71a9d8698739f48f424c9e518b9208ddf0b9a1a4ab6a7176) (Yahoo, 2026-05-14)
-
-### LLY — Eli Lilly and Company | $1007.64 (-0.8%)
-- **Market Cap:** $898.6B | **P/E:** 35.81 | **Fwd P/E:** 22.75 | **P/S:** 12.44 | **PEG:** 1.34 | **Beta:** 0.48
+### LLY — Eli Lilly and Company | $1006.89 (-0.87%)
+- **Market Cap:** $897.9B | **P/E:** 35.78 | **Fwd P/E:** 22.74 | **P/S:** 12.43 | **PEG:** 1.34 | **Beta:** 0.48
 - **52-Week Range:** $623.78 – $1133.95
-- **RSI:** 61.5 (Mod. Bullish) | **MACD:** Buy | **ADX:** 18.2 (Weak trend) | **Stoch:** 91.2/94.0
+- **RSI:** 61.3 (Mod. Bullish) | **MACD:** Buy | **ADX:** 18.2 (Weak trend) | **Stoch:** 90.8/93.8
 - **Bollinger:** $847 – $1034 (mid $941) | **ATR:** $30.93 | **OBV:** Rising
 - **Outlook:** Bullish
 - **Next Earnings:** 2026-08-05
@@ -393,10 +369,23 @@
   - [PFE Stock Declines Post Q1 Beat: Book Profits or Stay Invested?](https://finnhub.io/api/news?id=1645a53821455385adedf12592908d3b17b8368f93154a379fdb5d44ca98a8c4) (Yahoo, 2026-05-14)
   - [Lilly and UNICEF collaborate to give millions of children a healthier start](https://finnhub.io/api/news?id=003c24f5fde0a3b677cd043d5195c363581575983916b9907eecadbad15b34a6) (Yahoo, 2026-05-14)
 
-### TMO — Thermo Fisher Scientific Inc | $454.17 (+1.82%)
-- **Market Cap:** $168.8B | **P/E:** 24.95 | **Fwd P/E:** 16.62 | **P/S:** 3.73 | **PEG:** 1.51 | **Beta:** 0.88
+### JNJ — Johnson & Johnson | $230.5 (+0.03%)
+- **Market Cap:** $554.9B | **P/E:** 26.68 | **Fwd P/E:** 18.14 | **P/S:** 5.76 | **PEG:** 2.91 | **Beta:** 0.26
+- **52-Week Range:** $147.33 – $251.71
+- **RSI:** 52.1 (Neutral) | **MACD:** Buy | **ADX:** 20.8 (Weak trend) | **Stoch:** 89.4/72.6
+- **Bollinger:** $220 – $234 (mid $227) | **ATR:** $4.15 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-07-15
+- **Analyst Consensus:** 6 Strong Buy, 14 Buy, 12 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Jim Cramer on CoreWeave: “A Stock That’s Not for the Squeamish”](https://finnhub.io/api/news?id=e9884cbb1edcd6b564516bcc8da29abb33e5085f310ae9e4019b13aba7182354) (Yahoo, 2026-05-14)
+  - [Rubicon Point Partners Acquires Shockwave Medical Headquarters Campus in Santa Clara, California](https://finnhub.io/api/news?id=964f0f49af30ab1b9be31e5c7246dc3b26a8a99cd452c8750c20aafc1b312436) (Yahoo, 2026-05-14)
+  - [CAPLYTA Data Highlights Johnson & Johnson Valuation And Mental Health Story](https://finnhub.io/api/news?id=9c9198ec13e4065d71a9d8698739f48f424c9e518b9208ddf0b9a1a4ab6a7176) (Yahoo, 2026-05-14)
+
+### TMO — Thermo Fisher Scientific Inc | $453.02 (+1.57%)
+- **Market Cap:** $168.4B | **P/E:** 24.89 | **Fwd P/E:** 16.57 | **P/S:** 3.72 | **PEG:** 1.51 | **Beta:** 0.88
 - **52-Week Range:** $385.46 – $643.99
-- **RSI:** 39.6 (Mod. Bearish) | **MACD:** Sell | **ADX:** 28.2 (Strong trend) | **Stoch:** 25.9/21.2
+- **RSI:** 39.0 (Mod. Bearish) | **MACD:** Sell | **ADX:** 28.2 (Strong trend) | **Stoch:** 22.8/20.2
 - **Bollinger:** $428 – $525 (mid $477) | **ATR:** $15.19 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-07-22
@@ -406,10 +395,23 @@
   - [Nucleic Acid Isolation and Purification Market Report 2026-2030: Trends, Challenges and Competitive Analysis Featuring Thermo Fisher Scientific, Merck, QIAGEN, and Roche](https://finnhub.io/api/news?id=c9101f2c02e83124d8f935df0c74b606e886798edadd862b45d746224ef7fa88) (Yahoo, 2026-05-12)
   - [The Retirement Playbook Is Breaking - And Few Investors Are Ready](https://finnhub.io/api/news?id=1071acbcf4eec3e16aeb4f4ae56ac541f94cd2e387386d8052636cac0b1ff04b) (SeekingAlpha, 2026-05-12)
 
-### ISRG — Intuitive Surgical, Inc. | $429.97 (-0.53%)
-- **Market Cap:** $152.3B | **P/E:** 52.37 | **Fwd P/E:** 36.44 | **P/S:** 14.39 | **PEG:** 2.27 | **Beta:** 1.51
+### ABBV — AbbVie Inc. | $211.24 (+1.31%)
+- **Market Cap:** $373.2B | **P/E:** 103.55 | **Fwd P/E:** 13.03 | **P/S:** 5.94 | **PEG:** 0.57 | **Beta:** 0.30
+- **52-Week Range:** $176.57 – $244.81
+- **RSI:** 57.2 (Neutral) | **MACD:** Buy | **ADX:** 15.6 (Weak trend) | **Stoch:** 84.9/76.5
+- **Bollinger:** $196 – $213 (mid $204) | **ATR:** $5.39 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-07-30
+- **Analyst Consensus:** 8 Strong Buy, 22 Buy, 10 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [2 Cash-Producing Stocks to Research Further and 1 We Find Risky](https://finnhub.io/api/news?id=f04a2fa2250d900cbe5eb95cbe1051d67f4e03a4d0710ecc9d4343c1c8b4acaa) (Yahoo, 2026-05-13)
+  - [AbbVie Inc. (ABBV) Presents at Bank of America Global Healthcare Conference 2026 Transcript](https://finnhub.io/api/news?id=ad4d1220439f47febe0bb8faf1818e05ca1d5cd2e974db46264d4ce9ab067ec4) (SeekingAlpha, 2026-05-13)
+  - [Ironwood Pharmaceuticals: CFO Resignation Knocks Shares - A Downgrade Is Due](https://finnhub.io/api/news?id=9f76a1637d2ff070cf78c6176828ac4bb6967345767c2e713aee57d7122722dd) (SeekingAlpha, 2026-05-13)
+
+### ISRG — Intuitive Surgical, Inc. | $430.0 (-0.53%)
+- **Market Cap:** $152.3B | **P/E:** 52.38 | **Fwd P/E:** 36.44 | **P/S:** 14.39 | **PEG:** 2.27 | **Beta:** 1.51
 - **52-Week Range:** $417.74 – $603.88
-- **RSI:** 36.8 (Mod. Bearish) | **MACD:** Sell | **ADX:** 23.2 (Weak trend) | **Stoch:** 17.7/19.5
+- **RSI:** 36.8 (Mod. Bearish) | **MACD:** Sell | **ADX:** 23.2 (Weak trend) | **Stoch:** 17.8/19.5
 - **Bollinger:** $421 – $490 (mid $456) | **ATR:** $13.38 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-07-21
@@ -418,6 +420,32 @@
   - [Jim Cramer Discusses the Performance of Danaher and Its Peers](https://finnhub.io/api/news?id=4513e1fcf62c131d6db40260cfe6940672d792f464d07603432a9a5359f1519c) (Yahoo, 2026-05-14)
   - [Intuitive Surgical Trades Near 2-Year Low: Is $600 Within Reach?](https://finnhub.io/api/news?id=7b5ca68ebdbdd471a02b40c77ab360a3c9786281102e20790863fc632c676a01) (Yahoo, 2026-05-13)
   - [What Intuitive Surgical (ISRG)'s FDA Class I Recall and Institutional Selling Mean For Shareholders](https://finnhub.io/api/news?id=2fc5f11e1a613d9f9ea17c9b1961c636911e00a4638b024567997671b4cbc57e) (Yahoo, 2026-05-12)
+
+### MRK — Merck & Company, Inc. | $113.18 (-0.24%)
+- **Market Cap:** $279.5B | **P/E:** 31.88 | **Fwd P/E:** 11.89 | **P/S:** 4.25 | **PEG:** 5.23 | **Beta:** 0.20
+- **52-Week Range:** $73.31 – $125.14
+- **RSI:** 47.7 (Neutral) | **MACD:** Buy | **ADX:** 23.3 (Weak trend) | **Stoch:** 78.6/74.6
+- **Bollinger:** $108 – $117 (mid $113) | **ATR:** $2.64 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-08-04
+- **Analyst Consensus:** 8 Strong Buy, 17 Buy, 10 Hold, 0 Sell, 0 Strong Sell
+- **Recent News:**
+  - [Merck & Co., Inc. (MRK) is Attracting Investor Attention: Here is What You Should Know](https://finnhub.io/api/news?id=70cbacb39f586f8cf83a7ecaa3cdf3dd6f6f9b6ddbacc54e5306f1fc325866fb) (Yahoo, 2026-05-14)
+  - [Veeva Commercial Summit to Feature Biopharma's AI Successes and the Path to Agentic Commercial](https://finnhub.io/api/news?id=efd5d5e8ac97bd6da4dd2208bb36893fcdc2d8984da7e774a44769d4578e1862) (Yahoo, 2026-05-14)
+  - [Matrix connects two new renewable projects to Spanish grid](https://finnhub.io/api/news?id=830b073a6bd78a9ba4620543ecbc232bf404cde2d4b40f91d4967925f6827701) (Yahoo, 2026-05-14)
+
+### COP — ConocoPhillips | $118.79 (+1.18%)
+- **Market Cap:** $144.7B | **P/E:** 20.10 | **Fwd P/E:** 13.53 | **P/S:** 2.44 | **PEG:** 1.00 | **Beta:** 0.15
+- **52-Week Range:** $84.28 – $135.87
+- **RSI:** 47.9 (Neutral) | **MACD:** Sell | **ADX:** 15.1 (Weak trend) | **Stoch:** 41.3/36.0
+- **Bollinger:** $112 – $127 (mid $120) | **ATR:** $3.43 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-08-06
+- **Analyst Consensus:** 9 Strong Buy, 14 Buy, 9 Hold, 1 Sell, 0 Strong Sell
+- **Recent News:**
+  - [ConocoPhillips: More Upside Given Long-Term Cash Flow Tailwinds](https://finnhub.io/api/news?id=e7fa0f744962195f1a36193cff68d661c0756afb0b6878d00ef9240c2554dc28) (SeekingAlpha, 2026-05-13)
+  - [Top Analyst Reports for Meta, Pfizer & Salesforce](https://finnhub.io/api/news?id=65d042bd970fc5a307836e559b2a5041bfc5df950cdad2ac6942cd70b035cb93) (Yahoo, 2026-05-13)
+  - [APA Corporation Q1 Earnings Beat Estimates on Higher Oil Prices](https://finnhub.io/api/news?id=f4f3642a58594c9e3ab5f9986340f5319c9c429f5f65c0bab9744df26f78532c) (Yahoo, 2026-05-13)
 
 ### XOM — Exxon Mobil Corporation | $152.16 (+0.39%)
 - **Market Cap:** $630.7B | **P/E:** 25.62 | **Fwd P/E:** 14.58 | **P/S:** 1.93 | **PEG:** 1.38 | **Beta:** 0.18
@@ -432,10 +460,10 @@
   - [Scott Bessent Predicts Crude Spike Will Reverse 'Quickly,' But Prediction Markets Doubt He's Right](https://finnhub.io/api/news?id=805138c8df2b73fc271c5bc3d6916788b8c19cc1ae42c7ac4526b43d38ec4396) (Benzinga, 2026-05-14)
   - [Energy Stocks Have Soared. Why the Boom Can Last.](https://finnhub.io/api/news?id=b1721e9ce213b9ff0cf6e1c56a8e687692fcbd7d27b102632121cfbfab5285e3) (Yahoo, 2026-05-14)
 
-### CVX — Chevron Corporation | $186.34 (+0.18%)
-- **Market Cap:** $371.1B | **P/E:** 32.41 | **Fwd P/E:** 15.57 | **P/S:** 2.00 | **PEG:** 0.82 | **Beta:** 0.50
+### CVX — Chevron Corporation | $186.3 (+0.16%)
+- **Market Cap:** $371.0B | **P/E:** 32.40 | **Fwd P/E:** 15.56 | **P/S:** 2.00 | **PEG:** 0.82 | **Beta:** 0.50
 - **52-Week Range:** $133.77 – $214.71
-- **RSI:** 46.3 (Neutral) | **MACD:** Sell | **ADX:** 18.8 (Weak trend) | **Stoch:** 46.6/45.0
+- **RSI:** 46.2 (Neutral) | **MACD:** Sell | **ADX:** 18.8 (Weak trend) | **Stoch:** 46.4/44.9
 - **Bollinger:** $180 – $194 (mid $187) | **ATR:** $4.42 | **OBV:** Rising
 - **Outlook:** Mixed / Transitioning
 - **Next Earnings:** 2026-07-31
@@ -445,10 +473,10 @@
   - [ENEOS to buy certain Chevron downstream assets in APAC for $2.2bn](https://finnhub.io/api/news?id=8e4c2e913b3dfd377efcc026a5bf0b0adda99102ecc552e383771b6f418947c4) (Yahoo, 2026-05-14)
   - [Chevron to Sell Some Asia-Pacific Assets to Japan's Eneos for $2.17 Billion -- Commodities Roundup](https://finnhub.io/api/news?id=4d09f6f6493c3fb0e4fc2d6cee9edba6a426cf155c7796376cf999762938305c) (Finnhub, 2026-05-14)
 
-### SLB — SLB Limited | $55.69 (+0.56%)
-- **Market Cap:** $83.3B | **P/E:** 24.53 | **Fwd P/E:** 16.70 | **P/S:** 2.32 | **PEG:** 1.91 | **Beta:** 0.73
+### SLB — SLB Limited | $55.66 (+0.51%)
+- **Market Cap:** $83.2B | **P/E:** 24.52 | **Fwd P/E:** 16.69 | **P/S:** 2.32 | **PEG:** 1.91 | **Beta:** 0.73
 - **52-Week Range:** $31.64 – $57.20
-- **RSI:** 58.1 (Neutral) | **MACD:** Sell | **ADX:** 26.6 (Strong trend) | **Stoch:** 66.2/63.5
+- **RSI:** 58.0 (Neutral) | **MACD:** Sell | **ADX:** 26.6 (Strong trend) | **Stoch:** 65.5/63.3
 - **Bollinger:** $52 – $58 (mid $55) | **ATR:** $1.60 | **OBV:** Rising
 - **Outlook:** Bullish
 - **Next Earnings:** 2026-07-24
@@ -458,36 +486,28 @@
   - [My Top 10 Dividend Stocks For May](https://finnhub.io/api/news?id=b96ad4c9ed454c8d47624652fa702bf336cd0760b1743023c5c7c8b700886fd9) (SeekingAlpha, 2026-05-14)
   - [1 Cash-Producing Stock Worth Investigating and 2 We Turn Down](https://finnhub.io/api/news?id=8bf41ae75c7088dcf214751db23f6cadef20d3f6b48e567996564fc823271c8f) (Yahoo, 2026-05-13)
 
-### EOG — EOG Resources, Inc. | $135.99 (+0.78%)
+### GS — Goldman Sachs Group, Inc. (The) | $972.89 (+1.83%)
+- **Market Cap:** $287.0B | **P/E:** 17.77 | **Fwd P/E:** 14.88 | **P/S:** 4.66 | **PEG:** 1.46 | **Beta:** 1.27
+- **52-Week Range:** $582.50 – $984.70
+- **RSI:** 66.8 (Mod. Bullish) | **MACD:** Buy | **ADX:** 16.2 (Weak trend) | **Stoch:** 97.9/94.5
+- **Bollinger:** $901 – $963 (mid $932) | **ATR:** $23.43 | **OBV:** Rising
+- **Outlook:** Bullish
+- **Next Earnings:** 2026-07-14
+- **Analyst Consensus:** 6 Strong Buy, 9 Buy, 16 Hold, 1 Sell, 0 Strong Sell
+
+### EOG — EOG Resources, Inc. | $135.96 (+0.76%)
 - **Market Cap:** $72.4B | **P/E:** 13.37 | **Fwd P/E:** 9.45 | **P/S:** 3.07 | **PEG:** 1.20 | **Beta:** 0.28
 - **52-Week Range:** $101.59 – $151.87
-- **RSI:** 51.7 (Neutral) | **MACD:** Sell | **ADX:** 12.8 (Weak trend) | **Stoch:** 51.0/44.1
+- **RSI:** 51.7 (Neutral) | **MACD:** Sell | **ADX:** 12.8 (Weak trend) | **Stoch:** 50.9/44.1
 - **Bollinger:** $127 – $142 (mid $135) | **ATR:** $3.69 | **OBV:** Rising
 - **Outlook:** Mixed / Transitioning
 - **Next Earnings:** 2026-05-05
 - **Analyst Consensus:** 5 Strong Buy, 15 Buy, 19 Hold, 0 Sell, 0 Strong Sell
-- **Recent News:**
-  - [My Top 10 Dividend Stocks For May](https://finnhub.io/api/news?id=b96ad4c9ed454c8d47624652fa702bf336cd0760b1743023c5c7c8b700886fd9) (SeekingAlpha, 2026-05-14)
-  - [SM Energy Surges 67% in Six Months: Is the Stock Worth Betting on Now?](https://finnhub.io/api/news?id=287ffd819cb1e2516154a20c1952cd993e6b4dcf7b9a63d42c03e05ea8c09c09) (Yahoo, 2026-05-13)
-  - [APA Corporation Q1 Earnings Beat Estimates on Higher Oil Prices](https://finnhub.io/api/news?id=f4f3642a58594c9e3ab5f9986340f5319c9c429f5f65c0bab9744df26f78532c) (Yahoo, 2026-05-13)
 
-### COP — ConocoPhillips | $118.71 (+1.12%)
-- **Market Cap:** $144.6B | **P/E:** 20.09 | **Fwd P/E:** 13.52 | **P/S:** 2.44 | **PEG:** 1.00 | **Beta:** 0.15
-- **52-Week Range:** $84.28 – $135.87
-- **RSI:** 47.7 (Neutral) | **MACD:** Sell | **ADX:** 15.1 (Weak trend) | **Stoch:** 40.7/35.8
-- **Bollinger:** $112 – $127 (mid $120) | **ATR:** $3.43 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-08-06
-- **Analyst Consensus:** 9 Strong Buy, 14 Buy, 9 Hold, 1 Sell, 0 Strong Sell
-- **Recent News:**
-  - [ConocoPhillips: More Upside Given Long-Term Cash Flow Tailwinds](https://finnhub.io/api/news?id=e7fa0f744962195f1a36193cff68d661c0756afb0b6878d00ef9240c2554dc28) (SeekingAlpha, 2026-05-13)
-  - [Top Analyst Reports for Meta, Pfizer & Salesforce](https://finnhub.io/api/news?id=65d042bd970fc5a307836e559b2a5041bfc5df950cdad2ac6942cd70b035cb93) (Yahoo, 2026-05-13)
-  - [APA Corporation Q1 Earnings Beat Estimates on Higher Oil Prices](https://finnhub.io/api/news?id=f4f3642a58594c9e3ab5f9986340f5319c9c429f5f65c0bab9744df26f78532c) (Yahoo, 2026-05-13)
-
-### BAC — Bank of America Corporation | $50.32 (+0.95%)
-- **Market Cap:** $357.1B | **P/E:** 12.49 | **Fwd P/E:** 9.98 | **P/S:** 3.26 | **PEG:** 0.91 | **Beta:** 1.22
+### BAC — Bank of America Corporation | $50.3 (+0.92%)
+- **Market Cap:** $357.0B | **P/E:** 12.48 | **Fwd P/E:** 9.98 | **P/S:** 3.26 | **PEG:** 0.91 | **Beta:** 1.22
 - **52-Week Range:** $42.35 – $57.55
-- **RSI:** 41.4 (Neutral) | **MACD:** Sell | **ADX:** 20.9 (Weak trend) | **Stoch:** 11.7/11.4
+- **RSI:** 41.3 (Neutral) | **MACD:** Sell | **ADX:** 20.9 (Weak trend) | **Stoch:** 11.4/11.3
 - **Bollinger:** $50 – $55 (mid $52) | **ATR:** $1.16 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-07-14
@@ -497,86 +517,104 @@
   - [First Financial Bankshares and Glacier Bancorp Shares Are Falling, What You Need To Know](https://finnhub.io/api/news?id=efb9b5dd16d1aee872ed85817a3eab8b8be2e5ea58538288780cd1b8d178b71d) (Yahoo, 2026-05-14)
   - [Summer travel inflation: These consumers may just stay home](https://finnhub.io/api/news?id=7b8d70ce09b79bce6ec46a6c0f58154cc995e73fd474656e5bb2dfb7abc244ab) (Yahoo, 2026-05-14)
 
-### GS — Goldman Sachs Group, Inc. (The) | $973.85 (+1.93%)
-- **Market Cap:** $287.3B | **P/E:** 17.79 | **Fwd P/E:** 14.89 | **P/S:** 4.67 | **PEG:** 1.46 | **Beta:** 1.27
-- **52-Week Range:** $582.50 – $984.70
-- **RSI:** 67.0 (Mod. Bullish) | **MACD:** Buy | **ADX:** 16.2 (Weak trend) | **Stoch:** 99.2/94.9
-- **Bollinger:** $901 – $963 (mid $932) | **ATR:** $23.43 | **OBV:** Rising
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-07-14
-- **Analyst Consensus:** 6 Strong Buy, 9 Buy, 16 Hold, 1 Sell, 0 Strong Sell
-
-### JPM — JP Morgan Chase & Co. | $302.38 (+0.71%)
-- **Market Cap:** $810.2B | **P/E:** 14.47 | **Fwd P/E:** 12.85 | **P/S:** 4.67 | **PEG:** 1.62 | **Beta:** 1.02
+### JPM — JP Morgan Chase & Co. | $302.22 (+0.66%)
+- **Market Cap:** $809.8B | **P/E:** 14.46 | **Fwd P/E:** 12.84 | **P/S:** 4.67 | **PEG:** 1.62 | **Beta:** 1.02
 - **52-Week Range:** $256.00 – $337.25
-- **RSI:** 46.5 (Neutral) | **MACD:** Sell | **ADX:** 17.4 (Weak trend) | **Stoch:** 32.9/33.5
+- **RSI:** 46.3 (Neutral) | **MACD:** Sell | **ADX:** 17.4 (Weak trend) | **Stoch:** 32.1/33.3
 - **Bollinger:** $299 – $319 (mid $309) | **ATR:** $6.25 | **OBV:** Falling
 - **Outlook:** Mixed / Transitioning
 - **Next Earnings:** 2026-07-14
 - **Analyst Consensus:** 3 Strong Buy, 15 Buy, 13 Hold, 0 Sell, 0 Strong Sell
 
-### V — Visa Inc. | $322.26 (+0.61%)
-- **Market Cap:** $612.9B | **P/E:** 28.10 | **Fwd P/E:** 21.71 | **P/S:** 14.24 | **PEG:** 1.71 | **Beta:** 0.78
-- **52-Week Range:** $293.89 – $375.51
-- **RSI:** 55.0 (Neutral) | **MACD:** Sell | **ADX:** 17.9 (Weak trend) | **Stoch:** 47.0/50.4
-- **Bollinger:** $303 – $334 (mid $319) | **ATR:** $6.63 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-07-28
-- **Analyst Consensus:** 11 Strong Buy, 33 Buy, 4 Hold, 0 Sell, 0 Strong Sell
-
-### MS — Morgan Stanley | $195.74 (+0.99%)
+### MS — Morgan Stanley | $195.69 (+0.96%)
 - **Market Cap:** $308.7B | **P/E:** 17.71 | **Fwd P/E:** 15.41 | **P/S:** 4.22 | **PEG:** 2.31 | **Beta:** 1.21
 - **52-Week Range:** $123.88 – $197.50
-- **RSI:** 65.8 (Mod. Bullish) | **MACD:** Sell | **ADX:** 30.5 (Strong trend) | **Stoch:** 86.7/82.8
+- **RSI:** 65.7 (Mod. Bullish) | **MACD:** Sell | **ADX:** 30.5 (Strong trend) | **Stoch:** 86.3/82.6
 - **Bollinger:** $185 – $195 (mid $190) | **ATR:** $4.59 | **OBV:** Rising
 - **Outlook:** Bullish
 - **Next Earnings:** 2026-07-15
 - **Analyst Consensus:** 8 Strong Buy, 10 Buy, 15 Hold, 0 Sell, 0 Strong Sell
 
-### MA — Mastercard Incorporated | $492.62 (+0.4%)
-- **Market Cap:** $435.3B | **P/E:** 28.52 | **Fwd P/E:** 21.65 | **P/S:** 12.83 | **PEG:** 1.60 | **Beta:** 0.76
+### MA — Mastercard Incorporated | $492.25 (+0.33%)
+- **Market Cap:** $434.9B | **P/E:** 28.50 | **Fwd P/E:** 21.63 | **P/S:** 12.82 | **PEG:** 1.60 | **Beta:** 0.76
 - **52-Week Range:** $480.50 – $601.77
-- **RSI:** 44.1 (Neutral) | **MACD:** Sell | **ADX:** 13.9 (Weak trend) | **Stoch:** 6.5/10.4
+- **RSI:** 43.9 (Neutral) | **MACD:** Sell | **ADX:** 13.9 (Weak trend) | **Stoch:** 5.7/10.1
 - **Bollinger:** $485 – $522 (mid $504) | **ATR:** $11.25 | **OBV:** Rising
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-07-30
 - **Analyst Consensus:** 13 Strong Buy, 32 Buy, 5 Hold, 0 Sell, 0 Strong Sell
 
-### TSM — Taiwan Semiconductor Manufactur | $418.57 (+4.69%)
-- **Market Cap:** $2.17T | **P/E:** 35.74 | **Fwd P/E:** 21.70 | **P/S:** 0.53 | **PEG:** 1.23 | **Beta:** 1.26
-- **52-Week Range:** $188.81 – $421.97
-- **RSI:** 64.0 (Mod. Bullish) | **MACD:** Sell | **ADX:** 23.5 (Weak trend) | **Stoch:** 90.9/60.7
-- **Bollinger:** $366 – $426 (mid $396) | **ATR:** $14.86 | **OBV:** Falling
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-07-16
-- **Analyst Consensus:** 12 Strong Buy, 29 Buy, 2 Hold, 0 Sell, 0 Strong Sell
-
-### ASML — ASML Holding N.V. - New York Re | $1586.74 (+0.33%)
-- **Market Cap:** $611.6B | **P/E:** 51.99 | **Fwd P/E:** 33.06 | **P/S:** 18.15 | **PEG:** 2.26 | **Beta:** 1.37
-- **52-Week Range:** $683.48 – $1603.49
-- **RSI:** 61.2 (Mod. Bullish) | **MACD:** Buy | **ADX:** 15.0 (Weak trend) | **Stoch:** 93.0/84.0
-- **Bollinger:** $1342 – $1609 (mid $1476) | **ATR:** $62.07 | **OBV:** Falling
-- **Outlook:** Bullish
-- **Next Earnings:** 2026-07-15
-- **Analyst Consensus:** 8 Strong Buy, 26 Buy, 6 Hold, 1 Sell, 1 Strong Sell
-
-### BLK — BlackRock, Inc. | $1105.72 (+1.06%)
-- **Market Cap:** $171.6B | **P/E:** 27.84 | **Fwd P/E:** 18.23 | **P/S:** 6.69 | **PEG:** 1.39 | **Beta:** 1.46
+### BLK — BlackRock, Inc. | $1105.13 (+1.01%)
+- **Market Cap:** $171.6B | **P/E:** 27.82 | **Fwd P/E:** 18.22 | **P/S:** 6.69 | **PEG:** 1.39 | **Beta:** 1.46
 - **52-Week Range:** $917.39 – $1219.94
-- **RSI:** 67.3 (Mod. Bullish) | **MACD:** Buy | **ADX:** 18.1 (Weak trend) | **Stoch:** 94.9/94.4
+- **RSI:** 67.2 (Mod. Bullish) | **MACD:** Buy | **ADX:** 18.1 (Weak trend) | **Stoch:** 94.1/94.1
 - **Bollinger:** $1027 – $1101 (mid $1064) | **ATR:** $23.94 | **OBV:** Rising
 - **Outlook:** Bullish
 - **Next Earnings:** 2026-07-15
 - **Analyst Consensus:** 4 Strong Buy, 15 Buy, 4 Hold, 0 Sell, 0 Strong Sell
 
-### BRK-B — Berkshire Hathaway Inc. New | $482.7 (-0.58%)
-- **Market Cap:** $1.04T | **P/E:** 14.37 | **Fwd P/E:** 22.73 | **P/S:** 2.77 | **PEG:** 10.06 | **Beta:** 0.62
+### V — Visa Inc. | $322.1 (+0.56%)
+- **Market Cap:** $612.6B | **P/E:** 28.08 | **Fwd P/E:** 21.70 | **P/S:** 14.24 | **PEG:** 1.71 | **Beta:** 0.78
+- **52-Week Range:** $293.89 – $375.51
+- **RSI:** 54.9 (Neutral) | **MACD:** Sell | **ADX:** 17.9 (Weak trend) | **Stoch:** 46.5/50.3
+- **Bollinger:** $303 – $334 (mid $319) | **ATR:** $6.63 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-07-28
+- **Analyst Consensus:** 11 Strong Buy, 33 Buy, 4 Hold, 0 Sell, 0 Strong Sell
+
+### BRK-B — Berkshire Hathaway Inc. New | $482.27 (-0.67%)
+- **Market Cap:** $1.04T | **P/E:** 14.35 | **Fwd P/E:** 22.71 | **P/S:** 2.77 | **PEG:** 10.06 | **Beta:** 0.62
 - **52-Week Range:** $455.19 – $516.85
-- **RSI:** 57.3 (Neutral) | **MACD:** Buy | **ADX:** 17.0 (Weak trend) | **Stoch:** 73.2/80.0
+- **RSI:** 56.7 (Neutral) | **MACD:** Buy | **ADX:** 17.0 (Weak trend) | **Stoch:** 71.5/79.4
 - **Bollinger:** $463 – $485 (mid $474) | **ATR:** $6.56 | **OBV:** Rising
 - **Outlook:** Mixed / Transitioning
 - **Next Earnings:** 2026-08-01
 - **Analyst Consensus:** 0 Strong Buy, 1 Buy, 3 Hold, 3 Sell, 3 Strong Sell
+
+### TSM — Taiwan Semiconductor Manufactur | $418.99 (+4.8%)
+- **Market Cap:** $2.17T | **P/E:** 35.79 | **Fwd P/E:** 21.72 | **P/S:** 0.53 | **PEG:** 1.23 | **Beta:** 1.26
+- **52-Week Range:** $188.81 – $421.97
+- **RSI:** 64.1 (Mod. Bullish) | **MACD:** Sell | **ADX:** 23.5 (Weak trend) | **Stoch:** 92.0/61.1
+- **Bollinger:** $366 – $426 (mid $396) | **ATR:** $14.86 | **OBV:** Falling
+- **Outlook:** Bullish
+- **Next Earnings:** 2026-07-16
+- **Analyst Consensus:** 12 Strong Buy, 29 Buy, 2 Hold, 0 Sell, 0 Strong Sell
+
+### ASML — ASML Holding N.V. - New York Re | $1585.01 (+0.22%)
+- **Market Cap:** $610.9B | **P/E:** 51.93 | **Fwd P/E:** 33.02 | **P/S:** 18.13 | **PEG:** 2.26 | **Beta:** 1.37
+- **52-Week Range:** $683.48 – $1603.49
+- **RSI:** 61.1 (Mod. Bullish) | **MACD:** Buy | **ADX:** 15.0 (Weak trend) | **Stoch:** 92.3/83.7
+- **Bollinger:** $1342 – $1609 (mid $1475) | **ATR:** $62.07 | **OBV:** Falling
+- **Outlook:** Bullish
+- **Next Earnings:** 2026-07-15
+- **Analyst Consensus:** 8 Strong Buy, 26 Buy, 6 Hold, 1 Sell, 1 Strong Sell
+
+### SAP — SAP  SE | $163.79 (+1.85%)
+- **Market Cap:** $193.1B | **P/E:** 22.28 | **Fwd P/E:** 17.59 | **P/S:** 5.17 | **PEG:** 0.71 | **Beta:** 0.71
+- **52-Week Range:** $158.58 – $313.28
+- **RSI:** 41.9 (Neutral) | **MACD:** Sell | **ADX:** 13.7 (Weak trend) | **Stoch:** 24.3/24.5
+- **Bollinger:** $161 – $179 (mid $170) | **ATR:** $5.58 | **OBV:** Falling
+- **Outlook:** Bearish
+- **Next Earnings:** 2026-07-23
+- **Analyst Consensus:** 10 Strong Buy, 20 Buy, 8 Hold, 2 Sell, 1 Strong Sell
+
+### NVO — Novo Nordisk A/S | $46.24 (-1.78%)
+- **Market Cap:** $205.0B | **P/E:** 10.70 | **Fwd P/E:** 13.64 | **P/S:** 0.63 | **PEG:** 3.43 | **Beta:** 0.35
+- **52-Week Range:** $35.12 – $81.44
+- **RSI:** 70.5 (Overbought) | **MACD:** Buy | **ADX:** 31.9 (Strong trend) | **Stoch:** 80.8/88.0
+- **Bollinger:** $37 – $49 (mid $43) | **ATR:** $1.31 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-08-05
+- **Analyst Consensus:** 5 Strong Buy, 7 Buy, 23 Hold, 1 Sell, 1 Strong Sell
+
+### BABA — Alibaba Group Holding Limited | $143.07 (-1.88%)
+- **Market Cap:** $343.2B | **P/E:** 25.10 | **Fwd P/E:** 15.24 | **P/S:** 0.34 | **PEG:** 0.82 | **Beta:** N/A
+- **52-Week Range:** $103.71 – $192.67
+- **RSI:** 59.2 (Neutral) | **MACD:** Buy | **ADX:** 16.0 (Weak trend) | **Stoch:** 78.8/70.6
+- **Bollinger:** $127 – $145 (mid $136) | **ATR:** $5.21 | **OBV:** Rising
+- **Outlook:** Mixed / Transitioning
+- **Next Earnings:** 2026-05-13
+- **Analyst Consensus:** 13 Strong Buy, 29 Buy, 4 Hold, 1 Sell, 0 Strong Sell
 
 ### TM — Toyota Motor Corporation | $191.04 (+2.22%)
 - **Market Cap:** $249.0B | **P/E:** 10.17 | **Fwd P/E:** 12.11 | **P/S:** 0.00 | **PEG:** 1.56 | **Beta:** 0.33
@@ -587,41 +625,14 @@
 - **Next Earnings:** 2026-08-06
 - **Analyst Consensus:** 7 Strong Buy, 11 Buy, 8 Hold, 0 Sell, 0 Strong Sell
 
-### NVO — Novo Nordisk A/S | $46.22 (-1.84%)
-- **Market Cap:** $204.9B | **P/E:** 10.70 | **Fwd P/E:** 13.63 | **P/S:** 0.62 | **PEG:** 3.43 | **Beta:** 0.35
-- **52-Week Range:** $35.12 – $81.44
-- **RSI:** 70.3 (Overbought) | **MACD:** Buy | **ADX:** 31.9 (Strong trend) | **Stoch:** 80.5/87.9
-- **Bollinger:** $37 – $49 (mid $43) | **ATR:** $1.31 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-08-05
-- **Analyst Consensus:** 5 Strong Buy, 7 Buy, 23 Hold, 1 Sell, 1 Strong Sell
-
-### SAP — SAP  SE | $163.99 (+1.97%)
-- **Market Cap:** $193.3B | **P/E:** 22.31 | **Fwd P/E:** 17.61 | **P/S:** 5.18 | **PEG:** 0.71 | **Beta:** 0.71
-- **52-Week Range:** $158.58 – $313.28
-- **RSI:** 42.2 (Neutral) | **MACD:** Sell | **ADX:** 13.7 (Weak trend) | **Stoch:** 25.2/24.8
-- **Bollinger:** $161 – $179 (mid $170) | **ATR:** $5.58 | **OBV:** Falling
-- **Outlook:** Bearish
-- **Next Earnings:** 2026-07-23
-- **Analyst Consensus:** 10 Strong Buy, 20 Buy, 8 Hold, 2 Sell, 1 Strong Sell
-
-### SHOP — Shopify Inc. | $96.49 (+1.14%)
-- **Market Cap:** $125.2B | **P/E:** 94.59 | **Fwd P/E:** 41.56 | **P/S:** 10.12 | **PEG:** 2.41 | **Beta:** 2.64
+### SHOP — Shopify Inc. | $96.43 (+1.08%)
+- **Market Cap:** $125.1B | **P/E:** 94.54 | **Fwd P/E:** 41.54 | **P/S:** 10.12 | **PEG:** 2.41 | **Beta:** 2.64
 - **52-Week Range:** $94.00 – $182.19
-- **RSI:** 32.5 (Mod. Bearish) | **MACD:** Sell | **ADX:** 21.6 (Weak trend) | **Stoch:** 7.0/4.5
+- **RSI:** 32.4 (Mod. Bearish) | **MACD:** Sell | **ADX:** 21.6 (Weak trend) | **Stoch:** 6.9/4.4
 - **Bollinger:** $93 – $143 (mid $118) | **ATR:** $6.18 | **OBV:** Falling
 - **Outlook:** Bearish
 - **Next Earnings:** 2026-08-05
 - **Analyst Consensus:** 10 Strong Buy, 33 Buy, 12 Hold, 0 Sell, 1 Strong Sell
-
-### BABA — Alibaba Group Holding Limited | $142.91 (-1.99%)
-- **Market Cap:** $342.8B | **P/E:** 25.07 | **Fwd P/E:** 15.22 | **P/S:** 0.33 | **PEG:** 0.82 | **Beta:** N/A
-- **52-Week Range:** $103.71 – $192.67
-- **RSI:** 59.0 (Neutral) | **MACD:** Buy | **ADX:** 16.0 (Weak trend) | **Stoch:** 77.9/70.3
-- **Bollinger:** $127 – $145 (mid $136) | **ATR:** $5.21 | **OBV:** Rising
-- **Outlook:** Mixed / Transitioning
-- **Next Earnings:** 2026-05-13
-- **Analyst Consensus:** 13 Strong Buy, 29 Buy, 4 Hold, 1 Sell, 0 Strong Sell
 
 ---
 
@@ -629,50 +640,50 @@
 
 | Ticker | Price | RSI | Signal | MACD | Stoch K/D | ADX | BB Position | OBV | Support | Resistance | Outlook |
 |--------|-------|-----|--------|------|-----------|-----|-------------|-----|---------|------------|---------|
-| GLW | $207.87 | 70.3 | Overbought | Buy | 93.8/89.3 | 31.7 (Strong) | Upper | Rising | $136.35 | $211.79 | Bullish but extended |
-| TSLA | $450.79 | 71.5 | Overbought | Buy | 97.1/89.8 | 26.2 (Strong) | Upper | Rising | $337.24 | $453.4 | Bullish but extended |
-| GOOGL | $401.16 | 74.2 | Overbought | Buy | 95.8/90.8 | 48.8 (Strong) | Middle | Falling | $289.45 | $403.7 | Bullish but extended |
-| NVDA | $235.15 | 76.5 | Overbought | Buy | 96.8/93.5 | 30.3 (Strong) | Upper | Rising | $171.37 | $236.47 | Bullish but extended |
-| MSFT | $409.36 | 50.3 | Neutral | Sell | 35.6/29.6 | 16.2 (Weak) | Lower | Falling | $364.15 | $433.7 | Mixed / Transitioning |
-| AMZN | $268.53 | 64.8 | Mod. Bullish | Sell | 55.2/55.9 | 40.3 (Strong) | Middle | Falling | $204.9 | $278.56 | Bullish |
-| AAPL | $299.05 | 76.1 | Overbought | Buy | 94.8/95.9 | 27.7 (Strong) | Upper | Rising | $245.47 | $300.92 | Bullish but extended |
-| META | $623.41 | 48.9 | Neutral | Sell | 34.3/24.2 | 21.2 (Weak) | Middle | Rising | $559.7 | $691.52 | Mixed / Transitioning |
-| ADBE | $236.48 | 41.9 | Neutral | Sell | 17.1/19.1 | 15.0 (Weak) | Lower | Falling | $224.13 | $259.44 | Bearish |
+| TSLA | $450.58 | 71.5 | Overbought | Buy | 96.8/89.8 | 26.2 (Strong) | Upper | Rising | $337.24 | $453.4 | Bullish but extended |
+| AAPL | $298.83 | 75.9 | Overbought | Buy | 94.2/95.7 | 27.7 (Strong) | Upper | Rising | $245.47 | $300.92 | Bullish but extended |
+| AMZN | $268.47 | 64.7 | Mod. Bullish | Sell | 55.0/55.8 | 40.3 (Strong) | Middle | Falling | $204.9 | $278.56 | Bullish |
+| GLW | $208.48 | 70.5 | Overbought | Buy | 94.8/89.6 | 31.7 (Strong) | Upper | Rising | $136.35 | $211.79 | Bullish but extended |
+| META | $622.93 | 48.8 | Neutral | Sell | 33.7/24.0 | 21.2 (Weak) | Middle | Rising | $559.7 | $691.52 | Mixed / Transitioning |
+| NVDA | $235.37 | 76.6 | Overbought | Buy | 97.4/93.7 | 30.3 (Strong) | Upper | Rising | $171.37 | $236.47 | Bullish but extended |
+| GOOGL | $401.0 | 74.1 | Overbought | Buy | 95.6/90.7 | 48.8 (Strong) | Middle | Falling | $289.45 | $403.7 | Bullish but extended |
+| MSFT | $408.87 | 49.9 | Neutral | Sell | 34.0/29.1 | 16.2 (Weak) | Lower | Falling | $364.15 | $433.7 | Mixed / Transitioning |
+| ADBE | $236.31 | 41.8 | Neutral | Sell | 16.5/18.9 | 15.0 (Weak) | Lower | Falling | $224.13 | $259.44 | Bearish |
+| AVGO | $435.79 | 65.0 | Mod. Bullish | Sell | 91.3/66.7 | 26.9 (Strong) | Upper | Falling | $301.75 | $439.73 | Bullish |
+| INTC | $116.23 | 70.0 | Overbought | Buy | 68.2/75.6 | 62.1 (Strong) | Middle | Falling | $46.04 | $132.75 | Bullish but extended |
 | ORCL | $198.89 | 67.0 | Mod. Bullish | Buy | 95.5/78.7 | 29.7 (Strong) | Middle | Falling | $134.57 | $200.71 | Mixed / Transitioning |
-| SNOW | $151.92 | 53.3 | Neutral | Buy | 78.8/79.5 | 14.5 (Weak) | Middle | Rising | $118.3 | $157.84 | Bearish |
-| AMD | $449.19 | 76.6 | Overbought | Buy | 87.4/86.7 | 54.1 (Strong) | Middle | Falling | $200.62 | $469.22 | Bullish but extended |
-| AVGO | $436.04 | 65.1 | Mod. Bullish | Sell | 91.8/66.9 | 26.9 (Strong) | Upper | Falling | $301.75 | $439.73 | Bullish |
-| CRM | $168.99 | 40.1 | Neutral | Sell | 17.9/8.6 | 15.1 (Weak) | Lower | Falling | $163.52 | $193.56 | Bearish |
-| INTC | $115.78 | 69.5 | Mod. Bullish | Buy | 67.3/75.3 | 62.1 (Strong) | Middle | Falling | $46.04 | $132.75 | Bullish |
-| NFLX | $88.11 | 39.6 | Mod. Bearish | Sell | 31.4/27.9 | 21.7 (Weak) | Middle | Falling | $85.1 | $108.95 | Bearish |
-| ABBV | $211.43 | 57.4 | Neutral | Buy | 85.7/76.8 | 15.6 (Weak) | Upper | Rising | $190.75 | $214.87 | Mixed / Transitioning |
-| PLTR | $134.08 | 43.6 | Neutral | Sell | 25.5/19.0 | 12.0 (Weak) | Middle | Falling | $122.68 | $156.28 | Bearish |
-| UNH | $400.8 | 85.2 | Overbought | Buy | 93.9/95.5 | 55.3 (Strong) | Upper | Rising | $271.53 | $404.15 | GOLDEN CROSS — Strongly Bullish |
-| MRK | $113.26 | 47.9 | Neutral | Buy | 79.8/75.0 | 23.3 (Weak) | Middle | Rising | $107.9 | $124.0 | Mixed / Transitioning |
-| JNJ | $230.6 | 52.3 | Neutral | Buy | 90.3/72.9 | 20.8 (Weak) | Upper | Rising | $220.37 | $247.21 | Mixed / Transitioning |
-| LLY | $1007.64 | 61.5 | Mod. Bullish | Buy | 91.2/94.0 | 18.2 (Weak) | Middle | Rising | $850.51 | $1022.82 | Bullish |
-| TMO | $454.17 | 39.6 | Mod. Bearish | Sell | 25.9/21.2 | 28.2 (Strong) | Middle | Falling | $444.52 | $538.41 | Bearish |
-| ISRG | $429.97 | 36.8 | Mod. Bearish | Sell | 17.7/19.5 | 23.2 (Weak) | Middle | Falling | $417.74 | $491.15 | Bearish |
+| AMD | $449.9 | 76.7 | Overbought | Buy | 87.9/86.9 | 54.1 (Strong) | Middle | Falling | $200.62 | $469.22 | Bullish but extended |
+| CRM | $168.82 | 39.9 | Mod. Bearish | Sell | 17.3/8.4 | 15.1 (Weak) | Lower | Falling | $163.52 | $193.56 | Bearish |
+| NFLX | $88.06 | 39.4 | Mod. Bearish | Sell | 30.8/27.7 | 21.7 (Weak) | Middle | Falling | $85.1 | $108.95 | Bearish |
+| SNOW | $152.0 | 53.4 | Neutral | Buy | 79.1/79.6 | 14.5 (Weak) | Middle | Rising | $118.3 | $157.84 | Bearish |
+| PLTR | $134.37 | 43.9 | Neutral | Sell | 26.9/19.5 | 12.0 (Weak) | Middle | Falling | $122.68 | $156.28 | Bearish |
+| UNH | $400.85 | 85.2 | Overbought | Buy | 94.0/95.5 | 55.3 (Strong) | Upper | Rising | $271.53 | $404.15 | GOLDEN CROSS — Strongly Bullish |
+| LLY | $1006.89 | 61.3 | Mod. Bullish | Buy | 90.8/93.8 | 18.2 (Weak) | Middle | Rising | $850.51 | $1022.82 | Bullish |
+| JNJ | $230.5 | 52.1 | Neutral | Buy | 89.4/72.6 | 20.8 (Weak) | Upper | Rising | $220.37 | $247.21 | Mixed / Transitioning |
+| TMO | $453.02 | 39.0 | Mod. Bearish | Sell | 22.8/20.2 | 28.2 (Strong) | Middle | Falling | $444.52 | $538.41 | Bearish |
+| ABBV | $211.24 | 57.2 | Neutral | Buy | 84.9/76.5 | 15.6 (Weak) | Upper | Rising | $190.75 | $214.87 | Mixed / Transitioning |
+| ISRG | $430.0 | 36.8 | Mod. Bearish | Sell | 17.8/19.5 | 23.2 (Weak) | Middle | Falling | $417.74 | $491.15 | Bearish |
+| MRK | $113.18 | 47.7 | Neutral | Buy | 78.6/74.6 | 23.3 (Weak) | Middle | Rising | $107.9 | $124.0 | Mixed / Transitioning |
+| COP | $118.79 | 47.9 | Neutral | Sell | 41.3/36.0 | 15.1 (Weak) | Middle | Rising | $111.38 | $133.42 | Mixed / Transitioning |
 | XOM | $152.16 | 50.8 | Neutral | Buy | 70.0/64.0 | 13.7 (Weak) | Middle | Rising | $141.97 | $166.9 | Mixed / Transitioning |
-| CVX | $186.34 | 46.3 | Neutral | Sell | 46.6/45.0 | 18.8 (Weak) | Middle | Rising | $177.74 | $205.48 | Mixed / Transitioning |
-| SLB | $55.69 | 58.1 | Neutral | Sell | 66.2/63.5 | 26.6 (Strong) | Middle | Rising | $48.84 | $57.2 | Bullish |
-| EOG | $135.99 | 51.7 | Neutral | Sell | 51.0/44.1 | 12.8 (Weak) | Middle | Rising | $124.31 | $145.87 | Mixed / Transitioning |
-| COP | $118.71 | 47.7 | Neutral | Sell | 40.7/35.8 | 15.1 (Weak) | Middle | Rising | $111.38 | $133.42 | Mixed / Transitioning |
-| BAC | $50.32 | 41.4 | Neutral | Sell | 11.7/11.4 | 20.9 (Weak) | Lower | Falling | $48.16 | $55.4 | Bearish |
-| GS | $973.85 | 67.0 | Mod. Bullish | Buy | 99.2/94.9 | 16.2 (Weak) | Upper | Rising | $831.0 | $974.46 | Bullish |
-| JPM | $302.38 | 46.5 | Neutral | Sell | 32.9/33.5 | 17.4 (Weak) | Lower | Falling | $287.25 | $320.24 | Mixed / Transitioning |
-| V | $322.26 | 55.0 | Neutral | Sell | 47.0/50.4 | 17.9 (Weak) | Middle | Rising | $295.24 | $341.27 | Mixed / Transitioning |
-| MS | $195.74 | 65.8 | Mod. Bullish | Sell | 86.7/82.8 | 30.5 (Strong) | Upper | Rising | $159.71 | $197.5 | Bullish |
-| MA | $492.62 | 44.1 | Neutral | Sell | 6.5/10.4 | 13.9 (Weak) | Lower | Rising | $486.91 | $534.21 | Bearish |
-| TSM | $418.57 | 64.0 | Mod. Bullish | Sell | 90.9/60.7 | 23.5 (Weak) | Upper | Falling | $326.8 | $421.97 | Bullish |
-| ASML | $1586.74 | 61.2 | Mod. Bullish | Buy | 93.0/84.0 | 15.0 (Weak) | Upper | Falling | $1269.44 | $1603.49 | Bullish |
-| BLK | $1105.72 | 67.3 | Mod. Bullish | Buy | 94.9/94.4 | 18.1 (Weak) | Upper | Rising | $929.25 | $1109.74 | Bullish |
-| BRK-B | $482.7 | 57.3 | Neutral | Buy | 73.2/80.0 | 17.0 (Weak) | Upper | Rising | $464.01 | $489.42 | Mixed / Transitioning |
+| CVX | $186.3 | 46.2 | Neutral | Sell | 46.4/44.9 | 18.8 (Weak) | Middle | Rising | $177.74 | $205.48 | Mixed / Transitioning |
+| SLB | $55.66 | 58.0 | Neutral | Sell | 65.5/63.3 | 26.6 (Strong) | Middle | Rising | $48.84 | $57.2 | Bullish |
+| GS | $972.89 | 66.8 | Mod. Bullish | Buy | 97.9/94.5 | 16.2 (Weak) | Upper | Rising | $831.0 | $974.46 | Bullish |
+| EOG | $135.96 | 51.7 | Neutral | Sell | 50.9/44.1 | 12.8 (Weak) | Middle | Rising | $124.31 | $145.87 | Mixed / Transitioning |
+| BAC | $50.3 | 41.3 | Neutral | Sell | 11.4/11.3 | 20.9 (Weak) | Lower | Falling | $48.16 | $55.4 | Bearish |
+| JPM | $302.22 | 46.3 | Neutral | Sell | 32.1/33.3 | 17.4 (Weak) | Lower | Falling | $287.25 | $320.24 | Mixed / Transitioning |
+| MS | $195.69 | 65.7 | Mod. Bullish | Sell | 86.3/82.6 | 30.5 (Strong) | Upper | Rising | $159.71 | $197.5 | Bullish |
+| MA | $492.25 | 43.9 | Neutral | Sell | 5.7/10.1 | 13.9 (Weak) | Lower | Rising | $486.91 | $534.21 | Bearish |
+| BLK | $1105.13 | 67.2 | Mod. Bullish | Buy | 94.1/94.1 | 18.1 (Weak) | Upper | Rising | $929.25 | $1109.74 | Bullish |
+| V | $322.1 | 54.9 | Neutral | Sell | 46.5/50.3 | 17.9 (Weak) | Middle | Rising | $295.24 | $341.27 | Mixed / Transitioning |
+| BRK-B | $482.27 | 56.7 | Neutral | Buy | 71.5/79.4 | 17.0 (Weak) | Upper | Rising | $464.01 | $489.42 | Mixed / Transitioning |
+| TSM | $418.99 | 64.1 | Mod. Bullish | Sell | 92.0/61.1 | 23.5 (Weak) | Upper | Falling | $326.8 | $421.97 | Bullish |
+| ASML | $1585.01 | 61.1 | Mod. Bullish | Buy | 92.3/83.7 | 15.0 (Weak) | Upper | Falling | $1269.44 | $1603.49 | Bullish |
+| SAP | $163.79 | 41.9 | Neutral | Sell | 24.3/24.5 | 13.7 (Weak) | Lower | Falling | $157.91 | $185.28 | Bearish |
+| NVO | $46.24 | 70.5 | Overbought | Buy | 80.8/88.0 | 31.9 (Strong) | Middle | Rising | $35.63 | $47.79 | Mixed / Transitioning |
+| BABA | $143.07 | 59.2 | Neutral | Buy | 78.8/70.6 | 16.0 (Weak) | Upper | Rising | $117.93 | $146.87 | Mixed / Transitioning |
 | TM | $191.04 | 43.7 | Neutral | Buy | 70.2/41.7 | 32.8 (Strong) | Middle | Falling | $179.76 | $219.85 | Bearish |
-| NVO | $46.22 | 70.3 | Overbought | Buy | 80.5/87.9 | 31.9 (Strong) | Middle | Rising | $35.63 | $47.79 | Mixed / Transitioning |
-| SAP | $163.99 | 42.2 | Neutral | Sell | 25.2/24.8 | 13.7 (Weak) | Lower | Falling | $157.91 | $185.28 | Bearish |
-| SHOP | $96.49 | 32.5 | Mod. Bearish | Sell | 7.0/4.5 | 21.6 (Weak) | Middle | Falling | $94.0 | $137.3 | Bearish |
-| BABA | $142.91 | 59.0 | Neutral | Buy | 77.9/70.3 | 16.0 (Weak) | Upper | Rising | $117.93 | $146.87 | Mixed / Transitioning |
+| SHOP | $96.43 | 32.4 | Mod. Bearish | Sell | 6.9/4.4 | 21.6 (Weak) | Middle | Falling | $94.0 | $137.3 | Bearish |
 
 ---
 
@@ -680,97 +691,97 @@
 
 | Ticker | Expiry | P/C Ratio | Sentiment | Call Vol | Put Vol | Call OI | Put OI | Avg Call IV | Avg Put IV |
 |--------|--------|-----------|-----------|---------|---------|---------|--------|-------------|------------|
-| GLW | 2026-05-15 | 0.87 | Neutral | 3,804 | 3,302 | 67,237 | 58,575 | 270.1% | 282.4% |
-| TSLA | 2026-05-15 | 0.52 | Bullish | 528,212 | 274,128 | 672,652 | 553,793 | 89.6% | 328.8% |
-| GOOGL | 2026-05-15 | 0.5 | Bullish | 47,375 | 23,539 | 274,430 | 236,540 | 22.5% | 249.9% |
-| NVDA | 2026-05-15 | 0.43 | Bullish | 948,248 | 410,344 | 1,178,922 | 1,014,373 | 434.0% | 377.5% |
-| MSFT | 2026-05-15 | 0.28 | Bullish | 176,094 | 48,775 | 376,805 | 198,420 | 138.9% | 75.2% |
-| AMZN | 2026-05-15 | 0.35 | Bullish | 97,007 | 34,080 | 493,820 | 312,854 | 136.6% | 165.2% |
-| AAPL | 2026-05-15 | 0.46 | Bullish | 154,345 | 70,435 | 413,869 | 356,272 | 349.0% | 327.4% |
-| META | 2026-05-15 | 0.2 | Bullish | 134,685 | 26,856 | 331,435 | 156,112 | 246.4% | 173.5% |
-| ADBE | 2026-05-15 | 0.65 | Bullish | 3,565 | 2,310 | 50,410 | 33,387 | 207.1% | 144.1% |
-| ORCL | 2026-05-15 | 0.21 | Bullish | 116,457 | 24,422 | 290,338 | 167,800 | 223.6% | 193.4% |
-| SNOW | 2026-05-15 | 0.78 | Neutral | 4,703 | 3,649 | 65,654 | 35,167 | 246.0% | 163.3% |
-| AMD | 2026-05-15 | 0.55 | Bullish | 78,256 | 42,652 | 314,704 | 330,619 | 330.9% | 252.0% |
-| AVGO | 2026-05-15 | 0.15 | Bullish | 123,763 | 18,375 | 163,309 | 141,508 | 236.8% | 151.1% |
-| CRM | 2026-05-15 | 0.26 | Bullish | 12,870 | 3,303 | 86,575 | 54,783 | 183.6% | 162.3% |
-| INTC | 2026-05-15 | 0.79 | Neutral | 121,607 | 96,053 | 522,059 | 869,869 | 328.6% | 255.6% |
-| NFLX | 2026-05-15 | 0.35 | Bullish | 84,076 | 29,736 | 556,252 | 228,239 | 861.9% | 147.2% |
-| ABBV | 2026-05-15 | 0.1 | Bullish | 7,764 | 799 | 26,368 | 31,700 | 144.1% | 109.2% |
-| PLTR | 2026-05-15 | 0.35 | Bullish | 98,986 | 35,052 | 390,246 | 249,846 | 114.2% | 220.8% |
-| UNH | 2026-05-15 | 0.4 | Bullish | 6,920 | 2,771 | 87,561 | 78,070 | 26.9% | 240.2% |
-| MRK | 2026-05-15 | 0.52 | Bullish | 782 | 403 | 37,341 | 21,493 | 118.5% | 116.4% |
-| JNJ | 2026-05-15 | 0.89 | Neutral | 1,204 | 1,071 | 25,618 | 16,681 | 170.4% | 116.4% |
-| LLY | 2026-05-15 | 0.6 | Bullish | 4,508 | 2,701 | 33,891 | 26,869 | 101.2% | 102.0% |
-| TMO | 2026-05-15 | 4.49 | Bearish | 379 | 1,703 | 2,847 | 5,172 | 117.4% | 81.0% |
-| ISRG | 2026-05-15 | 0.64 | Bullish | 637 | 409 | 9,543 | 10,289 | 134.8% | 126.2% |
-| XOM | 2026-05-15 | 0.26 | Bullish | 6,186 | 1,620 | 113,550 | 70,856 | 170.7% | 135.2% |
-| CVX | 2026-05-15 | 0.55 | Bullish | 2,864 | 1,568 | 85,014 | 57,149 | 141.4% | 176.6% |
-| SLB | 2026-05-15 | 0.53 | Bullish | 627 | 333 | 86,871 | 45,258 | 166.3% | 178.5% |
-| EOG | 2026-05-15 | 0.19 | Bullish | 863 | 162 | 12,562 | 8,907 | 95.4% | 100.7% |
-| COP | 2026-05-15 | 0.11 | Bullish | 9,746 | 1,077 | 42,181 | 24,803 | 66.1% | 179.7% |
-| BAC | 2026-05-15 | 1.62 | Bearish | 8,696 | 14,067 | 166,654 | 285,163 | 118.3% | 98.7% |
-| GS | 2026-05-15 | 0.31 | Bullish | 11,761 | 3,646 | 57,406 | 32,717 | 35.1% | 186.1% |
-| JPM | 2026-05-15 | 0.27 | Bullish | 7,755 | 2,128 | 70,384 | 54,538 | 143.3% | 123.6% |
-| V | 2026-05-15 | 0.11 | Bullish | 20,878 | 2,285 | 50,526 | 32,692 | 144.9% | 116.4% |
-| MS | 2026-05-15 | 0.04 | Bullish | 9,887 | 350 | 22,683 | 23,310 | 204.3% | 164.7% |
-| MA | 2026-05-15 | 0.62 | Bullish | 1,253 | 778 | 14,858 | 13,287 | 155.6% | 109.4% |
-| TSM | 2026-05-15 | 0.61 | Bullish | 35,441 | 21,464 | 117,439 | 226,754 | 203.4% | 192.0% |
-| ASML | 2026-05-15 | 1.11 | Bearish | 2,769 | 3,085 | 20,070 | 30,244 | 246.3% | 220.5% |
-| BLK | 2026-05-15 | 7.47 | Bearish | 144 | 1,075 | 1,873 | 3,559 | 81.7% | 144.3% |
-| BRK-B | 2026-05-15 | 0.79 | Neutral | 2,793 | 2,212 | 51,999 | 29,438 | 104.0% | 82.9% |
-| TM | 2026-05-15 | 3.27 | Bearish | 52 | 170 | 3,182 | 2,086 | 131.2% | 103.9% |
-| NVO | 2026-05-15 | 0.26 | Bullish | 6,841 | 1,746 | 89,673 | 92,787 | 163.0% | 134.8% |
-| SAP | 2026-05-15 | 0.28 | Bullish | 1,143 | 324 | 9,876 | 7,699 | 142.8% | 178.6% |
-| SHOP | 2026-05-15 | 0.87 | Neutral | 8,297 | 7,184 | 101,291 | 51,330 | 215.0% | 175.5% |
-| BABA | 2026-05-15 | 0.3 | Bullish | 52,463 | 15,547 | 220,448 | 114,820 | 207.7% | 156.4% |
+| TSLA | 2026-05-15 | 0.51 | Bullish | 548,208 | 276,989 | 672,652 | 553,793 | 125.8% | 327.6% |
+| AAPL | 2026-05-15 | 0.45 | Bullish | 155,895 | 70,702 | 413,869 | 356,272 | 382.8% | 326.4% |
+| AMZN | 2026-05-15 | 0.36 | Bullish | 98,876 | 36,053 | 493,820 | 312,854 | 132.9% | 165.5% |
+| GLW | 2026-05-15 | 0.87 | Neutral | 3,819 | 3,315 | 67,237 | 58,575 | 188.1% | 285.2% |
+| META | 2026-05-15 | 0.2 | Bullish | 135,239 | 27,054 | 331,435 | 156,112 | 260.4% | 170.4% |
+| NVDA | 2026-05-15 | 0.43 | Bullish | 953,365 | 413,169 | 1,178,922 | 1,014,373 | 415.5% | 381.3% |
+| GOOGL | 2026-05-15 | 0.49 | Bullish | 47,650 | 23,579 | 274,430 | 236,540 | 22.7% | 251.5% |
+| MSFT | 2026-05-15 | 0.28 | Bullish | 177,693 | 49,661 | 376,805 | 198,420 | 138.0% | 77.8% |
+| ADBE | 2026-05-15 | 0.65 | Bullish | 3,577 | 2,321 | 50,410 | 33,387 | 202.2% | 147.7% |
+| AVGO | 2026-05-15 | 0.15 | Bullish | 123,941 | 18,421 | 163,309 | 141,508 | 243.7% | 150.2% |
+| INTC | 2026-05-15 | 0.78 | Neutral | 123,204 | 96,315 | 522,059 | 869,869 | 313.5% | 263.3% |
+| ORCL | 2026-05-15 | 0.21 | Bullish | 118,029 | 24,616 | 290,338 | 167,800 | 217.2% | 192.3% |
+| AMD | 2026-05-15 | 0.54 | Bullish | 78,680 | 42,866 | 314,704 | 330,619 | 323.6% | 253.3% |
+| CRM | 2026-05-15 | 0.26 | Bullish | 12,914 | 3,310 | 86,575 | 54,783 | 187.3% | 157.6% |
+| NFLX | 2026-05-15 | 0.35 | Bullish | 84,362 | 29,758 | 556,252 | 228,239 | 860.5% | 140.6% |
+| SNOW | 2026-05-15 | 0.77 | Neutral | 4,723 | 3,635 | 65,654 | 35,167 | 246.9% | 165.1% |
+| PLTR | 2026-05-15 | 0.36 | Bullish | 99,974 | 35,608 | 390,246 | 249,846 | 112.9% | 227.6% |
+| UNH | 2026-05-15 | 0.39 | Bullish | 7,038 | 2,772 | 87,561 | 78,070 | 27.6% | 242.5% |
+| LLY | 2026-05-15 | 0.59 | Bullish | 4,608 | 2,713 | 33,891 | 26,869 | 110.5% | 101.2% |
+| JNJ | 2026-05-15 | 0.88 | Neutral | 1,216 | 1,071 | 25,618 | 16,681 | 146.9% | 115.1% |
+| TMO | 2026-05-15 | 4.49 | Bearish | 379 | 1,703 | 2,847 | 5,172 | 118.3% | 92.6% |
+| ABBV | 2026-05-15 | 0.1 | Bullish | 7,784 | 813 | 26,368 | 31,700 | 149.1% | 107.1% |
+| ISRG | 2026-05-15 | 0.64 | Bullish | 637 | 409 | 9,543 | 10,289 | 134.7% | 126.5% |
+| MRK | 2026-05-15 | 0.52 | Bullish | 784 | 405 | 37,341 | 21,493 | 115.9% | 122.1% |
+| COP | 2026-05-15 | 0.11 | Bullish | 9,749 | 1,086 | 42,181 | 24,803 | 53.7% | 179.1% |
+| XOM | 2026-05-15 | 0.26 | Bullish | 6,196 | 1,634 | 113,550 | 70,856 | 170.7% | 136.1% |
+| CVX | 2026-05-15 | 0.55 | Bullish | 2,865 | 1,577 | 85,014 | 57,149 | 141.4% | 177.8% |
+| SLB | 2026-05-15 | 0.53 | Bullish | 627 | 333 | 86,871 | 45,258 | 170.0% | 178.4% |
+| GS | 2026-05-15 | 0.3 | Bullish | 11,802 | 3,554 | 57,406 | 32,717 | 35.0% | 184.9% |
+| EOG | 2026-05-15 | 0.19 | Bullish | 872 | 162 | 12,562 | 8,907 | 96.7% | 100.5% |
+| BAC | 2026-05-15 | 1.61 | Bearish | 8,720 | 14,070 | 166,654 | 285,163 | 116.3% | 93.5% |
+| JPM | 2026-05-15 | 0.27 | Bullish | 7,803 | 2,129 | 70,384 | 54,538 | 137.9% | 122.8% |
+| MS | 2026-05-15 | 0.04 | Bullish | 9,901 | 350 | 22,683 | 23,310 | 206.7% | 170.5% |
+| MA | 2026-05-15 | 0.62 | Bullish | 1,253 | 778 | 14,858 | 13,287 | 158.8% | 111.2% |
+| BLK | 2026-05-15 | 7.47 | Bearish | 144 | 1,075 | 1,873 | 3,559 | 83.0% | 146.5% |
+| V | 2026-05-15 | 0.11 | Bullish | 20,947 | 2,286 | 50,526 | 32,692 | 147.9% | 115.6% |
+| BRK-B | 2026-05-15 | 0.79 | Neutral | 2,793 | 2,215 | 51,999 | 29,438 | 93.9% | 82.1% |
+| TSM | 2026-05-15 | 0.61 | Bullish | 35,471 | 21,528 | 117,439 | 226,754 | 192.4% | 192.2% |
+| ASML | 2026-05-15 | 1.05 | Bearish | 2,822 | 2,961 | 20,070 | 30,244 | 256.4% | 221.4% |
+| SAP | 2026-05-15 | 0.28 | Bullish | 1,144 | 324 | 9,876 | 7,699 | 146.0% | 169.7% |
+| NVO | 2026-05-15 | 0.32 | Bullish | 6,865 | 2,163 | 89,673 | 92,787 | 161.6% | 131.6% |
+| BABA | 2026-05-15 | 0.3 | Bullish | 52,912 | 15,627 | 220,448 | 114,820 | 210.2% | 157.0% |
+| TM | 2026-05-15 | 3.27 | Bearish | 52 | 170 | 3,182 | 2,086 | 131.0% | 103.9% |
+| SHOP | 2026-05-15 | 0.84 | Neutral | 8,524 | 7,187 | 101,291 | 51,330 | 210.5% | 179.2% |
 
 ### Top Open Interest Strikes
 
-**GLW:** Calls: $210, $250, $170 | Puts: $140, $145, $170
 **TSLA:** Calls: $960, $450, $990 | Puts: $150, $250, $230
-**GOOGL:** Calls: $335, $355, $400 | Puts: $330, $215, $300
-**NVDA:** Calls: $230, $200, $235 | Puts: $190, $180, $160
-**MSFT:** Calls: $450, $445, $430 | Puts: $400, $380, $390
-**AMZN:** Calls: $280, $260, $285 | Puts: $200, $205, $250
 **AAPL:** Calls: $300, $280, $295 | Puts: $250, $230, $240
+**AMZN:** Calls: $280, $260, $285 | Puts: $200, $205, $250
+**GLW:** Calls: $210, $250, $170 | Puts: $140, $145, $170
 **META:** Calls: $600, $680, $700 | Puts: $600, $550, $580
+**NVDA:** Calls: $230, $200, $235 | Puts: $190, $180, $160
+**GOOGL:** Calls: $335, $355, $400 | Puts: $330, $215, $300
+**MSFT:** Calls: $450, $445, $430 | Puts: $400, $380, $390
 **ADBE:** Calls: $265, $250, $280 | Puts: $225, $240, $230
-**ORCL:** Calls: $200, $230, $210 | Puts: $150, $175, $180
-**SNOW:** Calls: $280, $160, $155 | Puts: $110, $120, $140
-**AMD:** Calls: $200, $530, $500 | Puts: $200, $240, $250
 **AVGO:** Calls: $500, $450, $400 | Puts: $300, $320, $260
-**CRM:** Calls: $210, $185, $180 | Puts: $165, $175, $170
 **INTC:** Calls: $70, $120, $50 | Puts: $70, $110, $55
+**ORCL:** Calls: $200, $230, $210 | Puts: $150, $175, $180
+**AMD:** Calls: $200, $530, $500 | Puts: $200, $240, $250
+**CRM:** Calls: $210, $185, $180 | Puts: $165, $175, $170
 **NFLX:** Calls: $90, $100, $105 | Puts: $80, $90, $85
-**ABBV:** Calls: $218, $210, $250 | Puts: $200, $185, $210
+**SNOW:** Calls: $280, $160, $155 | Puts: $110, $120, $140
 **PLTR:** Calls: $150, $140, $137 | Puts: $130, $125, $140
 **UNH:** Calls: $400, $350, $440 | Puts: $230, $290, $382
-**MRK:** Calls: $135, $120, $130 | Puts: $105, $110, $113
-**JNJ:** Calls: $230, $240, $260 | Puts: $230, $225, $220
 **LLY:** Calls: $1100, $1000, $1050 | Puts: $750, $800, $740
+**JNJ:** Calls: $230, $240, $260 | Puts: $230, $225, $220
 **TMO:** Calls: $540, $530, $560 | Puts: $400, $420, $460
+**ABBV:** Calls: $218, $210, $250 | Puts: $200, $185, $210
 **ISRG:** Calls: $500, $565, $515 | Puts: $430, $405, $420
+**MRK:** Calls: $135, $120, $130 | Puts: $105, $110, $113
+**COP:** Calls: $125, $130, $140 | Puts: $125, $110, $105
 **XOM:** Calls: $165, $155, $170 | Puts: $140, $120, $145
 **CVX:** Calls: $200, $190, $195 | Puts: $190, $180, $150
 **SLB:** Calls: $58, $50, $55 | Puts: $42, $45, $40
-**EOG:** Calls: $135, $145, $150 | Puts: $125, $130, $120
-**COP:** Calls: $125, $130, $140 | Puts: $125, $110, $105
-**BAC:** Calls: $55, $52, $58 | Puts: $50, $48, $45
 **GS:** Calls: $1000, $1350, $1300 | Puts: $750, $775, $875
+**EOG:** Calls: $135, $145, $150 | Puts: $125, $130, $120
+**BAC:** Calls: $55, $52, $58 | Puts: $50, $48, $45
 **JPM:** Calls: $310, $315, $320 | Puts: $250, $280, $290
-**V:** Calls: $340, $330, $325 | Puts: $300, $275, $280
 **MS:** Calls: $202, $200, $185 | Puts: $160, $140, $150
 **MA:** Calls: $550, $560, $535 | Puts: $480, $500, $450
+**BLK:** Calls: $1100, $1020, $1050 | Puts: $730, $940, $750
+**V:** Calls: $340, $330, $325 | Puts: $300, $275, $280
+**BRK-B:** Calls: $500, $480, $650 | Puts: $475, $440, $430
 **TSM:** Calls: $350, $470, $420 | Puts: $330, $400, $340
 **ASML:** Calls: $1600, $1630, $2180 | Puts: $1400, $1500, $1310
-**BLK:** Calls: $1100, $1020, $1050 | Puts: $730, $940, $750
-**BRK-B:** Calls: $500, $480, $650 | Puts: $475, $440, $430
-**TM:** Calls: $210, $220, $230 | Puts: $210, $180, $190
-**NVO:** Calls: $50, $40, $45 | Puts: $35, $40, $30
 **SAP:** Calls: $180, $170, $182 | Puts: $155, $170, $160
-**SHOP:** Calls: $85, $150, $120 | Puts: $100, $105, $95
+**NVO:** Calls: $50, $40, $45 | Puts: $35, $40, $30
 **BABA:** Calls: $145, $150, $160 | Puts: $120, $135, $130
+**TM:** Calls: $210, $220, $230 | Puts: $210, $180, $190
+**SHOP:** Calls: $85, $150, $120 | Puts: $100, $105, $95
 
 ---
 
@@ -780,78 +791,81 @@
 
 | Ticker | Insider | Type | Shares | Est. Value | Date |
 |--------|---------|------|--------|------------|------|
-| GLW | TILLMAN MICHAUNE D |  | 3,260 | $674,870 | 2026-05-11 |
-| GLW | Seetharam Soumya |  | 20,000 | $4M | 2026-05-11 |
-| GLW | Zhang John Z |  | 10,000 | $2M | 2026-05-11 |
 | TSLA | Wilson-Thompson Kathleen |  | 40,948 | N/A | 2026-04-30 |
 | TSLA | Wilson-Thompson Kathleen |  | 440 | $169,085 | 2026-04-30 |
 | TSLA | Wilson-Thompson Kathleen |  | 1,240 | $475,679 | 2026-04-30 |
-| GOOGL | ARNOLD FRANCES |  | 102 | $37,842 | 2026-04-30 |
-| GOOGL | Schindler Philipp |  | 8,054 | $3M | 2026-04-25 |
-| GOOGL | Schindler Philipp |  | 7,980 | N/A | 2026-04-25 |
-| NVDA | STEVENS MARK A |  | 121,682 | $21M | 2026-03-20 |
-| NVDA | STEVENS MARK A |  | 100,000 | $17M | 2026-03-20 |
-| NVDA | Kress Colette |  | 471 | $83,608 | 2026-03-20 |
-| MSFT | Coleman Amy |  | 1,364 | $536,202 | 2026-04-15 |
-| MSFT | Coleman Amy |  | 31 | $12,262 | 2026-03-16 |
-| MSFT | Walmsley Emma N |  | 3 | N/A | 2026-03-12 |
-| AMZN | Jassy Andrew R |  | 31,352 | $9M | 2026-05-04 |
-| AMZN | Herrington Douglas J |  | 27,500 | $8M | 2026-05-04 |
-| AMZN | BEZOS JEFFREY P |  | 220,200 | N/A | 2026-05-04 |
 | AAPL | Borders Ben |  | 1,274 | $369,460 | 2026-05-08 |
 | AAPL | LEVINSON ARTHUR D |  | 5,000 | N/A | 2026-05-06 |
 | AAPL | LEVINSON ARTHUR D |  | 100,473 | $29M | 2026-05-06 |
+| AMZN | Jassy Andrew R |  | 31,352 | $9M | 2026-05-04 |
+| AMZN | Herrington Douglas J |  | 27,500 | $8M | 2026-05-04 |
+| AMZN | BEZOS JEFFREY P |  | 220,200 | N/A | 2026-05-04 |
+| GLW | TILLMAN MICHAUNE D |  | 3,260 | $674,870 | 2026-05-11 |
+| GLW | Seetharam Soumya |  | 20,000 | $4M | 2026-05-11 |
+| GLW | Zhang John Z |  | 10,000 | $2M | 2026-05-11 |
 | META | Olivan Javier |  | 408 | $246,665 | 2026-05-11 |
 | META | Olivan Javier |  | 82 | $49,575 | 2026-05-11 |
 | META | Olivan Javier |  | 57 | $34,460 | 2026-05-11 |
+| NVDA | STEVENS MARK A |  | 121,682 | $21M | 2026-03-20 |
+| NVDA | STEVENS MARK A |  | 100,000 | $17M | 2026-03-20 |
+| NVDA | Kress Colette |  | 471 | $83,608 | 2026-03-20 |
+| GOOGL | ARNOLD FRANCES |  | 102 | $37,842 | 2026-04-30 |
+| GOOGL | Schindler Philipp |  | 8,054 | $3M | 2026-04-25 |
+| GOOGL | Schindler Philipp |  | 7,980 | N/A | 2026-04-25 |
+| MSFT | Coleman Amy |  | 1,364 | $536,202 | 2026-04-15 |
+| MSFT | Coleman Amy |  | 31 | $12,262 | 2026-03-16 |
+| MSFT | Walmsley Emma N |  | 3 | N/A | 2026-03-12 |
 | ADBE | Forusz Jillian |  | 755 | $185,915 | 2026-04-30 |
 | ADBE | NARAYEN SHANTANU |  | 10,341 | $3M | 2026-04-28 |
 | ADBE | NARAYEN SHANTANU |  | 13,237 | $3M | 2026-04-28 |
-| ORCL | Maxson Hilary B |  | 56,111 | N/A | 2026-05-05 |
-| ORCL | Maxson Hilary B |  | 224,441 | $42M | 2026-05-05 |
-| ORCL | Levey Stuart |  | 346 | $59,955 | 2026-04-24 |
-| SNOW | Speiser Michael L |  | 61 | $8,571 | 2026-05-01 |
-| SNOW | Speiser Michael L |  | 310 | $43,737 | 2026-05-01 |
-| SNOW | Speiser Michael L |  | 469 | $66,633 | 2026-05-01 |
-| AMD | Papermaster Mark D |  | 2,350 | N/A | 2026-05-11 |
-| AMD | GRASBY PAUL DARREN |  | 24,376 | $11M | 2026-05-08 |
-| AMD | Papermaster Mark D |  | 31,320 | $11M | 2026-04-24 |
 | AVGO | SAMUELI HENRY |  | 864 | N/A | 2026-04-21 |
 | AVGO | Low Check Kian |  | 117 | $46,757 | 2026-04-20 |
 | AVGO | Low Check Kian |  | 864 | N/A | 2026-04-20 |
-| CRM | Tallapragada Srinivas |  | 1,785 | N/A | 2026-04-22 |
-| CRM | Tallapragada Srinivas |  | 13,781 | $3M | 2026-04-22 |
-| CRM | Tallapragada Srinivas |  | 886 | $168,163 | 2026-04-22 |
 | INTC | Goldsmith Andrea Jo |  | 12,552 | N/A | 2026-05-07 |
 | INTC | Goldsmith Andrea Jo |  | 12,552 | N/A | 2026-05-07 |
 | INTC | Henry Alyssa |  | 12,552 | N/A | 2026-05-07 |
+| ORCL | Maxson Hilary B |  | 56,111 | N/A | 2026-05-05 |
+| ORCL | Maxson Hilary B |  | 224,441 | $42M | 2026-05-05 |
+| ORCL | Levey Stuart |  | 346 | $59,955 | 2026-04-24 |
+| AMD | Papermaster Mark D |  | 2,350 | N/A | 2026-05-11 |
+| AMD | GRASBY PAUL DARREN |  | 24,376 | $11M | 2026-05-08 |
+| AMD | Papermaster Mark D |  | 31,320 | $11M | 2026-04-24 |
+| CRM | Tallapragada Srinivas |  | 1,785 | N/A | 2026-04-22 |
+| CRM | Tallapragada Srinivas |  | 13,781 | $3M | 2026-04-22 |
+| CRM | Tallapragada Srinivas |  | 886 | $168,163 | 2026-04-22 |
 | NFLX | Peters Gregory K |  | 27,312 | $2M | 2026-05-07 |
 | NFLX | Neumann Spencer Adam |  | 9,253 | $823,075 | 2026-05-07 |
 | NFLX | Peters Gregory K |  | 1,209 | N/A | 2026-05-06 |
-| ABBV | Quaggin Susan E |  | 1,118 | N/A | 2026-05-08 |
-| ABBV | Davis Jennifer L. |  | 1,118 | N/A | 2026-05-08 |
-| ABBV | MEYER MELODY B |  | 1,118 | N/A | 2026-05-08 |
+| SNOW | Speiser Michael L |  | 61 | $8,571 | 2026-05-01 |
+| SNOW | Speiser Michael L |  | 310 | $43,737 | 2026-05-01 |
+| SNOW | Speiser Michael L |  | 469 | $66,633 | 2026-05-01 |
 | PLTR | Buckley Jeffrey |  | 21,141 | N/A | 2026-04-26 |
 | PLTR | Moore Alexander D. |  | 216 | $30,761 | 2026-04-15 |
 | PLTR | Moore Alexander D. |  | 3,342 | $474,569 | 2026-04-15 |
 | UNH | Conway Patrick Hugh |  | 800 | $284,000 | 2026-04-23 |
 | UNH | MCNABB FREDERICK WILLIAM III |  | 388 | N/A | 2026-04-01 |
 | UNH | Gil Kristen |  | 320 | N/A | 2026-04-01 |
-| MRK | Maraldo David R. |  | 21,731 | N/A | 2026-05-05 |
-| MRK | Maraldo David R. |  | 7,424 | N/A | 2026-05-05 |
-| MRK | Foard Brian |  | 31,044 | N/A | 2026-05-05 |
-| JNJ | REED JOHN C |  | 25,255 | N/A | 2026-05-01 |
-| JNJ | REED JOHN C |  | 11,002 | $3M | 2026-05-01 |
-| JNJ | REED JOHN C |  | 25,255 | N/A | 2026-05-01 |
 | LLY | LILLY ENDOWMENT INC |  | 2,208 | $2M | 2026-05-06 |
 | LLY | LILLY ENDOWMENT INC |  | 13,620 | $14M | 2026-05-06 |
 | LLY | LUCIANO JUAN R |  | 17 | $15,638 | 2026-04-20 |
+| JNJ | REED JOHN C |  | 25,255 | N/A | 2026-05-01 |
+| JNJ | REED JOHN C |  | 11,002 | $3M | 2026-05-01 |
+| JNJ | REED JOHN C |  | 25,255 | N/A | 2026-05-01 |
 | TMO | Pettiti Gianluca |  | 400 | $185,064 | 2026-04-27 |
 | TMO | Keith R. Alexandra |  | 66 | N/A | 2026-03-28 |
 | TMO | WEISLER DION J |  | 79 | N/A | 2026-03-28 |
+| ABBV | Quaggin Susan E |  | 1,118 | N/A | 2026-05-08 |
+| ABBV | Davis Jennifer L. |  | 1,118 | N/A | 2026-05-08 |
+| ABBV | MEYER MELODY B |  | 1,118 | N/A | 2026-05-08 |
 | ISRG | LOEB GARY |  | 400 | $178,780 | 2026-05-11 |
 | ISRG | Reed Monica P |  | 554 | N/A | 2026-04-30 |
 | ISRG | Reed Monica P |  | 531 | N/A | 2026-04-30 |
+| MRK | Maraldo David R. |  | 21,731 | N/A | 2026-05-05 |
+| MRK | Maraldo David R. |  | 7,424 | N/A | 2026-05-05 |
+| MRK | Foard Brian |  | 31,044 | N/A | 2026-05-05 |
+| COP | McRaven William H. |  | 2,230 | N/A | 2026-04-15 |
+| COP | McRaven William H. |  | 2,230 | N/A | 2026-04-15 |
+| COP | LEACH TIMOTHY A |  | 2,230 | N/A | 2026-04-15 |
 | XOM | Talley Darrin L |  | 1,080 | $167,935 | 2026-03-16 |
 | XOM | Talley Darrin L |  | 2,150 | $339,313 | 2026-03-02 |
 | CVX | Moyo Dambisa F |  | 780 | N/A | 2026-05-06 |
@@ -860,12 +874,12 @@
 | SLB | de La Chevardiere Patrick |  | 2,000 | $108,660 | 2026-05-07 |
 | SLB | Gassen Steve Matthew |  | 21,980 | N/A | 2026-05-01 |
 | SLB | Gassen Steve Matthew |  | 11,399 | N/A | 2026-05-01 |
+| GS | Ruemmler Kathryn H. |  | 80 | $74,428 | 2026-05-01 |
+| GS | Ruemmler Kathryn H. |  | 468 | $435,104 | 2026-05-01 |
+| GS | Ruemmler Kathryn H. |  | 135 | $125,395 | 2026-05-01 |
 | EOG | Leitzell Jeffrey R. |  | 0 | N/A | 2026-04-30 |
 | EOG | Leitzell Jeffrey R. |  | 4 | $562 | 2026-04-30 |
 | EOG | Kerr Michael T. |  | 1 | $141 | 2026-04-30 |
-| COP | McRaven William H. |  | 2,230 | N/A | 2026-04-15 |
-| COP | McRaven William H. |  | 2,230 | N/A | 2026-04-15 |
-| COP | LEACH TIMOTHY A |  | 2,230 | N/A | 2026-04-15 |
 | BAC | Greener Geoffrey S |  | 126,756 | $7M | 2026-05-05 |
 | BAC | Zuber Maria T |  | 5,365 | N/A | 2026-05-04 |
 | BAC | Woods Thomas D |  | 2,473 | $129,066 | 2026-05-04 |
@@ -874,78 +888,81 @@
 
 | Ticker | Company | Form | Filing Date | Link |
 |--------|---------|------|-------------|------|
-| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000223/xslF345X06/form4.xml) |
-| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000221/xslF345X06/form4.xml) |
-| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000219/xslF345X06/form4.xml) |
 | TSLA | Tesla, Inc. | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/1318605/000110465926055079/xslF345X06/tm2613330-1_4seq1.xml) |
 | TSLA | Tesla, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1318605/000110465926047678/xslF345X06/tm2612285-1_4seq1.xml) |
 | TSLA | Tesla, Inc. | 4 | 2026-04-02 | [View](https://www.sec.gov/Archives/edgar/data/1318605/000197292826000002/xslF345X06/edgardoc.xml) |
-| GOOGL | Alphabet Inc. | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526201851/xslF345X06/ownership.xml) |
-| GOOGL | Alphabet Inc. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526193335/xslF345X06/ownership.xml) |
-| GOOGL | Alphabet Inc. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526192974/xslF345X06/ownership.xml) |
-| NVDA | NVIDIA CORP | 4 | 2026-03-24 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000119903926000003/xslF345X06/wk-form4_1774386816.xml) |
-| NVDA | NVIDIA CORP | 4 | 2026-03-20 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000172529226000002/xslF345X06/wk-form4_1774052040.xml) |
-| NVDA | NVIDIA CORP | 4 | 2026-03-20 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000152611126000005/xslF345X06/wk-form4_1774051982.xml) |
-| MSFT | MICROSOFT CORP | 4 | 2026-04-15 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000070/xslF345X06/form4.xml) |
-| MSFT | MICROSOFT CORP | 4 | 2026-03-16 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000066/xslF345X05/form4.xml) |
-| MSFT | MICROSOFT CORP | 4 | 2026-03-13 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000064/xslF345X05/form4.xml) |
-| AMZN | AMAZON COM INC | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000137454526000006/xslF345X06/wk-form4_1778100121.xml) |
-| AMZN | AMAZON COM INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000193600626000014/xslF345X06/wk-form4_1778013858.xml) |
-| AMZN | AMAZON COM INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000016/xslF345X06/wk-form4_1778013416.xml) |
 | AAPL | Apple Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/320193/000114036126020871/xslF345X06/form4.xml) |
 | AAPL | Apple Inc. | 4 | 2026-05-08 | [View](https://www.sec.gov/Archives/edgar/data/320193/000114036126020298/xslF345X06/form4.xml) |
 | AAPL | Apple Inc. | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/320193/000114036126017175/xslF345X06/form4.xml) |
+| AMZN | AMAZON COM INC | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000137454526000006/xslF345X06/wk-form4_1778100121.xml) |
+| AMZN | AMAZON COM INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000193600626000014/xslF345X06/wk-form4_1778013858.xml) |
+| AMZN | AMAZON COM INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1018724/000101872426000016/xslF345X06/wk-form4_1778013416.xml) |
+| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000223/xslF345X06/form4.xml) |
+| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000221/xslF345X06/form4.xml) |
+| GLW | CORNING INC /NY | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/24741/000002474126000219/xslF345X06/form4.xml) |
 | META | Meta Platforms, Inc. | 4 | 2026-05-13 | [View](https://www.sec.gov/Archives/edgar/data/1326801/000095010326007167/xslF345X06/ownership.xml) |
 | META | Meta Platforms, Inc. | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1326801/000095010326007078/xslF345X06/ownership.xml) |
 | META | Meta Platforms, Inc. | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/1326801/000095010326006913/xslF345X06/ownership.xml) |
+| NVDA | NVIDIA CORP | 4 | 2026-03-24 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000119903926000003/xslF345X06/wk-form4_1774386816.xml) |
+| NVDA | NVIDIA CORP | 4 | 2026-03-20 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000172529226000002/xslF345X06/wk-form4_1774052040.xml) |
+| NVDA | NVIDIA CORP | 4 | 2026-03-20 | [View](https://www.sec.gov/Archives/edgar/data/1045810/000152611126000005/xslF345X06/wk-form4_1774051982.xml) |
+| GOOGL | Alphabet Inc. | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526201851/xslF345X06/ownership.xml) |
+| GOOGL | Alphabet Inc. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526193335/xslF345X06/ownership.xml) |
+| GOOGL | Alphabet Inc. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/1652044/000119312526192974/xslF345X06/ownership.xml) |
+| MSFT | MICROSOFT CORP | 4 | 2026-04-15 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000070/xslF345X06/form4.xml) |
+| MSFT | MICROSOFT CORP | 4 | 2026-03-16 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000066/xslF345X05/form4.xml) |
+| MSFT | MICROSOFT CORP | 4 | 2026-03-13 | [View](https://www.sec.gov/Archives/edgar/data/789019/000078901926000064/xslF345X05/form4.xml) |
 | ADBE | ADOBE INC. | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/796343/000079634326000107/xslF345X06/wk-form4_1777684649.xml) |
 | ADBE | ADOBE INC. | 4 | 2026-04-30 | [View](https://www.sec.gov/Archives/edgar/data/796343/000079634326000105/xslF345X06/wk-form4_1777583385.xml) |
 | ADBE | ADOBE INC. | 4 | 2026-04-22 | [View](https://www.sec.gov/Archives/edgar/data/796343/000079634326000103/xslF345X06/wk-form4_1776890002.xml) |
-| ORCL | ORACLE CORP | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000034/xslF345X06/form4.xml) |
-| ORCL | ORACLE CORP | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000029/xslF345X06/form4.xml) |
-| ORCL | ORACLE CORP | 4 | 2026-04-20 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000027/xslF345X06/form4.xml) |
-| SNOW | Snowflake Inc. | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000143364426000007/xslF345X06/wk-form4_1777938147.xml) |
-| SNOW | Snowflake Inc. | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000212702526000003/xslF345X06/wk-form4_1776463237.xml) |
-| SNOW | Snowflake Inc. | 4 | 2026-04-09 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000182173726000006/xslF345X06/wk-form4_1775776603.xml) |
-| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-05-13 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000080/xslF345X06/wk-form4_1778703871.xml) |
-| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000078/xslF345X06/wk-form4_1778616232.xml) |
-| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000068/xslF345X06/wk-form4_1777407129.xml) |
 | AVGO | Broadcom Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1730168/000110465926047737/xslF345X06/tm2612412-1_4seq1.xml) |
 | AVGO | Broadcom Inc. | 4 | 2026-04-22 | [View](https://www.sec.gov/Archives/edgar/data/1730168/000173016826000043/xslF345X06/wk-form4_1776891530.xml) |
 | AVGO | Broadcom Inc. | 4 | 2026-04-22 | [View](https://www.sec.gov/Archives/edgar/data/1730168/000135956126000002/xslF345X06/wk-form4_1776891400.xml) |
-| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000092/xslF345X06/form4.xml) |
-| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000090/xslF345X06/form4.xml) |
-| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000088/xslF345X06/form4.xml) |
 | INTC | INTEL CORP | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/50863/000005086326000108/xslF345X06/form4.xml) |
 | INTC | INTEL CORP | 4 | 2026-05-08 | [View](https://www.sec.gov/Archives/edgar/data/50863/000005086326000098/xslF345X06/form4.xml) |
 | INTC | INTEL CORP | 4 | 2026-05-08 | [View](https://www.sec.gov/Archives/edgar/data/50863/000005086326000097/xslF345X06/form4.xml) |
+| ORCL | ORACLE CORP | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000034/xslF345X06/form4.xml) |
+| ORCL | ORACLE CORP | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000029/xslF345X06/form4.xml) |
+| ORCL | ORACLE CORP | 4 | 2026-04-20 | [View](https://www.sec.gov/Archives/edgar/data/1341439/000134143926000027/xslF345X06/form4.xml) |
+| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-05-13 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000080/xslF345X06/wk-form4_1778703871.xml) |
+| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000078/xslF345X06/wk-form4_1778616232.xml) |
+| AMD | ADVANCED MICRO DEVICES INC | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/2488/000000248826000068/xslF345X06/wk-form4_1777407129.xml) |
+| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000092/xslF345X06/form4.xml) |
+| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000090/xslF345X06/form4.xml) |
+| CRM | Salesforce, Inc. | 4 | 2026-04-23 | [View](https://www.sec.gov/Archives/edgar/data/1108524/000110852426000088/xslF345X06/form4.xml) |
 | NFLX | NETFLIX INC | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/1065280/000158310926000002/xslF345X06/wk-form4_1778191869.xml) |
 | NFLX | NETFLIX INC | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000172/xslF345X06/wk-form4_1778191792.xml) |
 | NFLX | NETFLIX INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1065280/000106528026000170/xslF345X06/wk-form4_1778021149.xml) |
-| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000122289026000003/xslF345X06/form4-05122026_050524.xml) |
-| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000122369026000004/xslF345X06/form4-05122026_050522.xml) |
-| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000135558026000002/xslF345X06/form4-05122026_050520.xml) |
+| SNOW | Snowflake Inc. | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000143364426000007/xslF345X06/wk-form4_1777938147.xml) |
+| SNOW | Snowflake Inc. | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000212702526000003/xslF345X06/wk-form4_1776463237.xml) |
+| SNOW | Snowflake Inc. | 4 | 2026-04-09 | [View](https://www.sec.gov/Archives/edgar/data/1640147/000182173726000006/xslF345X06/wk-form4_1775776603.xml) |
 | PLTR | Palantir Technologies Inc. | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/1321655/000170518926000008/xslF345X06/wk-form4_1777418320.xml) |
 | PLTR | Palantir Technologies Inc. | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1321655/000182395226000010/xslF345X06/wk-form4_1776470782.xml) |
 | PLTR | Palantir Technologies Inc. | 4 | 2026-03-18 | [View](https://www.sec.gov/Archives/edgar/data/1321655/000182395226000009/xslF345X06/wk-form4_1773878819.xml) |
 | UNH | UNITEDHEALTH GROUP INC | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/731766/000073176626000123/xslF345X06/wk-form4_1777323056.xml) |
 | UNH | UNITEDHEALTH GROUP INC | 4 | 2026-04-06 | [View](https://www.sec.gov/Archives/edgar/data/731766/000073176626000119/xslF345X06/wk-form4_1775509488.xml) |
 | UNH | UNITEDHEALTH GROUP INC | 4 | 2026-04-06 | [View](https://www.sec.gov/Archives/edgar/data/731766/000073176626000118/xslF345X06/wk-form4_1775509482.xml) |
-| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000139/xslF345X06/form4.xml) |
-| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000137/xslF345X06/form4.xml) |
-| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000135/xslF345X06/form4.xml) |
-| JNJ | JOHNSON & JOHNSON | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000115/xslF345X06/wk-form4_1777928336.xml) |
-| JNJ | JOHNSON & JOHNSON | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000113/xslF345X06/wk-form4_1777328617.xml) |
-| JNJ | JOHNSON & JOHNSON | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000111/xslF345X06/wk-form4_1777328506.xml) |
 | LLY | ELI LILLY & Co | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/59478/000031601126000015/xslF345X06/form4-05072026_040501.xml) |
 | LLY | ELI LILLY & Co | 4 | 2026-04-21 | [View](https://www.sec.gov/Archives/edgar/data/59478/000126238826000008/xslF345X06/wk-form4_1776802850.xml) |
 | LLY | ELI LILLY & Co | 4 | 2026-04-21 | [View](https://www.sec.gov/Archives/edgar/data/59478/000005947826000038/xslF345X06/wk-form4_1776802736.xml) |
+| JNJ | JOHNSON & JOHNSON | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000115/xslF345X06/wk-form4_1777928336.xml) |
+| JNJ | JOHNSON & JOHNSON | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000113/xslF345X06/wk-form4_1777328617.xml) |
+| JNJ | JOHNSON & JOHNSON | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/200406/000020040626000111/xslF345X06/wk-form4_1777328506.xml) |
 | TMO | THERMO FISHER SCIENTIFIC INC. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/97745/000009774526000089/xslF345X06/form4.xml) |
 | TMO | THERMO FISHER SCIENTIFIC INC. | 4 | 2026-03-31 | [View](https://www.sec.gov/Archives/edgar/data/97745/000009774526000077/xslF345X06/form4.xml) |
 | TMO | THERMO FISHER SCIENTIFIC INC. | 4 | 2026-03-31 | [View](https://www.sec.gov/Archives/edgar/data/97745/000009774526000076/xslF345X06/form4.xml) |
+| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000122289026000003/xslF345X06/form4-05122026_050524.xml) |
+| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000122369026000004/xslF345X06/form4-05122026_050522.xml) |
+| ABBV | AbbVie Inc. | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/1551152/000135558026000002/xslF345X06/form4-05122026_050520.xml) |
 | ISRG | INTUITIVE SURGICAL INC | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1035267/000156173326000010/xslF345X06/edgardoc.xml) |
 | ISRG | INTUITIVE SURGICAL INC | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/1035267/000128062826000012/xslF345X06/edgardoc.xml) |
 | ISRG | INTUITIVE SURGICAL INC | 4 | 2026-04-30 | [View](https://www.sec.gov/Archives/edgar/data/1035267/000185417126000002/xslF345X06/edgardoc.xml) |
+| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000139/xslF345X06/form4.xml) |
+| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000137/xslF345X06/form4.xml) |
+| MRK | Merck & Co., Inc. | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/310158/000031015826000135/xslF345X06/form4.xml) |
+| COP | CONOCOPHILLIPS | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526161476/xslF345X06/ownership.xml) |
+| COP | CONOCOPHILLIPS | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526161472/xslF345X06/ownership.xml) |
+| COP | CONOCOPHILLIPS | 4 | 2026-03-31 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/xslF345X06/ownership.xml) |
 | XOM | EXXON MOBIL CORP | 4 | 2026-03-17 | [View](https://www.sec.gov/Archives/edgar/data/34088/000003408826000052/xslF345X05/form4.xml) |
 | XOM | EXXON MOBIL CORP | 4 | 2026-03-03 | [View](https://www.sec.gov/Archives/edgar/data/34088/000003408826000049/xslF345X05/form4.xml) |
 | CVX | CHEVRON CORP | 4 | 2026-05-08 | [View](https://www.sec.gov/Archives/edgar/data/93410/000009341026000119/xslF345X06/form4.xml) |
@@ -954,46 +971,43 @@
 | SLB | SLB LIMITED/NV | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/87347/000008734726000112/xslF345X06/form4.xml) |
 | SLB | SLB LIMITED/NV | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/87347/000008734726000110/xslF345X06/form4.xml) |
 | SLB | SLB LIMITED/NV | 4 | 2026-05-01 | [View](https://www.sec.gov/Archives/edgar/data/87347/000008734726000108/xslF345X06/form4.xml) |
-| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000097/xslF345X06/form4.xml) |
-| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000095/xslF345X06/form4.xml) |
-| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000093/xslF345X06/form4.xml) |
-| COP | CONOCOPHILLIPS | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526161476/xslF345X06/ownership.xml) |
-| COP | CONOCOPHILLIPS | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526161472/xslF345X06/ownership.xml) |
-| COP | CONOCOPHILLIPS | 4 | 2026-03-31 | [View](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/xslF345X06/ownership.xml) |
-| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000287/xslF345X06/primary_doc.xml) |
-| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000286/xslF345X06/form4.xml) |
-| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000284/xslF345X06/form4.xml) |
 | GS | GOLDMAN SACHS GROUP INC | 4 | 2026-05-08 | [View](https://www.sec.gov/Archives/edgar/data/886982/000185086526000012/xslF345X06/wk-form4_1778270784.xml) |
 | GS | GOLDMAN SACHS GROUP INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/886982/000169370926000009/xslF345X06/wk-form4_1778012362.xml) |
 | GS | GOLDMAN SACHS GROUP INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/886982/000179265326000012/xslF345X06/wk-form4_1778012257.xml) |
+| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000097/xslF345X06/form4.xml) |
+| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000095/xslF345X06/form4.xml) |
+| EOG | EOG RESOURCES INC | 4 | 2026-05-04 | [View](https://www.sec.gov/Archives/edgar/data/821189/000082118926000093/xslF345X06/form4.xml) |
+| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-12 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000287/xslF345X06/primary_doc.xml) |
+| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-07 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000286/xslF345X06/form4.xml) |
+| BAC | BANK OF AMERICA CORP /DE/ | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/70858/000007085826000284/xslF345X06/form4.xml) |
 | JPM | JPMORGAN CHASE & CO | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/19617/000122520826004967/xslF345X06/doc4.xml) |
 | JPM | JPMORGAN CHASE & CO | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/19617/000122520826004966/xslF345X06/doc4.xml) |
 | JPM | JPMORGAN CHASE & CO | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/19617/000122520826004965/xslF345X06/doc4.xml) |
-| V | VISA INC. | 4 | 2026-05-13 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000083/xslF345X06/form4.xml) |
-| V | VISA INC. | 4 | 2026-04-30 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000081/xslF345X06/form4.xml) |
-| V | VISA INC. | 4 | 2026-03-12 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000065/xslF345X05/form4.xml) |
 | MS | MORGAN STANLEY | 4 | 2026-04-20 | [View](https://www.sec.gov/Archives/edgar/data/895421/000162828026026008/xslF345X06/wk-form4_1776716577.xml) |
 | MS | MORGAN STANLEY | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/895421/000162828026025796/xslF345X06/wk-form4_1776458475.xml) |
 | MS | MORGAN STANLEY | 4 | 2026-04-17 | [View](https://www.sec.gov/Archives/edgar/data/895421/000162828026025791/xslF345X06/wk-form4_1776458279.xml) |
 | MA | Mastercard Inc | 4 | 2026-03-03 | [View](https://www.sec.gov/Archives/edgar/data/1141391/000142753126000002/xslF345X05/wk-form4_1772583262.xml) |
 | MA | Mastercard Inc | 4 | 2026-03-03 | [View](https://www.sec.gov/Archives/edgar/data/1141391/000164989926000002/xslF345X05/wk-form4_1772583054.xml) |
 | MA | Mastercard Inc | 4 | 2026-03-03 | [View](https://www.sec.gov/Archives/edgar/data/1141391/000201917526000002/xslF345X05/wk-form4_1772582768.xml) |
-| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000271/xslF345X06/wk-form4_1778498960.xml) |
-| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000270/xslF345X06/wk-form4_1778498952.xml) |
-| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000269/xslF345X06/wk-form4_1778498944.xml) |
 | BLK | BlackRock, Inc. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/2012383/000201238326001792/xslF345X06/form4.xml) |
 | BLK | BlackRock, Inc. | 4 | 2026-04-28 | [View](https://www.sec.gov/Archives/edgar/data/2012383/000201238326001776/xslF345X06/form4.xml) |
 | BLK | BlackRock, Inc. | 4 | 2026-04-02 | [View](https://www.sec.gov/Archives/edgar/data/2012383/000201238326000949/xslF345X06/form4.xml) |
+| V | VISA INC. | 4 | 2026-05-13 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000083/xslF345X06/form4.xml) |
+| V | VISA INC. | 4 | 2026-04-30 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000081/xslF345X06/form4.xml) |
+| V | VISA INC. | 4 | 2026-03-12 | [View](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000065/xslF345X05/form4.xml) |
 | BRK-B | BERKSHIRE HATHAWAY INC | 4 | 2026-05-06 | [View](https://www.sec.gov/Archives/edgar/data/1067983/000119312526209661/xslF345X06/ownership.xml) |
 | BRK-B | BERKSHIRE HATHAWAY INC | 4 | 2026-05-05 | [View](https://www.sec.gov/Archives/edgar/data/1067983/000119312526207021/xslF345X06/ownership.xml) |
 | BRK-B | BERKSHIRE HATHAWAY INC | 4 | 2026-03-27 | [View](https://www.sec.gov/Archives/edgar/data/1067983/000172845126000001/xslF345X06/primary_doc.xml) |
+| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000271/xslF345X06/wk-form4_1778498960.xml) |
+| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000270/xslF345X06/wk-form4_1778498952.xml) |
+| TSM | TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD | 4 | 2026-05-11 | [View](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000269/xslF345X06/wk-form4_1778498944.xml) |
+| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141219/xslF345X06/ownership.xml) |
+| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141217/xslF345X06/ownership.xml) |
+| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141214/xslF345X06/ownership.xml) |
 | TM | TOYOTA MOTOR CORP/ | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/1094517/000094787126000479/xslF345X06/ownership.xml) |
 | TM | TOYOTA MOTOR CORP/ | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/1094517/000094787126000478/xslF345X06/ownership.xml) |
 | TM | TOYOTA MOTOR CORP/ | 4 | 2026-04-27 | [View](https://www.sec.gov/Archives/edgar/data/1094517/000094787126000477/xslF345X06/ownership.xml) |
 | SHOP | SHOPIFY INC. | 4 | 2026-04-29 | [View](https://www.sec.gov/Archives/edgar/data/1594805/000119312526191903/xslF345X06/ownership.xml) |
-| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141219/xslF345X06/ownership.xml) |
-| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141217/xslF345X06/ownership.xml) |
-| BABA | Alibaba Group Holding Ltd | 4 | 2026-04-03 | [View](https://www.sec.gov/Archives/edgar/data/1577552/000119312526141214/xslF345X06/ownership.xml) |
 
 ---
 
@@ -1001,50 +1015,50 @@
 
 | Ticker | Next Earnings | EPS Estimate | Revenue Estimate | FMP EPS Est (Avg) | FMP Rev Est (Avg) |
 |--------|---------------|--------------|------------------|-------------------|-------------------|
-| GLW | 2026-07-28 | N/A | N/A | N/A | N/A |
 | TSLA | 2026-07-22 | N/A | N/A | N/A | N/A |
-| GOOGL | 2026-07-23 | N/A | N/A | N/A | N/A |
-| NVDA | 2026-05-20 | N/A | N/A | N/A | N/A |
-| MSFT | 2026-07-29 | N/A | N/A | N/A | N/A |
-| AMZN | 2026-07-30 | N/A | N/A | N/A | N/A |
 | AAPL | 2026-07-30 | N/A | N/A | N/A | N/A |
+| AMZN | 2026-07-30 | N/A | N/A | N/A | N/A |
+| GLW | 2026-07-28 | N/A | N/A | N/A | N/A |
 | META | 2026-07-29 | N/A | N/A | N/A | N/A |
+| NVDA | 2026-05-20 | N/A | N/A | N/A | N/A |
+| GOOGL | 2026-07-23 | N/A | N/A | N/A | N/A |
+| MSFT | 2026-07-29 | N/A | N/A | N/A | N/A |
 | ADBE | 2026-06-11 | N/A | N/A | N/A | N/A |
-| ORCL | 2026-06-10 | N/A | N/A | N/A | N/A |
-| SNOW | 2026-05-27 | N/A | N/A | N/A | N/A |
-| AMD | 2026-08-04 | N/A | N/A | N/A | N/A |
 | AVGO | 2026-06-03 | N/A | N/A | N/A | N/A |
-| CRM | 2026-05-27 | N/A | N/A | N/A | N/A |
 | INTC | 2026-07-23 | N/A | N/A | N/A | N/A |
+| ORCL | 2026-06-10 | N/A | N/A | N/A | N/A |
+| AMD | 2026-08-04 | N/A | N/A | N/A | N/A |
+| CRM | 2026-05-27 | N/A | N/A | N/A | N/A |
 | NFLX | 2026-07-16 | N/A | N/A | N/A | N/A |
-| ABBV | 2026-07-30 | N/A | N/A | N/A | N/A |
+| SNOW | 2026-05-27 | N/A | N/A | N/A | N/A |
 | PLTR | 2026-08-03 | N/A | N/A | N/A | N/A |
 | UNH | 2026-07-28 | N/A | N/A | N/A | N/A |
-| MRK | 2026-08-04 | N/A | N/A | N/A | N/A |
-| JNJ | 2026-07-15 | N/A | N/A | N/A | N/A |
 | LLY | 2026-08-05 | N/A | N/A | N/A | N/A |
+| JNJ | 2026-07-15 | N/A | N/A | N/A | N/A |
 | TMO | 2026-07-22 | N/A | N/A | N/A | N/A |
+| ABBV | 2026-07-30 | N/A | N/A | N/A | N/A |
 | ISRG | 2026-07-21 | N/A | N/A | N/A | N/A |
+| MRK | 2026-08-04 | N/A | N/A | N/A | N/A |
+| COP | 2026-08-06 | N/A | N/A | N/A | N/A |
 | XOM | 2026-07-31 | N/A | N/A | N/A | N/A |
 | CVX | 2026-07-31 | N/A | N/A | N/A | N/A |
 | SLB | 2026-07-24 | N/A | N/A | N/A | N/A |
-| EOG | 2026-05-05 | N/A | N/A | N/A | N/A |
-| COP | 2026-08-06 | N/A | N/A | N/A | N/A |
-| BAC | 2026-07-14 | N/A | N/A | N/A | N/A |
 | GS | 2026-07-14 | N/A | N/A | N/A | N/A |
+| EOG | 2026-05-05 | N/A | N/A | N/A | N/A |
+| BAC | 2026-07-14 | N/A | N/A | N/A | N/A |
 | JPM | 2026-07-14 | N/A | N/A | N/A | N/A |
-| V | 2026-07-28 | N/A | N/A | N/A | N/A |
 | MS | 2026-07-15 | N/A | N/A | N/A | N/A |
 | MA | 2026-07-30 | N/A | N/A | N/A | N/A |
+| BLK | 2026-07-15 | N/A | N/A | N/A | N/A |
+| V | 2026-07-28 | N/A | N/A | N/A | N/A |
+| BRK-B | 2026-08-01 | N/A | N/A | N/A | N/A |
 | TSM | 2026-07-16 | N/A | N/A | N/A | N/A |
 | ASML | 2026-07-15 | N/A | N/A | N/A | N/A |
-| BLK | 2026-07-15 | N/A | N/A | N/A | N/A |
-| BRK-B | 2026-08-01 | N/A | N/A | N/A | N/A |
-| TM | 2026-08-06 | N/A | N/A | N/A | N/A |
-| NVO | 2026-08-05 | N/A | N/A | N/A | N/A |
 | SAP | 2026-07-23 | N/A | N/A | N/A | N/A |
-| SHOP | 2026-08-05 | N/A | N/A | N/A | N/A |
+| NVO | 2026-08-05 | N/A | N/A | N/A | N/A |
 | BABA | 2026-05-13 | N/A | N/A | N/A | N/A |
+| TM | 2026-08-06 | N/A | N/A | N/A | N/A |
+| SHOP | 2026-08-05 | N/A | N/A | N/A | N/A |
 
 ---
 
@@ -1052,9 +1066,6 @@
 
 | Indicator | Current | Previous | Date |
 |-----------|---------|----------|------|
-| Fed Funds Rate | 3.64% | 3.64% | 2026-04-01 |
-| 2-Year Treasury | 4.0% | 3.95% | 2026-05-12 |
-| Unemployment Rate | 4.3% | 4.3% | 2026-04-01 |
 | VIX (Fear Index) | 17.87% | 17.99% | 2026-05-13 |
 **VIX Level:** 17.9 — Normal
 
@@ -1064,50 +1075,50 @@
 
 | Ticker | Price | P/E | Fwd P/E | P/S | PEG | DCF Value | Market Cap | Verdict |
 |--------|-------|-----|---------|-----|-----|-----------|------------|---------|
-| GLW | $207.87 | 99.46 | 49.22 | 10.96 | 1.55 | N/A | $178.9B | Earnings accelerating |
-| TSLA | $450.79 | 421.30 | 179.31 | 17.30 | 5.97 | N/A | $1.69T | Earnings accelerating |
-| GOOGL | $401.16 | 30.55 | 27.73 | 11.50 | 1.53 | N/A | $4.86T | Fairly valued |
-| NVDA | $235.15 | 47.99 | 20.68 | 26.37 | 0.70 | N/A | $5.70T | **Undervalued** (PEG<1) |
-| MSFT | $409.36 | 24.40 | 21.15 | 9.55 | 1.26 | N/A | $3.04T | Attractive |
-| AMZN | $268.53 | 32.16 | 27.20 | 3.89 | 1.85 | N/A | $2.89T | Fairly valued |
-| AAPL | $299.05 | 36.25 | 31.25 | 9.73 | 2.58 | N/A | $4.39T | Expensive |
-| META | $623.41 | 22.67 | 17.23 | 7.36 | 0.88 | N/A | $1.58T | **Undervalued** (PEG<1) |
-| ADBE | $236.48 | 13.78 | 8.96 | 3.91 | 0.68 | N/A | $95.6B | **Undervalued** (PEG<1) |
-| ORCL | $198.89 | 35.65 | 24.76 | 8.93 | 1.18 | N/A | $572.1B | Earnings accelerating |
-| SNOW | $151.92 | 62.50 | 62.50 | 11.21 | 4.26 | N/A | $52.5B | Expensive |
-| AMD | $449.19 | 150.73 | 34.80 | 19.56 | 1.08 | N/A | $732.4B | Earnings accelerating |
-| AVGO | $436.04 | 85.00 | 23.96 | 30.23 | 0.91 | N/A | $2.06T | **Undervalued** (PEG<1) |
-| CRM | $168.99 | 21.69 | 11.31 | 3.33 | 0.93 | N/A | $138.2B | **Undervalued** (PEG<1) |
-| INTC | $115.78 | 75.45 | 75.45 | 10.82 | 1.36 | N/A | $581.9B | Fairly valued |
-| NFLX | $88.11 | 28.42 | 22.94 | 7.91 | 1.28 | N/A | $371.0B | Fairly valued |
-| ABBV | $211.43 | 103.64 | 13.04 | 5.95 | 0.57 | N/A | $373.6B | **Undervalued** (PEG<1) |
-| PLTR | $134.08 | 152.38 | 64.95 | 61.53 | 2.02 | N/A | $321.5B | Earnings accelerating |
-| UNH | $400.8 | 30.19 | 19.32 | 0.81 | 1.37 | N/A | $364.0B | Earnings accelerating |
-| MRK | $113.26 | 31.90 | 11.89 | 4.25 | 5.23 | N/A | $279.7B | Earnings accelerating |
-| JNJ | $230.6 | 26.69 | 18.14 | 5.76 | 2.91 | N/A | $555.1B | Earnings accelerating |
-| LLY | $1007.64 | 35.81 | 22.75 | 12.44 | 1.34 | N/A | $898.6B | Earnings accelerating |
-| TMO | $454.17 | 24.95 | 16.62 | 3.73 | 1.51 | N/A | $168.8B | Earnings accelerating |
-| ISRG | $429.97 | 52.37 | 36.44 | 14.39 | 2.27 | N/A | $152.3B | Earnings accelerating |
+| TSLA | $450.58 | 421.10 | 179.23 | 17.29 | 5.97 | N/A | $1.69T | Earnings accelerating |
+| AAPL | $298.83 | 36.22 | 31.22 | 9.72 | 2.58 | N/A | $4.39T | Expensive |
+| AMZN | $268.47 | 32.15 | 27.20 | 3.89 | 1.85 | N/A | $2.89T | Fairly valued |
+| GLW | $208.48 | 99.74 | 49.35 | 10.99 | 1.55 | N/A | $179.4B | Earnings accelerating |
+| META | $622.93 | 22.65 | 17.21 | 7.36 | 0.88 | N/A | $1.58T | **Undervalued** (PEG<1) |
+| NVDA | $235.37 | 48.03 | 20.70 | 26.40 | 0.70 | N/A | $5.70T | **Undervalued** (PEG<1) |
+| GOOGL | $401.0 | 30.54 | 27.73 | 11.50 | 1.53 | N/A | $4.86T | Fairly valued |
+| MSFT | $408.87 | 24.37 | 21.13 | 9.54 | 1.26 | N/A | $3.04T | Attractive |
+| ADBE | $236.31 | 13.77 | 8.96 | 3.91 | 0.68 | N/A | $95.5B | **Undervalued** (PEG<1) |
+| AVGO | $435.79 | 84.95 | 23.94 | 30.22 | 0.91 | N/A | $2.06T | **Undervalued** (PEG<1) |
+| INTC | $116.23 | 75.75 | 75.75 | 10.87 | 1.36 | N/A | $584.2B | Fairly valued |
+| ORCL | $198.89 | 35.64 | 24.76 | 8.93 | 1.18 | N/A | $572.0B | Earnings accelerating |
+| AMD | $449.9 | 150.97 | 34.86 | 19.59 | 1.08 | N/A | $733.6B | Earnings accelerating |
+| CRM | $168.82 | 21.68 | 11.30 | 3.33 | 0.93 | N/A | $138.1B | **Undervalued** (PEG<1) |
+| NFLX | $88.06 | 28.41 | 22.92 | 7.91 | 1.28 | N/A | $370.8B | Fairly valued |
+| SNOW | $152.0 | 62.53 | 62.53 | 11.22 | 4.26 | N/A | $52.5B | Expensive |
+| PLTR | $134.37 | 152.69 | 65.08 | 61.67 | 2.02 | N/A | $322.1B | Earnings accelerating |
+| UNH | $400.85 | 30.18 | 19.31 | 0.81 | 1.37 | N/A | $364.0B | Earnings accelerating |
+| LLY | $1006.89 | 35.78 | 22.74 | 12.43 | 1.34 | N/A | $897.9B | Earnings accelerating |
+| JNJ | $230.5 | 26.68 | 18.14 | 5.76 | 2.91 | N/A | $554.9B | Earnings accelerating |
+| TMO | $453.02 | 24.89 | 16.57 | 3.72 | 1.51 | N/A | $168.4B | Earnings accelerating |
+| ABBV | $211.24 | 103.55 | 13.03 | 5.94 | 0.57 | N/A | $373.2B | **Undervalued** (PEG<1) |
+| ISRG | $430.0 | 52.38 | 36.44 | 14.39 | 2.27 | N/A | $152.3B | Earnings accelerating |
+| MRK | $113.18 | 31.88 | 11.89 | 4.25 | 5.23 | N/A | $279.5B | Earnings accelerating |
+| COP | $118.79 | 20.10 | 13.53 | 2.44 | 1.00 | N/A | $144.7B | Earnings accelerating |
 | XOM | $152.16 | 25.62 | 14.58 | 1.93 | 1.38 | N/A | $630.7B | Earnings accelerating |
-| CVX | $186.34 | 32.41 | 15.57 | 2.00 | 0.82 | N/A | $371.1B | **Undervalued** (PEG<1) |
-| SLB | $55.69 | 24.53 | 16.70 | 2.32 | 1.91 | N/A | $83.3B | Earnings accelerating |
-| EOG | $135.99 | 13.37 | 9.45 | 3.07 | 1.20 | N/A | $72.4B | Earnings accelerating |
-| COP | $118.71 | 20.09 | 13.52 | 2.44 | 1.00 | N/A | $144.6B | Earnings accelerating |
-| BAC | $50.32 | 12.49 | 9.98 | 3.26 | 0.91 | N/A | $357.1B | **Undervalued** (PEG<1) |
-| GS | $973.85 | 17.79 | 14.89 | 4.67 | 1.46 | N/A | $287.3B | Attractive |
-| JPM | $302.38 | 14.47 | 12.85 | 4.67 | 1.62 | N/A | $810.2B | Attractive |
-| V | $322.26 | 28.10 | 21.71 | 14.24 | 1.71 | N/A | $612.9B | Earnings accelerating |
-| MS | $195.74 | 17.71 | 15.41 | 4.22 | 2.31 | N/A | $308.7B | Attractive |
-| MA | $492.62 | 28.52 | 21.65 | 12.83 | 1.60 | N/A | $435.3B | Earnings accelerating |
-| TSM | $418.57 | 35.74 | 21.70 | 0.53 | 1.23 | N/A | $2.17T | Earnings accelerating |
-| ASML | $1586.74 | 51.99 | 33.06 | 18.15 | 2.26 | N/A | $611.6B | Earnings accelerating |
-| BLK | $1105.72 | 27.84 | 18.23 | 6.69 | 1.39 | N/A | $171.6B | Earnings accelerating |
-| BRK-B | $482.7 | 14.37 | 22.73 | 2.77 | 10.06 | N/A | $1.04T | Expensive |
+| CVX | $186.3 | 32.40 | 15.56 | 2.00 | 0.82 | N/A | $371.0B | **Undervalued** (PEG<1) |
+| SLB | $55.66 | 24.52 | 16.69 | 2.32 | 1.91 | N/A | $83.2B | Earnings accelerating |
+| GS | $972.89 | 17.77 | 14.88 | 4.66 | 1.46 | N/A | $287.0B | Attractive |
+| EOG | $135.96 | 13.37 | 9.45 | 3.07 | 1.20 | N/A | $72.4B | Earnings accelerating |
+| BAC | $50.3 | 12.48 | 9.98 | 3.26 | 0.91 | N/A | $357.0B | **Undervalued** (PEG<1) |
+| JPM | $302.22 | 14.46 | 12.84 | 4.67 | 1.62 | N/A | $809.8B | Attractive |
+| MS | $195.69 | 17.71 | 15.41 | 4.22 | 2.31 | N/A | $308.7B | Attractive |
+| MA | $492.25 | 28.50 | 21.63 | 12.82 | 1.60 | N/A | $434.9B | Earnings accelerating |
+| BLK | $1105.13 | 27.82 | 18.22 | 6.69 | 1.39 | N/A | $171.6B | Earnings accelerating |
+| V | $322.1 | 28.08 | 21.70 | 14.24 | 1.71 | N/A | $612.6B | Earnings accelerating |
+| BRK-B | $482.27 | 14.35 | 22.71 | 2.77 | 10.06 | N/A | $1.04T | Expensive |
+| TSM | $418.99 | 35.79 | 21.72 | 0.53 | 1.23 | N/A | $2.17T | Earnings accelerating |
+| ASML | $1585.01 | 51.93 | 33.02 | 18.13 | 2.26 | N/A | $610.9B | Earnings accelerating |
+| SAP | $163.79 | 22.28 | 17.59 | 5.17 | 0.71 | N/A | $193.1B | **Undervalued** (PEG<1) |
+| NVO | $46.24 | 10.70 | 13.64 | 0.63 | 3.43 | N/A | $205.0B | Expensive |
+| BABA | $143.07 | 25.10 | 15.24 | 0.34 | 0.82 | N/A | $343.2B | **Undervalued** (PEG<1) |
 | TM | $191.04 | 10.17 | 12.11 | 0.00 | 1.56 | N/A | $249.0B | Attractive |
-| NVO | $46.22 | 10.70 | 13.63 | 0.62 | 3.43 | N/A | $204.9B | Expensive |
-| SAP | $163.99 | 22.31 | 17.61 | 5.18 | 0.71 | N/A | $193.3B | **Undervalued** (PEG<1) |
-| SHOP | $96.49 | 94.59 | 41.56 | 10.12 | 2.41 | N/A | $125.2B | Earnings accelerating |
-| BABA | $142.91 | 25.07 | 15.22 | 0.33 | 0.82 | N/A | $342.8B | **Undervalued** (PEG<1) |
+| SHOP | $96.43 | 94.54 | 41.54 | 10.12 | 2.41 | N/A | $125.1B | Earnings accelerating |
 
 ---
 
@@ -1179,125 +1190,125 @@
 
 | Ticker | Price | P/E | RSI | Technical | Options | Analyst | Rec | Confidence |
 |--------|-------|-----|-----|-----------|---------|---------|-----|------------|
-| GLW | $207.87 | 99.46 | 70.3 | Bullish but extended | Neutral | 14B/7H/0S | **BUY** | Medium |
-| TSLA | $450.79 | 421.30 | 71.5 | Bullish but extended | Bullish | 29B/24H/8S | HOLD | Medium |
-| GOOGL | $401.16 | 30.55 | 74.2 | Bullish but extended | Bullish | 62B/8H/0S | **BUY** | High |
-| NVDA | $235.15 | 47.99 | 76.5 | Bullish but extended | Bullish | 66B/4H/1S | **BUY** | High |
-| MSFT | $409.36 | 24.40 | 50.3 | Mixed / Transitioning | Bullish | 60B/6H/0S | **BUY** | High |
-| AMZN | $268.53 | 32.16 | 64.8 | Bullish | Bullish | 72B/6H/0S | **BUY** | High |
-| AAPL | $299.05 | 36.25 | 76.1 | Bullish but extended | Bullish | 39B/13H/2S | **BUY** | Medium |
-| META | $623.41 | 22.67 | 48.9 | Mixed / Transitioning | Bullish | 64B/9H/0S | **BUY** | High |
-| ADBE | $236.48 | 13.78 | 41.9 | Bearish | Bullish | 21B/21H/4S | **BUY** | High |
-| ORCL | $198.89 | 35.65 | 67.0 | Mixed / Transitioning | Bullish | 41B/10H/1S | **BUY** | High |
-| SNOW | $151.92 | 62.50 | 53.3 | Bearish | Neutral | 50B/7H/1S | SELL | Medium |
-| AMD | $449.19 | 150.73 | 76.6 | Bullish but extended | Bullish | 45B/13H/1S | **BUY** | Medium |
-| AVGO | $436.04 | 85.00 | 65.1 | Bullish | Bullish | 53B/4H/0S | **BUY** | High |
-| CRM | $168.99 | 21.69 | 40.1 | Bearish | Bullish | 44B/13H/1S | **BUY** | High |
-| INTC | $115.78 | 75.45 | 69.5 | Bullish | Neutral | 18B/33H/3S | **BUY** | High |
-| NFLX | $88.11 | 28.42 | 39.6 | Bearish | Bullish | 46B/13H/0S | **BUY** | Medium |
-| ABBV | $211.43 | 103.64 | 57.4 | Mixed / Transitioning | Bullish | 30B/10H/0S | **BUY** | High |
-| PLTR | $134.08 | 152.38 | 43.6 | Bearish | Bullish | 26B/10H/2S | HOLD | Medium |
-| UNH | $400.8 | 30.19 | 85.2 | GOLDEN CROSS — Strongly Bullish | Bullish | 26B/7H/1S | **BUY** | High |
-| MRK | $113.26 | 31.90 | 47.9 | Mixed / Transitioning | Bullish | 25B/10H/0S | **BUY** | Medium |
-| JNJ | $230.6 | 26.69 | 52.3 | Mixed / Transitioning | Neutral | 20B/12H/0S | **BUY** | Medium |
-| LLY | $1007.64 | 35.81 | 61.5 | Bullish | Bullish | 30B/8H/1S | **BUY** | High |
-| TMO | $454.17 | 24.95 | 39.6 | Bearish | Bearish | 30B/4H/0S | HOLD | Medium |
-| ISRG | $429.97 | 52.37 | 36.8 | Bearish | Bullish | 29B/11H/1S | **BUY** | Medium |
+| TSLA | $450.58 | 421.10 | 71.5 | Bullish but extended | Bullish | 29B/24H/8S | HOLD | Medium |
+| AAPL | $298.83 | 36.22 | 75.9 | Bullish but extended | Bullish | 39B/13H/2S | **BUY** | Medium |
+| AMZN | $268.47 | 32.15 | 64.7 | Bullish | Bullish | 72B/6H/0S | **BUY** | High |
+| GLW | $208.48 | 99.74 | 70.5 | Bullish but extended | Neutral | 14B/7H/0S | **BUY** | Medium |
+| META | $622.93 | 22.65 | 48.8 | Mixed / Transitioning | Bullish | 64B/9H/0S | **BUY** | High |
+| NVDA | $235.37 | 48.03 | 76.6 | Bullish but extended | Bullish | 66B/4H/1S | **BUY** | High |
+| GOOGL | $401.0 | 30.54 | 74.1 | Bullish but extended | Bullish | 62B/8H/0S | **BUY** | High |
+| MSFT | $408.87 | 24.37 | 49.9 | Mixed / Transitioning | Bullish | 60B/6H/0S | **BUY** | High |
+| ADBE | $236.31 | 13.77 | 41.8 | Bearish | Bullish | 21B/21H/4S | **BUY** | High |
+| AVGO | $435.79 | 84.95 | 65.0 | Bullish | Bullish | 53B/4H/0S | **BUY** | High |
+| INTC | $116.23 | 75.75 | 70.0 | Bullish but extended | Neutral | 18B/33H/3S | **BUY** | Medium |
+| ORCL | $198.89 | 35.64 | 67.0 | Mixed / Transitioning | Bullish | 41B/10H/1S | **BUY** | High |
+| AMD | $449.9 | 150.97 | 76.7 | Bullish but extended | Bullish | 45B/13H/1S | **BUY** | Medium |
+| CRM | $168.82 | 21.68 | 39.9 | Bearish | Bullish | 44B/13H/1S | **BUY** | High |
+| NFLX | $88.06 | 28.41 | 39.4 | Bearish | Bullish | 46B/13H/0S | **BUY** | Medium |
+| SNOW | $152.0 | 62.53 | 53.4 | Bearish | Neutral | 50B/7H/1S | SELL | Medium |
+| PLTR | $134.37 | 152.69 | 43.9 | Bearish | Bullish | 26B/10H/2S | HOLD | Medium |
+| UNH | $400.85 | 30.18 | 85.2 | GOLDEN CROSS — Strongly Bullish | Bullish | 26B/7H/1S | **BUY** | High |
+| LLY | $1006.89 | 35.78 | 61.3 | Bullish | Bullish | 30B/8H/1S | **BUY** | High |
+| JNJ | $230.5 | 26.68 | 52.1 | Mixed / Transitioning | Neutral | 20B/12H/0S | **BUY** | Medium |
+| TMO | $453.02 | 24.89 | 39.0 | Bearish | Bearish | 30B/4H/0S | HOLD | Medium |
+| ABBV | $211.24 | 103.55 | 57.2 | Mixed / Transitioning | Bullish | 30B/10H/0S | **BUY** | High |
+| ISRG | $430.0 | 52.38 | 36.8 | Bearish | Bullish | 29B/11H/1S | **BUY** | Medium |
+| MRK | $113.18 | 31.88 | 47.7 | Mixed / Transitioning | Bullish | 25B/10H/0S | **BUY** | Medium |
+| COP | $118.79 | 20.10 | 47.9 | Mixed / Transitioning | Bullish | 23B/9H/1S | **BUY** | High |
 | XOM | $152.16 | 25.62 | 50.8 | Mixed / Transitioning | Bullish | 16B/14H/1S | **BUY** | High |
-| CVX | $186.34 | 32.41 | 46.3 | Mixed / Transitioning | Bullish | 23B/7H/1S | **BUY** | High |
-| SLB | $55.69 | 24.53 | 58.1 | Bullish | Bullish | 27B/4H/2S | **BUY** | High |
-| EOG | $135.99 | 13.37 | 51.7 | Mixed / Transitioning | Bullish | 20B/19H/0S | **BUY** | High |
-| COP | $118.71 | 20.09 | 47.7 | Mixed / Transitioning | Bullish | 23B/9H/1S | **BUY** | High |
-| BAC | $50.32 | 12.49 | 41.4 | Bearish | Bearish | 25B/5H/0S | **BUY** | Medium |
-| GS | $973.85 | 17.79 | 67.0 | Bullish | Bullish | 15B/16H/1S | **BUY** | High |
-| JPM | $302.38 | 14.47 | 46.5 | Mixed / Transitioning | Bullish | 18B/13H/0S | **BUY** | High |
-| V | $322.26 | 28.10 | 55.0 | Mixed / Transitioning | Bullish | 44B/4H/0S | **BUY** | Medium |
-| MS | $195.74 | 17.71 | 65.8 | Bullish | Bullish | 18B/15H/0S | **BUY** | High |
-| MA | $492.62 | 28.52 | 44.1 | Bearish | Bullish | 45B/5H/0S | **BUY** | Medium |
-| TSM | $418.57 | 35.74 | 64.0 | Bullish | Bullish | 41B/2H/0S | **BUY** | High |
-| ASML | $1586.74 | 51.99 | 61.2 | Bullish | Bearish | 34B/6H/2S | **BUY** | Medium |
-| BLK | $1105.72 | 27.84 | 67.3 | Bullish | Bearish | 19B/4H/0S | **BUY** | High |
-| BRK-B | $482.7 | 14.37 | 57.3 | Mixed / Transitioning | Neutral | 1B/3H/6S | HOLD | Medium |
+| CVX | $186.3 | 32.40 | 46.2 | Mixed / Transitioning | Bullish | 23B/7H/1S | **BUY** | High |
+| SLB | $55.66 | 24.52 | 58.0 | Bullish | Bullish | 27B/4H/2S | **BUY** | High |
+| GS | $972.89 | 17.77 | 66.8 | Bullish | Bullish | 15B/16H/1S | **BUY** | High |
+| EOG | $135.96 | 13.37 | 51.7 | Mixed / Transitioning | Bullish | 20B/19H/0S | **BUY** | High |
+| BAC | $50.3 | 12.48 | 41.3 | Bearish | Bearish | 25B/5H/0S | **BUY** | Medium |
+| JPM | $302.22 | 14.46 | 46.3 | Mixed / Transitioning | Bullish | 18B/13H/0S | **BUY** | High |
+| MS | $195.69 | 17.71 | 65.7 | Bullish | Bullish | 18B/15H/0S | **BUY** | High |
+| MA | $492.25 | 28.50 | 43.9 | Bearish | Bullish | 45B/5H/0S | **BUY** | Medium |
+| BLK | $1105.13 | 27.82 | 67.2 | Bullish | Bearish | 19B/4H/0S | **BUY** | High |
+| V | $322.1 | 28.08 | 54.9 | Mixed / Transitioning | Bullish | 44B/4H/0S | **BUY** | Medium |
+| BRK-B | $482.27 | 14.35 | 56.7 | Mixed / Transitioning | Neutral | 1B/3H/6S | HOLD | Medium |
+| TSM | $418.99 | 35.79 | 64.1 | Bullish | Bullish | 41B/2H/0S | **BUY** | High |
+| ASML | $1585.01 | 51.93 | 61.1 | Bullish | Bearish | 34B/6H/2S | **BUY** | Medium |
+| SAP | $163.79 | 22.28 | 41.9 | Bearish | Bullish | 30B/8H/3S | **BUY** | High |
+| NVO | $46.24 | 10.70 | 70.5 | Mixed / Transitioning | Bullish | 12B/23H/2S | **BUY** | Medium |
+| BABA | $143.07 | 25.10 | 59.2 | Mixed / Transitioning | Bullish | 42B/4H/1S | **BUY** | High |
 | TM | $191.04 | 10.17 | 43.7 | Bearish | Bearish | 18B/8H/0S | HOLD | Medium |
-| NVO | $46.22 | 10.70 | 70.3 | Mixed / Transitioning | Bullish | 12B/23H/2S | **BUY** | Medium |
-| SAP | $163.99 | 22.31 | 42.2 | Bearish | Bullish | 30B/8H/3S | **BUY** | High |
-| SHOP | $96.49 | 94.59 | 32.5 | Bearish | Neutral | 43B/12H/1S | SELL | Medium |
-| BABA | $142.91 | 25.07 | 59.0 | Mixed / Transitioning | Bullish | 42B/4H/1S | **BUY** | High |
+| SHOP | $96.43 | 94.54 | 32.4 | Bearish | Neutral | 43B/12H/1S | SELL | Medium |
 
 ### Top Conviction Buys
-- **META** ($623.41) — Mixed / Transitioning, score 5
-- **AVGO** ($436.04) — Bullish, score 5
-- **LLY** ($1007.64) — Bullish, score 5
-- **SLB** ($55.69) — Bullish, score 5
+- **META** ($622.93) — Mixed / Transitioning, score 5
+- **AVGO** ($435.79) — Bullish, score 5
+- **LLY** ($1006.89) — Bullish, score 5
+- **SLB** ($55.66) — Bullish, score 5
 
 ### Top Sells / Risks
-- **SNOW** ($151.92) — Bearish, score -2
-- **SHOP** ($96.49) — Bearish, score -1
+- **SNOW** ($152.0) — Bearish, score -2
+- **SHOP** ($96.43) — Bearish, score -1
 
 ---
 
 ## Portfolio Management ($10K CAD target)
 
-**FX:** USD/CAD = 1.3726  |  **Capital:** $10,000 CAD  |  **Current value:** $10,000 CAD  |  **P&L:** +$0 CAD (+0.00%)
+**FX:** USD/CAD = 1.3723  |  **Capital:** $10,000 CAD  |  **Current value:** $10,000 CAD  |  **P&L:** +$0 CAD (+0.00%)
 
 ### Holdings vs Target
 
 | Ticker | Shares | Avg Cost (USD) | Price (USD) | Value (CAD) | Actual % | Target % | Drift | P&L % | Signal |
 |---|---|---|---|---|---|---|---|---|---|
-| NVDA | 0 | $0.00 | $235.15 | $0 | 0.0% | 7.0% | -7.0pp | +0.0% | BUY High |
-| MSFT | 0 | $0.00 | $409.36 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
-| GOOGL | 0 | $0.00 | $401.16 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
-| META | 0 | $0.00 | $623.41 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
-| AMZN | 0 | $0.00 | $268.53 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
-| AAPL | 0 | $0.00 | $299.05 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY Medium |
-| AVGO | 0 | $0.00 | $436.04 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
-| AMD | 0 | $0.00 | $449.19 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY Medium |
-| PLTR | 0 | $0.00 | $134.08 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | HOLD |
+| NVDA | 0 | $0.00 | $235.37 | $0 | 0.0% | 7.0% | -7.0pp | +0.0% | BUY High |
+| MSFT | 0 | $0.00 | $408.87 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
+| GOOGL | 0 | $0.00 | $401.00 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
+| META | 0 | $0.00 | $622.93 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
+| AMZN | 0 | $0.00 | $268.47 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
+| AAPL | 0 | $0.00 | $298.83 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY Medium |
+| AVGO | 0 | $0.00 | $435.79 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
+| AMD | 0 | $0.00 | $449.90 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY Medium |
+| PLTR | 0 | $0.00 | $134.37 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | HOLD |
 | ORCL | 0 | $0.00 | $198.89 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY High |
-| CRM | 0 | $0.00 | $168.99 | $0 | 0.0% | 2.0% | -2.0pp | +0.0% | BUY High |
-| LLY | 0 | $0.00 | $1007.64 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
-| UNH | 0 | $0.00 | $400.80 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
-| ISRG | 0 | $0.00 | $429.97 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
-| JPM | 0 | $0.00 | $302.38 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
-| V | 0 | $0.00 | $322.26 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY Medium |
-| BRK-B | 0 | $0.00 | $482.70 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | HOLD |
+| CRM | 0 | $0.00 | $168.82 | $0 | 0.0% | 2.0% | -2.0pp | +0.0% | BUY High |
+| LLY | 0 | $0.00 | $1006.89 | $0 | 0.0% | 6.0% | -6.0pp | +0.0% | BUY High |
+| UNH | 0 | $0.00 | $400.85 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
+| ISRG | 0 | $0.00 | $430.00 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
+| JPM | 0 | $0.00 | $302.22 | $0 | 0.0% | 5.0% | -5.0pp | +0.0% | BUY High |
+| V | 0 | $0.00 | $322.10 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY Medium |
+| BRK-B | 0 | $0.00 | $482.27 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | HOLD |
 | XOM | 0 | $0.00 | $152.16 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
-| CVX | 0 | $0.00 | $186.34 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
-| TSM | 0 | $0.00 | $418.57 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
-| ASML | 0 | $0.00 | $1586.74 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
-| NVO | 0 | $0.00 | $46.22 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
+| CVX | 0 | $0.00 | $186.30 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
+| TSM | 0 | $0.00 | $418.99 | $0 | 0.0% | 4.0% | -4.0pp | +0.0% | BUY High |
+| ASML | 0 | $0.00 | $1585.01 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
+| NVO | 0 | $0.00 | $46.24 | $0 | 0.0% | 3.0% | -3.0pp | +0.0% | BUY Medium |
 | CASH | — | — | — | $10000 | 100.0% | 4.0% | — | — | — |
 
 ### Today's Recommended Actions
 
 *Portfolio is uninitialized. Open positions to target weights using the allocation in [portfolio.csv](portfolio.csv). After each trade, update `shares` and `avg_cost` columns and re-run the report.*
 
-**Initial buy plan** (at current USD prices, USD/CAD = 1.3726):
+**Initial buy plan** (at current USD prices, USD/CAD = 1.3723):
 
 | Ticker | Target CAD | At Price (USD) | Shares (approx) | USD Cost |
 |---|---|---|---|---|
-| NVDA | $700 | $235.15 | 2.17 | $510 |
-| MSFT | $600 | $409.36 | 1.07 | $437 |
-| GOOGL | $600 | $401.16 | 1.09 | $437 |
-| META | $500 | $623.41 | 0.58 | $364 |
-| AMZN | $500 | $268.53 | 1.36 | $364 |
-| AAPL | $500 | $299.05 | 1.22 | $364 |
-| AVGO | $500 | $436.04 | 0.84 | $364 |
-| AMD | $400 | $449.19 | 0.65 | $291 |
-| PLTR | $400 | $134.08 | 2.17 | $291 |
+| NVDA | $700 | $235.37 | 2.17 | $510 |
+| MSFT | $600 | $408.87 | 1.07 | $437 |
+| GOOGL | $600 | $401.00 | 1.09 | $437 |
+| META | $500 | $622.93 | 0.58 | $364 |
+| AMZN | $500 | $268.47 | 1.36 | $364 |
+| AAPL | $500 | $298.83 | 1.22 | $364 |
+| AVGO | $500 | $435.79 | 0.84 | $364 |
+| AMD | $400 | $449.90 | 0.65 | $291 |
+| PLTR | $400 | $134.37 | 2.17 | $291 |
 | ORCL | $300 | $198.89 | 1.10 | $219 |
-| CRM | $200 | $168.99 | 0.86 | $146 |
-| LLY | $600 | $1007.64 | 0.43 | $437 |
-| UNH | $400 | $400.80 | 0.73 | $291 |
-| ISRG | $300 | $429.97 | 0.51 | $219 |
-| JPM | $500 | $302.38 | 1.20 | $364 |
-| V | $400 | $322.26 | 0.90 | $291 |
-| BRK-B | $400 | $482.70 | 0.60 | $291 |
+| CRM | $200 | $168.82 | 0.86 | $146 |
+| LLY | $600 | $1006.89 | 0.43 | $437 |
+| UNH | $400 | $400.85 | 0.73 | $291 |
+| ISRG | $300 | $430.00 | 0.51 | $219 |
+| JPM | $500 | $302.22 | 1.21 | $364 |
+| V | $400 | $322.10 | 0.90 | $291 |
+| BRK-B | $400 | $482.27 | 0.60 | $291 |
 | XOM | $400 | $152.16 | 1.92 | $291 |
-| CVX | $400 | $186.34 | 1.56 | $291 |
-| TSM | $400 | $418.57 | 0.70 | $291 |
-| ASML | $300 | $1586.74 | 0.14 | $219 |
-| NVO | $300 | $46.22 | 4.73 | $219 |
+| CVX | $400 | $186.30 | 1.56 | $291 |
+| TSM | $400 | $418.99 | 0.70 | $291 |
+| ASML | $300 | $1585.01 | 0.14 | $219 |
+| NVO | $300 | $46.24 | 4.73 | $219 |
 
 **How to update:** edit [portfolio.csv](portfolio.csv) after each trade — set `shares` to your post-trade total, `avg_cost` to your weighted-average USD cost. Set `CASH` row `shares` to your remaining CAD cash balance. Re-run `python3 report_generator.py` to refresh.
 
