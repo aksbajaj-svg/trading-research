@@ -527,6 +527,16 @@ def run_pipeline():
 
     print(f"\nReport: {filepath} ({len(report):,} chars)")
     print(f"Data:   {json_path}")
+
+    # PDF export (best-effort — won't fail the pipeline if WeasyPrint isn't installed)
+    try:
+        from pdf_export import markdown_to_pdf
+        pdf_path = filepath.replace(".md", ".pdf")
+        markdown_to_pdf(filepath, pdf_path)
+        print(f"PDF:    {pdf_path} ({os.path.getsize(pdf_path):,} bytes)")
+    except Exception as e:
+        print(f"PDF:    skipped ({type(e).__name__}: {e})")
+
     return filepath
 
 

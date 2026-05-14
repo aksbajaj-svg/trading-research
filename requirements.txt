@@ -4,3 +4,5 @@ ta>=0.11.0
 finnhub-python>=2.4.20
 python-dotenv>=1.0.0
 requests>=2.31
+markdown>=3.5
+weasyprint>=60.0
